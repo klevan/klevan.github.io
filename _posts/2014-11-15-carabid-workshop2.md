@@ -104,7 +104,7 @@ A brief look at the data shows that most sites collect all 40 traps on a 14 day 
     bet_field %>% count(siteID,boutNumber) -> numTrapsDeployed
     hist(numTrapsDeployed$n,xlim=c(0,40),col="black",main="Typical number of traps deployed",xlab="Number of traps per site per bout")
 
-![](images/sampling%20interval.png)
+![](//klevan.github.io/images/rfigs/neonCarabidsampling%20interval.png)
 
 ## Trends and Patterns
 Does latitude explain beetle abundance or richness? The relationship can be examined at the level of the trap, the plot or the site; but the pattern may be driven by substantial variation seen in the middle latitudes. 
@@ -115,7 +115,7 @@ Does latitude explain beetle abundance or richness? The relationship can be exam
     sites$cex <- c(rep(1,4),rep(1.5,2),rep(2,4),rep(2.5,1),rep(3,1),rep(3.5,1))
     points(sites$decimalLongitude,sites$decimalLatitude,bg=sites$intensity,cex=sites$cex,pch=21)
 
-![Map of beetle abundance](images/by_site_abundance_map.png)
+![Map of beetle abundance](//klevan.github.io/images/rfigs/neonCarabidby_site_abundance_map.png)
 
     plot(Dmap,col="#ADA96E",bg='#77BFC7',main='Beetle Richness by Site',cex.main=3)
     sites <- sites[order(sites[,'beetleRichness']),]
@@ -123,28 +123,28 @@ Does latitude explain beetle abundance or richness? The relationship can be exam
     sites$cex <- c(rep(1,4),rep(1.5,2),rep(2,4),rep(2.5,1),rep(3,1),rep(3.5,1))
     points(sites$decimalLongitude,sites$decimalLatitude,bg=sites$intensity,cex=sites$cex,pch=21)
 
-![Map of beetle richness](images/by_site_richness_map.png)
+![Map of beetle richness](//klevan.github.io/images/rfigs/neonCarabidby_site_richness_map.png)
 
 ### Plotting latitudinal gradients of beetle abundance and richness at the trap level
 
     plot(bet_field$decimalLatitude,bet_field$beetleAbundance,xlab='Latitude',ylab='Beetle Abundance',pch=21,bg="darkblue")
     plot(bet_field$decimalLatitude,bet_field$beetleRichness,xlab='Latitude',ylab='Beetle Richness',pch=21,bg="darkblue")
 
-![Latitudinal gradients of beetle abundance and richness; data at the trap level](images/by_trap.png)
+![Latitudinal gradients of beetle abundance and richness; data at the trap level](//klevan.github.io/images/rfigs/neonCarabidby_trap.png)
 
 ### Plotting latitudinal gradients of beetle abundance and richness at the plot level
 
     plot(bet_field_plot$decimalLatitude,bet_field_plot$beetleAbundance,xlab='Latitude',ylab='Beetle Abundance',pch=21,bg="turquoise")
     plot(bet_field_plot$decimalLatitude,bet_field_plot$beetleRichness,xlab='Latitude',ylab='Beetle Richness',pch=21,bg="turquoise")
 
-![Latitudinal gradients of beetle abundance and richness; data summarized at the plot level](images/by_plot.png)
+![Latitudinal gradients of beetle abundance and richness; data summarized at the plot level](//klevan.github.io/images/rfigs/neonCarabidby_plot.png)
 
 ### Plotting latitudinal gradients of beetle abundance and richness at the bout level
 
     plot(bet_field_bout$decimalLatitude,bet_field_bout$beetleAbundance,xlab='Latitude',ylab='Beetle Abundance',pch=21,bg="deepskyblue")
     plot(bet_field_bout$decimalLatitude,bet_field_bout$beetleRichness,xlab='Latitude',ylab='Beetle Richness',pch=21,bg="deepskyblue")
 
-![Latitudinal gradients of beetle abundance and richness; data summarized at the collection bout level](images/by_bout.png)
+![Latitudinal gradients of beetle abundance and richness; data summarized at the collection bout level](//klevan.github.io/images/rfigs/neonCarabidby_bout.png)
 
 ### Precipitation and beetle distributions
 
@@ -156,12 +156,12 @@ Precipitation was not homogeneous and largely fell in the southern and eastern U
     sites$cex <- c(rep(1,3),rep(1.5,3),rep(2,3),rep(2.5,2),rep(3,1),rep(3.5,1))
     points(sites$decimalLongitude,sites$decimalLatitude,bg=sites$intensity,cex=sites$cex,pch=21)
 
-![Distribution of rainfall at across sites](images/by_site_rainfall_map.png)
+![Distribution of rainfall at across sites](//klevan.github.io/images/rfigs/neonCarabidby_site_rainfall_map.png)
 
     plot(bet_field$prcp,bet_field$beetleAbundance,xlab='Precipitation (mm)',ylab='Beetle Abundance per trap',bg='blue',pch=21)
     plot(bet_field_plot$prcp,bet_field_plot$beetleAbundance,xlab='Precipitation (mm)',ylab='Beetle Abundance per plot',bg='darkblue',pch=21)
 
-![Effect of rainfall on measured beetle abundance](images/rainfall.png)
+![Effect of rainfall on measured beetle abundance](//klevan.github.io/images/rfigs/neonCarabidrainfall.png)
 
 ### Habitat and beetle distributions
 
@@ -172,7 +172,7 @@ NLCD class is an included variable describing the habitat in which traps are emb
     barplot(nlcd$beetleAbundance,names.arg=nlcd$types,col=nlcd$color,ylab="Beetle Abundance",xlab="",las=2)
     barplot(nlcd$beetleRichness,names.arg=nlcd$types,col=nlcd$color,ylab="Beetle Richness",xlab="",las=2)
 
-![Effect of habitat type on measured beetle abundance](images/nlcd_abundance.png)
+![Effect of habitat type on measured beetle abundance](//klevan.github.io/images/rfigs/neonCarabidnlcd_abundance.png)
 ![Effect of habitat type on measured beetle richness](//klevan.github.io/images/rfigs/neonCarabidnlcd_richness.png)
 
 ## Script Download
