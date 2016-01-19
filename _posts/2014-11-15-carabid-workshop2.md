@@ -44,7 +44,7 @@ If you already have R / RStudio installed on your laptop, please be sure that yo
 <code>library(vegan)</code>
 
 #### Download The Data
-You can download cleaned data files [here](https://github.com/klevan/carabid-workshop/data/zip%20files/cleaned-Data.zip), NOAA weather data for each site [here](https://github.com/klevan/carabid-workshop/data/NOAA%20weather%20data%20for%202014.csv), NEON map shp files [here](https://github.com/klevan/carabid-workshop/data/zip%20files/map%20data.zip) and the script we will be modifying [here](https://github.com/klevan/carabid-workshop/code/data-analysis.R). If you don't have R or R Studio but want to play with the data in a program of your choice, feel free to download the data and explore in whatever application you are comfortable with (JMP, SPSS, Excel, SAS).
+You can download cleaned data files [here](klevan.github.io/carabid-workshop/data/zip%20files/cleaned-Data.zip), NOAA weather data for each site [here](klevan.github.io/carabid-workshop/data/NOAA%20weather%20data%20for%202014.csv), NEON map shp files [here](klevan.github.io/carabid-workshop/data/zip%20files/map%20data.zip) and the script we will be modifying [here](klevan.github.io/carabid-workshop/code/data-analysis.R). If you don't have R or R Studio but want to play with the data in a program of your choice, feel free to download the data and explore in whatever application you are comfortable with (JMP, SPSS, Excel, SAS).
 
 ### Other Resources
 Many resources demonstrating the use of different NEON data products are available at [NEON data skills.org](http://neondataskills.org/Data-Workshops/). New material is being added all the time, so check back frequently!
@@ -92,7 +92,7 @@ Contains information about all carabids that were pinned or pointed. Each sample
 ![A pinned Euryderus grossus](http://www.boldsystems.org/pics/NEONT/carabid546%2B1259940908.jpg)
 
 ## Data Format
-When downloaded from the portal, all data is divided by site. To look at all 13 sites from 2014 will require downloading 39 files (one field, sorting and pinning data for each site) and combining the datasheets across all sites for each type of data (i.e., field, sorting and pinning). I've included an R script that combines and cleans the 2014 data for easy use (available here: [data-cleanup.R](https://github.com/klevan/carabid-workshop/code/data-cleanup.R)) and the 39 original data files (located here zipped: [portal download](https://github.com/klevan/carabid-workshop/data/portal%20download/2014%20beetle%20data.zip)). However, for those that just want the csv files that are the end result, I have provided them [here](https://github.com/klevan/carabid-workshop/data/cleaned%20data/cleaned%20data.zip). Weather data from NOAA for these 13 sites can be found [here](https://github.com/klevan/carabid-workshop/data/NOAA%20weather%20data%20for%202014.csv).
+When downloaded from the portal, all data is divided by site. To look at all 13 sites from 2014 will require downloading 39 files (one field, sorting and pinning data for each site) and combining the datasheets across all sites for each type of data (i.e., field, sorting and pinning). I've included an R script that combines and cleans the 2014 data for easy use (available here: [data-cleanup.R](klevan.github.io/carabid-workshop/code/data-cleanup.R)) and the 39 original data files (located here zipped: [portal download](klevan.github.io/carabid-workshop/data/portal%20download/2014%20beetle%20data.zip)). However, for those that just want the csv files that are the end result, I have provided them [here](klevan.github.io/carabid-workshop/data/cleaned%20data/cleaned%20data.zip). Weather data from NOAA for these 13 sites can be found [here](klevan.github.io/carabid-workshop/data/NOAA%20weather%20data%20for%202014.csv).
  
 # Looking at the data
 
@@ -176,4 +176,4 @@ NLCD class is an included variable describing the habitat in which traps are emb
 ![Effect of habitat type on measured beetle richness](//klevan.github.io/images/rfigs/neonCarabidnlcd_richness.png)
 
 ## Script Download
-To download the script that generated the above plots, click [here](https://github.com/klevan/carabid-workshop/code/data-analysis.R). 
+To download the script that generated the above plots, click [here](klevan.github.io/carabid-workshop/code/data-analysis.R). 
