@@ -44,7 +44,7 @@ If you already have R / RStudio installed on your laptop, please be sure that yo
 <code>library(vegan)</code>
 
 #### Download The Data
-You can download cleaned data files [here](klevan.github.io/carabid-workshop/data/zip%20files/cleaned-Data.zip), NOAA weather data for each site [here](klevan.github.io/carabid-workshop/data/NOAA%20weather%20data%20for%202014.csv), NEON map shp files [here](klevan.github.io/carabid-workshop/data/zip%20files/map%20data.zip) and the script we will be modifying [here](klevan.github.io/carabid-workshop/code/data-analysis.R). If you don't have R or R Studio but want to play with the data in a program of your choice, feel free to download the data and explore in whatever application you are comfortable with (JMP, SPSS, Excel, SAS).
+You can download cleaned data files [here](//klevan.github.io/carabid-workshop/data/zip%20files/cleaned-Data.zip), NOAA weather data for each site [here](klevan.github.io/carabid-workshop/data/NOAA%20weather%20data%20for%202014.csv), NEON map shp files [here](klevan.github.io/carabid-workshop/data/zip%20files/map%20data.zip) and the script we will be modifying [here](klevan.github.io/carabid-workshop/code/data-analysis.R). If you don't have R or R Studio but want to play with the data in a program of your choice, feel free to download the data and explore in whatever application you are comfortable with (JMP, SPSS, Excel, SAS).
 
 ### Other Resources
 Many resources demonstrating the use of different NEON data products are available at [NEON data skills.org](http://neondataskills.org/Data-Workshops/). New material is being added all the time, so check back frequently!
