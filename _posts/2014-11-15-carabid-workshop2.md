@@ -173,7 +173,7 @@ NLCD class is an included variable describing the habitat in which traps are emb
     barplot(nlcd$beetleRichness,names.arg=nlcd$types,col=nlcd$color,ylab="Beetle Richness",xlab="",las=2)
 
 ![Effect of habitat type on measured beetle abundance](images/nlcd_abundance.png)
-![Effect of habitat type on measured beetle richness](images/nlcd_richness.png)
+![Effect of habitat type on measured beetle richness](//klevan.github.io/images/rfigs/neonCarabidnlcd_richness.png)
 
 ## Script Download
 To download the script that generated the above plots, click [here](code/data-analysis.R). 
