@@ -1,25 +1,20 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+title: About me
+tags: [about]
+modified: 2016-01-18T08:53:07.573882-07:00
+comments: false
+share: false
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: lake.jpg
+  credit: Wikimedia Commons
+  creditlink: https://en.wikipedia.org/wiki/Rocky_Mountains#/media/File:Moraine_Lake_17092005.jpg
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+I'm a scientist. I escaped grad school largely unscathed. Gained some coding skills along the way. Ask me anything about ants and I may have something intelligible to say on the subject (this is a hit at parties). 
 
-## Minimal Mistakes is all about:
+## My approach is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Cultivating curiosity
+* Using data to answer questions
+* Intelligent experimental design
