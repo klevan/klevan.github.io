@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carabid workshop"
+title: "Carabid Workshop"
 excerpt: "A workshop about understanding NEON carabid data"
 tags: [WorkWithData, workshop, NEON]
 comments: true
