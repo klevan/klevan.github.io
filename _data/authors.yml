@@ -1,10 +1,20 @@
 # Authors
 
-katherine_levan:
-  name: Katherine LeVan
-  web: http://klevan.github.io
-  email: katherine.levan@gmail.com
-  bio: "Better advice: Float like a butterfly, sting like a wasp (bees don't survive a sting)"
+billy_rick:
+  name: Billy Rick
+  web: http://thewhip.com
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
   avatar: bio-photo.jpg
-  twitter: unknownfrontier
-  github: klevan
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
