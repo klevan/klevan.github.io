@@ -38,8 +38,7 @@ Once you have those installed, you need to get authentication for your R session
     api_secret <- "Your API Secret Key"
     access_token <- "Your Access Token"
     access_token_secret <- "Your Access Token Secret"
-
- `setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)`
+    setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 
 ### Import the data
 All the life history data comes from [Larochelle and Lariviere 2001](data/Larochelle&Lariviere2001.pdf). I have converted the [text from the pdf](data/Larochelle & Lariviere 2001.txt) into a csv file via a [cleanup script](code/data cleanup.R)
@@ -91,11 +90,11 @@ The easiest facts to parse from Larochelle and Lariviere 2001 are:
 
 #### 3. Is the species diurnal, nocturnal or crepuscular
 
-`dayOrNight <- life$dayOrNight[match(beetle_name,life$scientificName)]`
+    dayOrNight <- life$dayOrNight[match(beetle_name,life$scientificName)]
 
 #### 4. Is it predatory?
 
-`predatory <- life$predatory[match(beetle_name,life$scientificName)]`
+    predatory <- life$predatory[match(beetle_name,life$scientificName)]
 
 #### 5. Or rare?
 
