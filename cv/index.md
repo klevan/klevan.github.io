@@ -18,6 +18,7 @@ image:
 ### Data Scientist
 
 **National Ecological Observatory Network:** Staff Scientist *February 2015 to present*
+
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory.
 
 * Developed pipelines and scripts to deliver quality data products on a public data portal; algorithms performed numerous QA/QC checks and modifications on raw data 
@@ -35,9 +36,13 @@ Programming Platforms and Languages
 :   Also familiar with **Python**, **SQL**, **CSS**
 
 ## Education
-2008 - 2013    PhD, Biology *University of California, San Diego (La Jolla, CA)*
+2008 - 2013
 
-2004 - 2008    BS, Biology & Spanish *Tufts University (Medford, MA)*
+:   PhD, Biology *University of California, San Diego (La Jolla, CA)*
+
+2004 - 2008    
+
+:   BS, Biology & Spanish *Tufts University (Medford, MA)*
 
 ## Workshops and Presentations
 2015
