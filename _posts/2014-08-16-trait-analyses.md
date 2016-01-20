@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Trait Diversity vs. Species Richness"
 excerpt: "My opinions on diversity"
@@ -7,7 +7,7 @@ comments: true
 image:
   feature: rainforest.jpg
   credit: Wikimedia Commons
-  creditlink: https://commons.wikimedia.org/wiki/File:Typical_temperate_rainforest_trees_-_geograph.org.uk_-_1633596.jpg
+  creditlink: https://commons.wikimedia.org/wiki/File:El_Yunque_panorama.jpg
 ---
 
 A number of well-written popular science books have drawn attention to ecosystem degradation in the modern era (e.g., Kolbert’s “The Sixth Extinction”, Weisman’s “The World Without Us”, Wilson’s “The Future of Life”). Each highlight the result when high-quality habitat is developed over or degraded; in short, many species become extinct and the ones left behind are fundamentally changed. The popularity of conservation-minded books speaks, I think, to a noble interest on the part of the public to ‘save the environment’. For a lot of folks, that probably boils down to making sure pandas have enough bamboo to live happily in the wild. Nevertheless, these books emphasize the crucial message that change is needed if we are to rehabilitate healthy, diverse ecosystems.
