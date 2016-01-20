@@ -17,7 +17,7 @@ image:
 
 ### Data Scientist
 
-**National Ecological Observatory Network:** Staff Scientist (Current position)
+**National Ecological Observatory Network:** Staff Scientist (Current)
 
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory.
 
