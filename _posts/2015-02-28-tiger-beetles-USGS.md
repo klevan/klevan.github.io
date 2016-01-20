@@ -6,7 +6,7 @@ comments: true
 image:
   feature: tigerBeetle.jpg
   credit: Wikimedia Commons
-  creditlink: https://en.wikipedia.org/wiki/Cicindela_sexguttata#/media/File:Cicindela_sexguttata_-_six-spotted_tiger_beetle_-_desc-iridescent_in_sunlight_on_ground.jpg
+  creditlink: https://upload.wikimedia.org/wikipedia/commons/d/d1/Clivina_fossor_bl.jpg
 ---
 
 The USGS has a great resource where they have compiled species checklists (such as they exist) for a really charismatic group of beetles. They even have a great name (clearly the taxonomist doing the naming decided to be a PR rep for this group): the Tiger Beetles.
