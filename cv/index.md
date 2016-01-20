@@ -17,7 +17,7 @@ image:
 
 ### Data Scientist
 
-**National Ecological Observatory Network:** Staff Scientist *February 2015 to present*
+**National Ecological Observatory Network:** Staff Scientist (Current position)
 
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory.
 
@@ -48,7 +48,8 @@ Programming Platforms and Languages
 2015
 :   **Entomological Society of America** *Big Data Meets Insect Ecology: Examining Insects Continentally
 using NEON Data and R* 
-Conducted an interactive workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
+
+* Conducted an interactive workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
 
 2013
 :   **Ecological Society of America** Presented results of a network analysis at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks.
