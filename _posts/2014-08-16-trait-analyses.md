@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Trait Diversity vs. Species Richness"
 excerpt: "My opinions on diversity"
