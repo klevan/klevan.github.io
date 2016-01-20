@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume
+title: 
 tags: [cv]
 modified: 2016-01-19T08:53:07.573882-07:00
 comments: false
