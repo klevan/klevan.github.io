@@ -12,16 +12,16 @@ image:
 ---
 
 # Katherine E. LeVan
+
 ## Relevant Experience
+
 ### Data Scientist
 
 **National Ecological Observatory Network:** Staff Scientist *February 2015 to present*
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory.
 
 * Developed pipelines and scripts to deliver quality data products on a public data portal; algorithms performed numerous QA/QC checks and modifications on raw data 
-
 * Co-managed a large (~100 full-time, ~200 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
-
 * Created training materials 
 
 ## Technical Experience
@@ -35,16 +35,15 @@ Programming Platforms and Languages
 :   Also familiar with **Python**, **SQL**, **CSS**
 
 ## Education
-2008 - 2013
-:    PhD, Biology *University of California, San Diego (La Jolla, CA)*
+2008 - 2013    PhD, Biology *University of California, San Diego (La Jolla, CA)*
 
-2004 - 2008
-:    BS, Biology & Spanish *Tufts University (Medford, MA)*
+2004 - 2008    BS, Biology & Spanish *Tufts University (Medford, MA)*
 
 ## Workshops and Presentations
 2015
 :   **Entomological Society of America** *Big Data Meets Insect Ecology: Examining Insects Continentally
-using NEON Data and R* \newline Conducted an interactive workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
+using NEON Data and R* 
+Conducted an interactive workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
 
 2013
 :   **Ecological Society of America** Presented results of a network analysis at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks.
