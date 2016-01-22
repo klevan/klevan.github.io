@@ -41,7 +41,7 @@ Once you have those installed, you need to get authentication for your R session
     setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 
 ### Import the data
-All the life history data comes from [Larochelle and Lariviere 2001](data/Larochelle&Lariviere2001.pdf). I have converted the [text from the pdf](data/Larochelle & Lariviere 2001.txt) into a csv file via a [cleanup script](code/data cleanup.R)
+All the life history data comes from [Larochelle and Lariviere 2001](//github.com/klevan/beetleBot/data/Larochelle&Lariviere2001.pdf). I have converted the [text from the pdf](data/Larochelle & Lariviere 2001.txt) into a csv file via a [cleanup script](code/data cleanup.R)
 
     # Import data
     life <- read.csv("~/GitHub/beetleBot/data/lifehist.csv", 
