@@ -11,7 +11,7 @@ image:
 ---
 
 # BOLD: awesome resource, finicky API
-The [National Ecological Observatory Network (NEON)](http://www.neoninc.org) has DNA sequence data hosted on the [Barcode of Life](https://www.boldsystems.org) website. The records available include metadata about collection, spatial-temporal data of captured specimens, DNA sequence from the specimen, and (often) even photos!
+The [National Ecological Observatory Network (NEON)](http://www.neoninc.org) has DNA sequence data hosted on the [Barcode of Life](http://www.boldsystems.org) website. The records available include metadata about collection, spatial-temporal data of captured specimens, DNA sequence from the specimen, and (often) even photos!
 There is an API maintained by BOLD that allows programatic access. Scott Chamberlain made an R package (called 'bold') that makes interacting with this API even easier. However, the R package doesn't directly help you download photos associated with specimen records. 
 As a result, I created a short script that will download the photos from BOLD for any specimen of interest. The Rscript is available [here](https://github.com/klevan/carabid-workshop/blob/master/code/neon-BOLD-data.R).
 
