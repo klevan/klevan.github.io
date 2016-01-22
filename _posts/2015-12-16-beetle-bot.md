@@ -41,7 +41,7 @@ Once you have those installed, you need to get authentication for your R session
     setup_twitter_oauth(api_key,api_secret,access_token,access_token_secret)
 
 ### Import the data
-All the life history data comes from [Larochelle and Lariviere 2001](//github.com/klevan/beetleBot/blob/master/data/Larochelle%26Lariviere2001.pdf). I have converted the [text from the pdf](data/Larochelle & Lariviere 2001.txt) into a csv file via a [cleanup script](code/data cleanup.R)
+All the life history data comes from [Larochelle and Lariviere 2001](//github.com/klevan/beetleBot/blob/master/data/Larochelle%26Lariviere2001.pdf). I have converted the [text from the pdf](//github.com/klevan/beetleBot/blob/master/data/Larochelle & Lariviere 2001.txt) into a csv file via a [cleanup script](//github.com/klevan/beetleBot/blob/master/code/data cleanup.R)
 
     # Import data
     life <- read.csv("~/GitHub/beetleBot/data/lifehist.csv", 
@@ -295,7 +295,7 @@ Denver Museum of Nature and Science
 :   DMNS has some wonderfully high-res images of carabids taken in lateral- and dorsal-view. All the photos from DMNS have their image code stamped on the lower right hand corner of the photo. The format is DMNS_ZE.##### and can be used to look up the physical specimen in their archive.
 
 Ted C. MacRae
-:   A wonderful entomologist. I am a huge fan of his wordpress blog. He takes breathtaking photos of insects in their natural habitats and includes interesting life history in his descriptions of each animal. His website [beetlesinthebush.wordpress.com](beetlesinthebush.wordpress.com) is worth a read. 
+:   A wonderful entomologist. I am a huge fan of his wordpress blog. He takes breathtaking photos of insects in their natural habitats and includes interesting life history in his descriptions of each animal. His website [beetlesinthebush.wordpress.com](http://www.beetlesinthebush.wordpress.com) is worth a read. 
 
 Conservation status of United States tiger beetles
 :   An article (Knisley et al. Terrestrial Arthropod Reviews 7 (2014) 93?145) that includes a rather nice discussion of some of the rare species and subspecies of U.S. Tiger beetles. Has some stellar photos.
