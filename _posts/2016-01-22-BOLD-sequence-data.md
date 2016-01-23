@@ -31,6 +31,7 @@ Only two packages are needed beyond the standard suite of R libraries.
 I was interested in a data frame that contained all the NEON uploaded specimens.
 
     allNEONspecimens <- bold_specimens(institutions = "National Ecological Observatory Network, United States")
+
 If you were interested in in all specimens from a particular country or of a particular species, that's just as easy to find.
 
     bold_specimens(taxon = "Apis mellifera")
@@ -40,6 +41,7 @@ If you were interested in in all specimens from a particular country or of a par
 Scott's package gives you the spatial and temporal metadata associated with a record. To find the image, you first need to know the processID (unique to each specimen) and add it to the url below.
 
     specimenPage <- "http://www.boldsystems.org/index.php/Public_RecordView?processid="
+
 From there, grabbing images is a snap.
 
     noImages <- vector() # A container for image grab failures
@@ -56,6 +58,7 @@ From there, grabbing images is a snap.
         }
       }
     }
+
 Then, I personally appreciate the occasional nice message that tells me when my scripts fail.
 
     if (length(noImages)>0){
@@ -67,6 +70,7 @@ This is a solution for a Windows environment. YMMV, as they say.
 All that is left is to subset your data to the extent you have any image available.
 
     allImages <- allNEONspecimens[is.na(allNEONspecimens$image_urls)==FALSE,c("processid","image_urls")]
+
 And download!!
 
     for (i in allImages$image_urls){
