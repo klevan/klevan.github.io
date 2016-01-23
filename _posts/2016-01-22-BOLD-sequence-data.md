@@ -46,7 +46,8 @@ From there, grabbing images is a snap.
 
     noImages <- vector() # A container for image grab failures
     for(i in 1:dim(allNEONspecimens)[1]){
-      tmp <- try(query <- getNodeSet(htmlParse(paste0(specimenPage,allNEONspecimens$processid[i]),encoding = "UTF-8"),"//img"))
+      tmp <- try(query <- getNodeSet(htmlParse(paste0(specimenPage,allNEONspecimens$processid[i]),
+                                               encoding = "UTF-8"),"//img"))
       if (class(tmp)=="try-error"){
         noImages <- c(noImages,allNEONspecimens$processid[i])
       } else {
