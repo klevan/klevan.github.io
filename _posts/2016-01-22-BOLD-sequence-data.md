@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "NEON data on the BOLD"
-excerpt: "A short script that plays well with the Barcode of Life API"
+title: "NEON data on the BOLD database"
+excerpt: "A short script that gets you photos from the Barcode of Life API"
 tags: [web-scraping, BOLD, NEON, API]
 comments: true
 image:
