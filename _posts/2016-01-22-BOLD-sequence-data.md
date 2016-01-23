@@ -50,9 +50,13 @@ From there, grabbing images is a snap.
       if (class(tmp)=="try-error"){
         noImages <- c(noImages,allNEONspecimens$processid[i])
       } else {
-        a <- unlist(sapply(query,xmlToList)) # parse the data return
+      
+        # parse the data return
+        a <- unlist(sapply(query,xmlToList)) 
+        
+        # choose the correct photo 
         if(length(as.character(a[grepl("http://www.boldsystems.org/pics/",a)]))>0){
-          allNEONspecimens$image_urls[i] <- as.character(a[grepl("http://www.boldsystems.org/pics/",a)]) # choose the correct photo  
+          allNEONspecimens$image_urls[i] <- as.character(a[grepl("http://www.boldsystems.org/pics/",a)]) 
         } else{
           noImages <- c(noImages,allNEONspecimens$processid[i])
         }
@@ -74,7 +78,11 @@ All that is left is to subset your data to the extent you have any image availab
 And download!!
 
     for (i in allImages$image_urls){
-      download.file(url=i,destfile = paste(dirLocation,paste0(basename(allImages$processid[match(i,allImages$image_urls)]),".jpg"),sep="/"), mode = 'wb')
+      download.file(url=i,
+                    destfile = paste(dirLocation,
+                                     paste0(basename(allImages$processid[match(i,allImages$image_urls)]),".jpg"),
+                                     sep="/"), 
+                    mode = 'wb')
     }
 
 Enjoy photos!!
