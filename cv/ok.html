@@ -67,10 +67,9 @@ d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
 d3.json("//klevan.github.io/d3scripts/small_ants.geojson", function(error, world) {
   if (error) throw error;
 
-  svg.insert("path", ".graticule")
-      .datum(topojson.feature(ants, ants.geometry.coordinates))
-      .attr("class", "coordinates")
-      .attr("d", path);
+  svg.append("path")
+    .datum({type: "FeatureCollection", features: features})
+    .attr("d", d3.geo.path());
 
 });
 
