@@ -52,8 +52,8 @@ This is pretty much a textbook case of the species-latitudinal gradient.
 
 <script>
 
-var width = 960,
-    height = 960;
+var width = 500,
+    height = 500;
 
 var projection = d3.geo.stereographic()
     .scale(245)
