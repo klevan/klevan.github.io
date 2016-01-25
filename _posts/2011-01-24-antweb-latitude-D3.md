@@ -1,4 +1,4 @@
-﻿---
+---
 layout: D3-post
 title: "Exploring ant biodiversity"
 excerpt: "Looking at data from AntWeb.org"
@@ -22,6 +22,8 @@ As of January 2016, Ant Web has 548,926 specimen records describing the occurren
 
 ![Each point is an ant occurrence record](//klevan.github.io/images/rfigs/antwebMap1.png)
 From the distribution of recorded ant sightings, there are some obvious gaps in parts of Asia, equitorial Africa, and the Amazon.
+
+<center></center>
 
 Looked at another way, there is a clear positive relationship between documented ant species richness and proximity to the equator. This is a relationship that shows up again and again in ecology.
 
@@ -52,11 +54,11 @@ This is pretty much a textbook case of the species-latitudinal gradient.
 
 <script>
 
-var width = 960,
-    height = 960;
+var width = 500,
+    height = 500;
 
 var projection = d3.geo.stereographic()
-    .scale(245)
+    .scale(123)
     .translate([width / 2, height / 2])
     .rotate([-20, 0])
     .clipAngle(180 - 1e-4)
@@ -68,7 +70,7 @@ var path = d3.geo.path()
 
 var graticule = d3.geo.graticule();
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("center").append("svg")
     .attr("width", width)
     .attr("height", height);
 
