@@ -56,7 +56,7 @@ var width = 500,
     height = 500;
 
 var projection = d3.geo.stereographic()
-    .scale(245)
+    .scale(123)
     .translate([width / 2, height / 2])
     .rotate([-20, 0])
     .clipAngle(180 - 1e-4)
