@@ -97,7 +97,7 @@ d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
 });
 
 var numRecords = svg.append( "g" );
-ants.selectAll( "path" )
+numRecords.selectAll( "path" )
   .data( numRecords.features )
   .enter()
   .append( "path" )
