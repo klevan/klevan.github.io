@@ -1,5 +1,5 @@
----
-layout: post
+﻿---
+layout: D3-post
 title: "Exploring ant biodiversity"
 excerpt: "Looking at data from AntWeb.org"
 tags: [ant, biodiversity, latitude, richness]
@@ -9,6 +9,8 @@ image:
   credit: Wikimedia Commons
   creditlink: https://commons.wikimedia.org/wiki/File:El_Yunque_panorama.jpg
 ---
+
+<script src="//klevan.github.io/d3scripts/small_ants.js"></script>
 
 ## Exploring patterns of ant occurrence data in AntWeb
 Ants are a diverse group with representation in most parts of the globe. I'm interested in using the [AntWeb.org](http://www.antweb.org) API to explore ant populations. My repo at [klevan/antweb](//github.com/klevan/antweb) has the scripts and data summarized in this post. I used `library(XML)`, `library(AntWeb)`, `library(geojsonio)`, `library(dplyr)` and `library(maps)`.
@@ -22,6 +24,8 @@ As of January 2016, Ant Web has 548,926 specimen records describing the occurren
 
 ![Each point is an ant occurrence record](//klevan.github.io/images/rfigs/antwebMap1.png)
 From the distribution of recorded ant sightings, there are some obvious gaps in parts of Asia, equitorial Africa, and the Amazon.
+
+<center></center>
 
 Looked at another way, there is a clear positive relationship between documented ant species richness and proximity to the equator. This is a relationship that shows up again and again in ecology.
 
@@ -49,3 +53,57 @@ Looked at another way, there is a clear positive relationship between documented
 ![Number of ant species per degree latitude](//klevan.github.io/images/rfigs/antwebLatGraph.png)
 
 This is pretty much a textbook case of the species-latitudinal gradient. 
+
+<script>
+
+var width = 500,
+    height = 500;
+
+var projection = d3.geo.stereographic()
+    .scale(123)
+    .translate([width / 2, height / 2])
+    .rotate([-20, 0])
+    .clipAngle(180 - 1e-4)
+    .clipExtent([[0, 0], [width, height]])
+    .precision(.1);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var graticule = d3.geo.graticule();
+
+var svg = d3.select("center").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+svg.append("path")
+    .datum(graticule)
+    .attr("class", "graticule")
+    .attr("d", path);
+
+d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
+  if (error) throw error;
+
+  svg.insert("path", ".graticule")
+      .datum(topojson.feature(world, world.objects.land))
+      .attr("class", "land")
+      .attr("d", path);
+
+  svg.insert("path", ".graticule")
+      .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
+      .attr("class", "boundary")
+      .attr("d", path);
+});
+
+var ants = svg.append("g");
+ants.selectAll("path")
+  .data(small_ants.features)
+  .enter()
+  .append("path")
+  .attr("fill", "#900")
+  .attr("stroke", "#999")
+  .attr("d", path);
+  
+d3.select(self.frameElement).style("height", height + "px");
+
+</script>
