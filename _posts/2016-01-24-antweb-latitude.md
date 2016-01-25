@@ -1,4 +1,4 @@
-﻿---
+---
 layout: D3-post
 title: "Exploring ant biodiversity"
 excerpt: "Looking at data from AntWeb.org"
