@@ -23,6 +23,8 @@ As of January 2016, Ant Web has 548,926 specimen records describing the occurren
 ![Each point is an ant occurrence record](//klevan.github.io/images/rfigs/antwebMap1.png)
 From the distribution of recorded ant sightings, there are some obvious gaps in parts of Asia, equitorial Africa, and the Amazon.
 
+<center></center>
+
 Looked at another way, there is a clear positive relationship between documented ant species richness and proximity to the equator. This is a relationship that shows up again and again in ecology.
 
     antData <- antData[is.na(antData$decimal_latitude)==FALSE,]
@@ -68,7 +70,7 @@ var path = d3.geo.path()
 
 var graticule = d3.geo.graticule();
 
-var svg = d3.select("div").append("svg")
+var svg = d3.select("center").append("svg")
     .attr("width", width)
     .attr("height", height);
 
