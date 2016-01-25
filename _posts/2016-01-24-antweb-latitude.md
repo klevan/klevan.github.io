@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring ant biodiversity"
-excerpt: "Looking at data from AntWeb.org."
+excerpt: "Looking at data from AntWeb.org"
 tags: [ant, biodiversity, latitude, richness]
 comments: true
 image:
