@@ -95,14 +95,14 @@ d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
       .attr("d", path);
 });
 
-var numRecords = svg.append( "g" );
-numRecords.selectAll( "path" )
-  .data( numRecords.features )
+var numRecords = svg.append("g");
+numRecords.selectAll("path")
+  .data(numRecords.features)
   .enter()
-  .append( "path" )
-  .attr( "fill", "#900" )
-  .attr( "stroke", "#999" )
-  .attr( "d", path );
+  .append("path")
+  .attr("fill", "#900")
+  .attr("stroke", "#999")
+  .attr("d", path);
   
 d3.select(self.frameElement).style("height", height + "px");
 
