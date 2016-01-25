@@ -10,6 +10,8 @@ image:
   creditlink: https://commons.wikimedia.org/wiki/File:El_Yunque_panorama.jpg
 ---
 
+<script src="//klevan.github.io/d3scripts/small_ants.js"></script>
+
 ## Exploring patterns of ant occurrence data in AntWeb
 Ants are a diverse group with representation in most parts of the globe. I'm interested in using the [AntWeb.org](http://www.antweb.org) API to explore ant populations. My repo at [klevan/antweb](//github.com/klevan/antweb) has the scripts and data summarized in this post. I used `library(XML)`, `library(AntWeb)`, `library(geojsonio)`, `library(dplyr)` and `library(maps)`.
 
@@ -92,6 +94,15 @@ d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
       .attr("class", "boundary")
       .attr("d", path);
 });
+
+var ants = svg.append( "g" );
+ants.selectAll( "path" )
+  .data( small_ants.features )
+  .enter()
+  .append( "path" )
+  .attr( "fill", "#900" )
+  .attr( "stroke", "#999" )
+  .attr( "d", path );
 
 d3.select(self.frameElement).style("height", height + "px");
 
