@@ -96,24 +96,15 @@ d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
       .attr("d", path);
 });
 
-var ants = svg.append( "g" );
+var numRecords = svg.append( "g" );
 ants.selectAll( "path" )
-  .data( ants1.features )
+  .data( numRecords.features )
   .enter()
   .append( "path" )
   .attr( "fill", "#900" )
   .attr( "stroke", "#999" )
   .attr( "d", path );
   
-var ants = svg.append( "g" );
-ants.selectAll( "path" )
-  .data( ants2.features )
-  .enter()
-  .append( "path" )
-  .attr( "fill", "#900" )
-  .attr( "stroke", "#999" )
-  .attr( "d", path );
-
 d3.select(self.frameElement).style("height", height + "px");
 
 </script>
