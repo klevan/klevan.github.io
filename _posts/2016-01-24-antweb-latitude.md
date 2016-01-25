@@ -71,8 +71,7 @@ var projection = d3.geo.stereographic()
     .precision(.1);
 
 var path = d3.geo.path()
-    .projection(projection)
-    .pointRadius(function(d) { return d.properties.numRecords; });
+    .projection(projection);
 
 var graticule = d3.geo.graticule();
 
@@ -106,7 +105,8 @@ ants.selectAll("path")
   .append("path")
   .attr("fill", "#900")
   .attr("stroke", "#999")
-  .attr("d", path);
+  .attr("d", path)
+  .pointRadius(function(ants) { return ants.properties.numRecords; });
   
 d3.select(self.frameElement).style("height", height + "px");
 
