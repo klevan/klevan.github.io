@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 
 tags: [cv]
@@ -11,6 +11,9 @@ image:
   creditlink: https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg
 ---
 
+<!-- Scripts for D3 -->
+<script src="https://d3js.org/d3.v3.min.js"></script>
+
 # Katherine E. LeVan
 
 ## Relevant Experience
@@ -21,15 +24,15 @@ image:
 
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory.
 
-* Developed pipelines and scripts to deliver quality data products on a public data portal; algorithms performed numerous QA/QC checks and modifications on raw data 
-* Co-managed a large (~100 full-time, ~200 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
-* Created training materials 
+* Develops pipelines and scripts to deliver quality data products on a public data portal; algorithms performed numerous QA/QC checks and modifications on raw data 
+* Co-manages a large (~100 full-time, ~200 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
+* Creates training materials 
 
 ## Technical Experience
 
 Programming Platforms and Languages
 
-:   **R:** Six years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories, 
+:   **R:** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories, 
 
 :   **GitHub:** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors and outputing 
 
@@ -38,11 +41,11 @@ Programming Platforms and Languages
 ## Education
 2008 - 2013
 
-:   PhD, Biology *University of California, San Diego (La Jolla, CA)*
+:   PhD, Biology *University of California, San Diego* (La Jolla, CA)
 
 2004 - 2008    
 
-:   BS, Biology & Spanish *Tufts University (Medford, MA)*
+:   BS, Biology & Spanish *Tufts University* (Medford, MA)
 
 ## Workshops and Presentations
 2015
