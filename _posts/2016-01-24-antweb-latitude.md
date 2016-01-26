@@ -98,15 +98,15 @@ d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
       .attr("d", path);
 });
 
+
 var ants = svg.append("g");
-ants.selectAll("path")
-  .data(sppRichness.features)
-  .enter()
-  .append("path")
-  .attr("fill", "#900")
-  .attr("stroke", "#999")
-  .attr("d", path)
-  .pointRadius(function(ants) { return ants.properties.sppRichness; });
+  ants.selectAll("circle")
+	.data(sppRichness.features).enter()
+	.append("circle")
+	.attr("cx", function (d) { console.log(projection(d)); return projection(d)[0]; })
+	.attr("cy", function (d) { return projection(d)[1]; })
+	.attr("r", ants.properties.sppRichness)
+	.attr("fill", "red")
   
 d3.select(self.frameElement).style("height", height + "px");
 
