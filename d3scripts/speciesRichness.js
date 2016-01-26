@@ -8,7 +8,7 @@
         "coordinates": [-179.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.5119
+        "sppRichness": 2.0475
       }
     },
     {
@@ -18,7 +18,7 @@
         "coordinates": [-178.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -28,7 +28,7 @@
         "coordinates": [-178.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -38,7 +38,7 @@
         "coordinates": [-176.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -48,7 +48,7 @@
         "coordinates": [-175.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -58,7 +58,7 @@
         "coordinates": [-173.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -68,7 +68,7 @@
         "coordinates": [-172.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -78,7 +78,7 @@
         "coordinates": [-171.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -88,7 +88,7 @@
         "coordinates": [-171.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -98,7 +98,7 @@
         "coordinates": [-171.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -108,7 +108,7 @@
         "coordinates": [-170.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -118,7 +118,7 @@
         "coordinates": [-169.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -128,7 +128,7 @@
         "coordinates": [-165.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -138,7 +138,7 @@
         "coordinates": [-165.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -148,7 +148,7 @@
         "coordinates": [-162.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -158,7 +158,7 @@
         "coordinates": [-159.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -168,7 +168,7 @@
         "coordinates": [-159.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -178,7 +178,7 @@
         "coordinates": [-159.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -188,7 +188,7 @@
         "coordinates": [-158.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -198,7 +198,7 @@
         "coordinates": [-158.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -208,7 +208,7 @@
         "coordinates": [-158.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -218,7 +218,7 @@
         "coordinates": [-157.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -228,7 +228,7 @@
         "coordinates": [-157.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -238,7 +238,7 @@
         "coordinates": [-156.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -248,7 +248,7 @@
         "coordinates": [-155.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -258,7 +258,7 @@
         "coordinates": [-154.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -268,7 +268,7 @@
         "coordinates": [-154.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -278,7 +278,7 @@
         "coordinates": [-154.5, 57.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -288,7 +288,7 @@
         "coordinates": [-151.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -298,7 +298,7 @@
         "coordinates": [-151.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -308,7 +308,7 @@
         "coordinates": [-151.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -318,7 +318,7 @@
         "coordinates": [-149.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -328,7 +328,7 @@
         "coordinates": [-148.5, 61.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -338,7 +338,7 @@
         "coordinates": [-147.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -348,7 +348,7 @@
         "coordinates": [-147.5, 61.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -358,7 +358,7 @@
         "coordinates": [-144.5, 61.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -368,7 +368,7 @@
         "coordinates": [-143.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -378,7 +378,7 @@
         "coordinates": [-138.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -388,7 +388,7 @@
         "coordinates": [-134.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -398,7 +398,7 @@
         "coordinates": [-134.5, 58.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -408,7 +408,7 @@
         "coordinates": [-125.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -418,7 +418,7 @@
         "coordinates": [-124.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -428,7 +428,7 @@
         "coordinates": [-124.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -438,7 +438,7 @@
         "coordinates": [-124.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -448,7 +448,7 @@
         "coordinates": [-124.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -458,7 +458,7 @@
         "coordinates": [-124.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -468,7 +468,7 @@
         "coordinates": [-123.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -478,7 +478,7 @@
         "coordinates": [-123.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -488,7 +488,7 @@
         "coordinates": [-123.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -498,7 +498,7 @@
         "coordinates": [-123.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -508,7 +508,7 @@
         "coordinates": [-123.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -518,7 +518,7 @@
         "coordinates": [-123.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -528,7 +528,7 @@
         "coordinates": [-123.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -538,7 +538,7 @@
         "coordinates": [-123.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -548,7 +548,7 @@
         "coordinates": [-123.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -558,7 +558,7 @@
         "coordinates": [-123.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -568,7 +568,7 @@
         "coordinates": [-123.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -578,7 +578,7 @@
         "coordinates": [-122.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -588,7 +588,7 @@
         "coordinates": [-122.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.5667
+        "sppRichness": 2.2669
       }
     },
     {
@@ -598,7 +598,7 @@
         "coordinates": [-122.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.5941
+        "sppRichness": 2.3766
       }
     },
     {
@@ -608,7 +608,7 @@
         "coordinates": [-122.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.2651
+        "sppRichness": 1.0603
       }
     },
     {
@@ -618,7 +618,7 @@
         "coordinates": [-122.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -628,7 +628,7 @@
         "coordinates": [-122.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -638,7 +638,7 @@
         "coordinates": [-122.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -648,7 +648,7 @@
         "coordinates": [-122.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -658,7 +658,7 @@
         "coordinates": [-122.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -668,7 +668,7 @@
         "coordinates": [-122.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -678,7 +678,7 @@
         "coordinates": [-122.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.3199
+        "sppRichness": 1.2797
       }
     },
     {
@@ -688,7 +688,7 @@
         "coordinates": [-122.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -698,7 +698,7 @@
         "coordinates": [-121.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -708,7 +708,7 @@
         "coordinates": [-121.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -718,7 +718,7 @@
         "coordinates": [-121.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.4296
+        "sppRichness": 1.7185
       }
     },
     {
@@ -728,7 +728,7 @@
         "coordinates": [-121.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.4296
+        "sppRichness": 1.7185
       }
     },
     {
@@ -738,7 +738,7 @@
         "coordinates": [-121.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -748,7 +748,7 @@
         "coordinates": [-121.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -758,7 +758,7 @@
         "coordinates": [-121.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -768,7 +768,7 @@
         "coordinates": [-121.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -778,7 +778,7 @@
         "coordinates": [-121.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -788,7 +788,7 @@
         "coordinates": [-121.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -798,7 +798,7 @@
         "coordinates": [-121.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -808,7 +808,7 @@
         "coordinates": [-121.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.3382
+        "sppRichness": 1.3528
       }
     },
     {
@@ -818,7 +818,7 @@
         "coordinates": [-121.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -828,7 +828,7 @@
         "coordinates": [-120.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -838,7 +838,7 @@
         "coordinates": [-120.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -848,7 +848,7 @@
         "coordinates": [-120.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -858,7 +858,7 @@
         "coordinates": [-120.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -868,7 +868,7 @@
         "coordinates": [-120.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -878,7 +878,7 @@
         "coordinates": [-120.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -888,7 +888,7 @@
         "coordinates": [-120.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.5302
+        "sppRichness": 2.1207
       }
     },
     {
@@ -898,7 +898,7 @@
         "coordinates": [-120.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -908,7 +908,7 @@
         "coordinates": [-120.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -918,7 +918,7 @@
         "coordinates": [-120.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -928,7 +928,7 @@
         "coordinates": [-120.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.3199
+        "sppRichness": 1.2797
       }
     },
     {
@@ -938,7 +938,7 @@
         "coordinates": [-120.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -948,7 +948,7 @@
         "coordinates": [-119.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -958,7 +958,7 @@
         "coordinates": [-119.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -968,7 +968,7 @@
         "coordinates": [-119.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -978,7 +978,7 @@
         "coordinates": [-119.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -988,7 +988,7 @@
         "coordinates": [-119.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -998,7 +998,7 @@
         "coordinates": [-119.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -1008,7 +1008,7 @@
         "coordinates": [-119.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -1018,7 +1018,7 @@
         "coordinates": [-119.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1028,7 +1028,7 @@
         "coordinates": [-119.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -1038,7 +1038,7 @@
         "coordinates": [-119.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -1048,7 +1048,7 @@
         "coordinates": [-119.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -1058,7 +1058,7 @@
         "coordinates": [-119.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1068,7 +1068,7 @@
         "coordinates": [-118.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -1078,7 +1078,7 @@
         "coordinates": [-118.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -1088,7 +1088,7 @@
         "coordinates": [-118.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -1098,7 +1098,7 @@
         "coordinates": [-118.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -1108,7 +1108,7 @@
         "coordinates": [-118.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -1118,7 +1118,7 @@
         "coordinates": [-118.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -1128,7 +1128,7 @@
         "coordinates": [-118.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -1138,7 +1138,7 @@
         "coordinates": [-118.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1148,7 +1148,7 @@
         "coordinates": [-118.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1158,7 +1158,7 @@
         "coordinates": [-118.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -1168,7 +1168,7 @@
         "coordinates": [-117.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -1178,7 +1178,7 @@
         "coordinates": [-117.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -1188,7 +1188,7 @@
         "coordinates": [-117.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -1198,7 +1198,7 @@
         "coordinates": [-117.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -1208,7 +1208,7 @@
         "coordinates": [-117.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -1218,7 +1218,7 @@
         "coordinates": [-117.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1228,7 +1228,7 @@
         "coordinates": [-117.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -1238,7 +1238,7 @@
         "coordinates": [-117.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.2742
+        "sppRichness": 1.0969
       }
     },
     {
@@ -1248,7 +1248,7 @@
         "coordinates": [-117.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -1258,7 +1258,7 @@
         "coordinates": [-117.5, 52.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1268,7 +1268,7 @@
         "coordinates": [-116.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -1278,7 +1278,7 @@
         "coordinates": [-116.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -1288,7 +1288,7 @@
         "coordinates": [-116.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -1298,7 +1298,7 @@
         "coordinates": [-116.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -1308,7 +1308,7 @@
         "coordinates": [-116.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -1318,7 +1318,7 @@
         "coordinates": [-116.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -1328,7 +1328,7 @@
         "coordinates": [-116.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1338,7 +1338,7 @@
         "coordinates": [-115.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -1348,7 +1348,7 @@
         "coordinates": [-115.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -1358,7 +1358,7 @@
         "coordinates": [-115.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -1368,7 +1368,7 @@
         "coordinates": [-115.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -1378,7 +1378,7 @@
         "coordinates": [-115.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -1388,7 +1388,7 @@
         "coordinates": [-115.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -1398,7 +1398,7 @@
         "coordinates": [-115.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1408,7 +1408,7 @@
         "coordinates": [-115.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1418,7 +1418,7 @@
         "coordinates": [-114.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1428,7 +1428,7 @@
         "coordinates": [-114.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -1438,7 +1438,7 @@
         "coordinates": [-114.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1448,7 +1448,7 @@
         "coordinates": [-114.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1458,7 +1458,7 @@
         "coordinates": [-114.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -1468,7 +1468,7 @@
         "coordinates": [-114.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -1478,7 +1478,7 @@
         "coordinates": [-114.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1488,7 +1488,7 @@
         "coordinates": [-114.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1498,7 +1498,7 @@
         "coordinates": [-113.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1508,7 +1508,7 @@
         "coordinates": [-113.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -1518,7 +1518,7 @@
         "coordinates": [-113.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -1528,7 +1528,7 @@
         "coordinates": [-113.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1538,7 +1538,7 @@
         "coordinates": [-113.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -1548,7 +1548,7 @@
         "coordinates": [-113.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1558,7 +1558,7 @@
         "coordinates": [-113.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.4296
+        "sppRichness": 1.7185
       }
     },
     {
@@ -1568,7 +1568,7 @@
         "coordinates": [-113.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -1578,7 +1578,7 @@
         "coordinates": [-113.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1588,7 +1588,7 @@
         "coordinates": [-113.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1598,7 +1598,7 @@
         "coordinates": [-112.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1608,7 +1608,7 @@
         "coordinates": [-112.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -1618,7 +1618,7 @@
         "coordinates": [-112.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -1628,7 +1628,7 @@
         "coordinates": [-112.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1638,7 +1638,7 @@
         "coordinates": [-112.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1648,7 +1648,7 @@
         "coordinates": [-112.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -1658,7 +1658,7 @@
         "coordinates": [-112.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -1668,7 +1668,7 @@
         "coordinates": [-112.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1678,7 +1678,7 @@
         "coordinates": [-112.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -1688,7 +1688,7 @@
         "coordinates": [-112.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -1698,7 +1698,7 @@
         "coordinates": [-111.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1708,7 +1708,7 @@
         "coordinates": [-111.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1718,7 +1718,7 @@
         "coordinates": [-111.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1728,7 +1728,7 @@
         "coordinates": [-111.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1738,7 +1738,7 @@
         "coordinates": [-111.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1748,7 +1748,7 @@
         "coordinates": [-111.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -1758,7 +1758,7 @@
         "coordinates": [-111.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -1768,7 +1768,7 @@
         "coordinates": [-111.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -1778,7 +1778,7 @@
         "coordinates": [-111.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -1788,7 +1788,7 @@
         "coordinates": [-111.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -1798,7 +1798,7 @@
         "coordinates": [-111.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -1808,7 +1808,7 @@
         "coordinates": [-111.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1818,7 +1818,7 @@
         "coordinates": [-111.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.5667
+        "sppRichness": 2.2669
       }
     },
     {
@@ -1828,7 +1828,7 @@
         "coordinates": [-111.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -1838,7 +1838,7 @@
         "coordinates": [-111.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -1848,7 +1848,7 @@
         "coordinates": [-111.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1858,7 +1858,7 @@
         "coordinates": [-110.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -1868,7 +1868,7 @@
         "coordinates": [-110.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1878,7 +1878,7 @@
         "coordinates": [-110.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1888,7 +1888,7 @@
         "coordinates": [-110.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1898,7 +1898,7 @@
         "coordinates": [-110.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -1908,7 +1908,7 @@
         "coordinates": [-110.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -1918,7 +1918,7 @@
         "coordinates": [-110.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -1928,7 +1928,7 @@
         "coordinates": [-110.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1938,7 +1938,7 @@
         "coordinates": [-110.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1948,7 +1948,7 @@
         "coordinates": [-110.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -1958,7 +1958,7 @@
         "coordinates": [-110.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -1968,7 +1968,7 @@
         "coordinates": [-110.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -1978,7 +1978,7 @@
         "coordinates": [-110.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -1988,7 +1988,7 @@
         "coordinates": [-110.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -1998,7 +1998,7 @@
         "coordinates": [-110.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2008,7 +2008,7 @@
         "coordinates": [-109.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2018,7 +2018,7 @@
         "coordinates": [-109.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2028,7 +2028,7 @@
         "coordinates": [-109.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2038,7 +2038,7 @@
         "coordinates": [-109.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2048,7 +2048,7 @@
         "coordinates": [-109.5, 31.5]
       },
       "properties": {
-        "sppRichness": 1.3163
+        "sppRichness": 5.2651
       }
     },
     {
@@ -2058,7 +2058,7 @@
         "coordinates": [-109.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -2068,7 +2068,7 @@
         "coordinates": [-109.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2078,7 +2078,7 @@
         "coordinates": [-109.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -2088,7 +2088,7 @@
         "coordinates": [-109.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2098,7 +2098,7 @@
         "coordinates": [-109.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.4205
+        "sppRichness": 1.6819
       }
     },
     {
@@ -2108,7 +2108,7 @@
         "coordinates": [-109.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -2118,7 +2118,7 @@
         "coordinates": [-108.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2128,7 +2128,7 @@
         "coordinates": [-108.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2138,7 +2138,7 @@
         "coordinates": [-108.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2148,7 +2148,7 @@
         "coordinates": [-108.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2158,7 +2158,7 @@
         "coordinates": [-108.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2168,7 +2168,7 @@
         "coordinates": [-108.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -2178,7 +2178,7 @@
         "coordinates": [-107.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -2188,7 +2188,7 @@
         "coordinates": [-107.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2198,7 +2198,7 @@
         "coordinates": [-107.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2208,7 +2208,7 @@
         "coordinates": [-107.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2218,7 +2218,7 @@
         "coordinates": [-106.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2228,7 +2228,7 @@
         "coordinates": [-106.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2238,7 +2238,7 @@
         "coordinates": [-106.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2248,7 +2248,7 @@
         "coordinates": [-106.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2258,7 +2258,7 @@
         "coordinates": [-106.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2268,7 +2268,7 @@
         "coordinates": [-106.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2278,7 +2278,7 @@
         "coordinates": [-105.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -2288,7 +2288,7 @@
         "coordinates": [-105.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -2298,7 +2298,7 @@
         "coordinates": [-105.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -2308,7 +2308,7 @@
         "coordinates": [-105.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2318,7 +2318,7 @@
         "coordinates": [-105.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2328,7 +2328,7 @@
         "coordinates": [-105.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2338,7 +2338,7 @@
         "coordinates": [-105.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2348,7 +2348,7 @@
         "coordinates": [-105.5, 54.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2358,7 +2358,7 @@
         "coordinates": [-104.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -2368,7 +2368,7 @@
         "coordinates": [-104.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2378,7 +2378,7 @@
         "coordinates": [-104.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -2388,7 +2388,7 @@
         "coordinates": [-104.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2398,7 +2398,7 @@
         "coordinates": [-104.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2408,7 +2408,7 @@
         "coordinates": [-104.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2418,7 +2418,7 @@
         "coordinates": [-104.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -2428,7 +2428,7 @@
         "coordinates": [-104.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2438,7 +2438,7 @@
         "coordinates": [-104.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2448,7 +2448,7 @@
         "coordinates": [-104.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2458,7 +2458,7 @@
         "coordinates": [-104.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2468,7 +2468,7 @@
         "coordinates": [-103.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2478,7 +2478,7 @@
         "coordinates": [-103.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -2488,7 +2488,7 @@
         "coordinates": [-103.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2498,7 +2498,7 @@
         "coordinates": [-103.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2508,7 +2508,7 @@
         "coordinates": [-103.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2518,7 +2518,7 @@
         "coordinates": [-103.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2528,7 +2528,7 @@
         "coordinates": [-103.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2538,7 +2538,7 @@
         "coordinates": [-102.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2548,7 +2548,7 @@
         "coordinates": [-102.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2558,7 +2558,7 @@
         "coordinates": [-102.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2568,7 +2568,7 @@
         "coordinates": [-102.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2578,7 +2578,7 @@
         "coordinates": [-101.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2588,7 +2588,7 @@
         "coordinates": [-101.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2598,7 +2598,7 @@
         "coordinates": [-101.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2608,7 +2608,7 @@
         "coordinates": [-101.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2618,7 +2618,7 @@
         "coordinates": [-101.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2628,7 +2628,7 @@
         "coordinates": [-101.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -2638,7 +2638,7 @@
         "coordinates": [-100.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2648,7 +2648,7 @@
         "coordinates": [-100.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2658,7 +2658,7 @@
         "coordinates": [-100.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -2668,7 +2668,7 @@
         "coordinates": [-100.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -2678,7 +2678,7 @@
         "coordinates": [-100.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2688,7 +2688,7 @@
         "coordinates": [-100.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2698,7 +2698,7 @@
         "coordinates": [-100.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2708,7 +2708,7 @@
         "coordinates": [-100.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2718,7 +2718,7 @@
         "coordinates": [-99.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2728,7 +2728,7 @@
         "coordinates": [-99.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2738,7 +2738,7 @@
         "coordinates": [-99.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -2748,7 +2748,7 @@
         "coordinates": [-99.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -2758,7 +2758,7 @@
         "coordinates": [-99.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -2768,7 +2768,7 @@
         "coordinates": [-99.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -2778,7 +2778,7 @@
         "coordinates": [-99.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -2788,7 +2788,7 @@
         "coordinates": [-99.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2798,7 +2798,7 @@
         "coordinates": [-99.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -2808,7 +2808,7 @@
         "coordinates": [-99.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -2818,7 +2818,7 @@
         "coordinates": [-99.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2828,7 +2828,7 @@
         "coordinates": [-99.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2838,7 +2838,7 @@
         "coordinates": [-99.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -2848,7 +2848,7 @@
         "coordinates": [-99.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -2858,7 +2858,7 @@
         "coordinates": [-99.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -2868,7 +2868,7 @@
         "coordinates": [-99.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2878,7 +2878,7 @@
         "coordinates": [-98.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2888,7 +2888,7 @@
         "coordinates": [-98.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2898,7 +2898,7 @@
         "coordinates": [-98.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -2908,7 +2908,7 @@
         "coordinates": [-98.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -2918,7 +2918,7 @@
         "coordinates": [-98.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -2928,7 +2928,7 @@
         "coordinates": [-98.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -2938,7 +2938,7 @@
         "coordinates": [-98.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -2948,7 +2948,7 @@
         "coordinates": [-98.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -2958,7 +2958,7 @@
         "coordinates": [-97.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -2968,7 +2968,7 @@
         "coordinates": [-97.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -2978,7 +2978,7 @@
         "coordinates": [-97.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -2988,7 +2988,7 @@
         "coordinates": [-97.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -2998,7 +2998,7 @@
         "coordinates": [-97.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -3008,7 +3008,7 @@
         "coordinates": [-97.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -3018,7 +3018,7 @@
         "coordinates": [-97.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3028,7 +3028,7 @@
         "coordinates": [-97.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3038,7 +3038,7 @@
         "coordinates": [-97.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3048,7 +3048,7 @@
         "coordinates": [-97.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -3058,7 +3058,7 @@
         "coordinates": [-97.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3068,7 +3068,7 @@
         "coordinates": [-97.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -3078,7 +3078,7 @@
         "coordinates": [-96.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3088,7 +3088,7 @@
         "coordinates": [-96.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3098,7 +3098,7 @@
         "coordinates": [-96.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.4753
+        "sppRichness": 1.9013
       }
     },
     {
@@ -3108,7 +3108,7 @@
         "coordinates": [-96.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -3118,7 +3118,7 @@
         "coordinates": [-96.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -3128,7 +3128,7 @@
         "coordinates": [-96.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3138,7 +3138,7 @@
         "coordinates": [-96.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3148,7 +3148,7 @@
         "coordinates": [-96.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3158,7 +3158,7 @@
         "coordinates": [-95.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3168,7 +3168,7 @@
         "coordinates": [-95.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3178,7 +3178,7 @@
         "coordinates": [-95.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -3188,7 +3188,7 @@
         "coordinates": [-95.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3198,7 +3198,7 @@
         "coordinates": [-95.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3208,7 +3208,7 @@
         "coordinates": [-95.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3218,7 +3218,7 @@
         "coordinates": [-95.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3228,7 +3228,7 @@
         "coordinates": [-95.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3238,7 +3238,7 @@
         "coordinates": [-95.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3248,7 +3248,7 @@
         "coordinates": [-95.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3258,7 +3258,7 @@
         "coordinates": [-95.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3268,7 +3268,7 @@
         "coordinates": [-94.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3278,7 +3278,7 @@
         "coordinates": [-94.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3288,7 +3288,7 @@
         "coordinates": [-94.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3298,7 +3298,7 @@
         "coordinates": [-94.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3308,7 +3308,7 @@
         "coordinates": [-94.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3318,7 +3318,7 @@
         "coordinates": [-93.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.7678
+        "sppRichness": 3.0713
       }
     },
     {
@@ -3328,7 +3328,7 @@
         "coordinates": [-93.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -3338,7 +3338,7 @@
         "coordinates": [-93.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3348,7 +3348,7 @@
         "coordinates": [-93.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3358,7 +3358,7 @@
         "coordinates": [-93.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3368,7 +3368,7 @@
         "coordinates": [-93.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3378,7 +3378,7 @@
         "coordinates": [-93.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3388,7 +3388,7 @@
         "coordinates": [-93.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -3398,7 +3398,7 @@
         "coordinates": [-92.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3408,7 +3408,7 @@
         "coordinates": [-92.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.7495
+        "sppRichness": 2.9982
       }
     },
     {
@@ -3418,7 +3418,7 @@
         "coordinates": [-92.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.585
+        "sppRichness": 2.34
       }
     },
     {
@@ -3428,7 +3428,7 @@
         "coordinates": [-92.5, 17.5]
       },
       "properties": {
-        "sppRichness": 1.2706
+        "sppRichness": 5.0823
       }
     },
     {
@@ -3438,7 +3438,7 @@
         "coordinates": [-92.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3448,7 +3448,7 @@
         "coordinates": [-92.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3458,7 +3458,7 @@
         "coordinates": [-92.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3468,7 +3468,7 @@
         "coordinates": [-92.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3478,7 +3478,7 @@
         "coordinates": [-92.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -3488,7 +3488,7 @@
         "coordinates": [-92.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3498,7 +3498,7 @@
         "coordinates": [-92.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3508,7 +3508,7 @@
         "coordinates": [-92.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -3518,7 +3518,7 @@
         "coordinates": [-91.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -3528,7 +3528,7 @@
         "coordinates": [-91.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -3538,7 +3538,7 @@
         "coordinates": [-91.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3548,7 +3548,7 @@
         "coordinates": [-91.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.713
+        "sppRichness": 2.8519
       }
     },
     {
@@ -3558,7 +3558,7 @@
         "coordinates": [-91.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -3568,7 +3568,7 @@
         "coordinates": [-91.5, 16.5]
       },
       "properties": {
-        "sppRichness": 1.3894
+        "sppRichness": 5.5576
       }
     },
     {
@@ -3578,7 +3578,7 @@
         "coordinates": [-91.5, 17.5]
       },
       "properties": {
-        "sppRichness": 1.2614
+        "sppRichness": 5.0457
       }
     },
     {
@@ -3588,7 +3588,7 @@
         "coordinates": [-91.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3598,7 +3598,7 @@
         "coordinates": [-91.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3608,7 +3608,7 @@
         "coordinates": [-91.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3618,7 +3618,7 @@
         "coordinates": [-90.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -3628,7 +3628,7 @@
         "coordinates": [-90.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -3638,7 +3638,7 @@
         "coordinates": [-90.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -3648,7 +3648,7 @@
         "coordinates": [-90.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3658,7 +3658,7 @@
         "coordinates": [-90.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.5759
+        "sppRichness": 2.3035
       }
     },
     {
@@ -3668,7 +3668,7 @@
         "coordinates": [-90.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -3678,7 +3678,7 @@
         "coordinates": [-90.5, 16.5]
       },
       "properties": {
-        "sppRichness": 1.1883
+        "sppRichness": 4.7532
       }
     },
     {
@@ -3688,7 +3688,7 @@
         "coordinates": [-90.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3698,7 +3698,7 @@
         "coordinates": [-90.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3708,7 +3708,7 @@
         "coordinates": [-90.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -3718,7 +3718,7 @@
         "coordinates": [-90.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3728,7 +3728,7 @@
         "coordinates": [-90.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3738,7 +3738,7 @@
         "coordinates": [-90.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3748,7 +3748,7 @@
         "coordinates": [-90.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3758,7 +3758,7 @@
         "coordinates": [-90.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3768,7 +3768,7 @@
         "coordinates": [-89.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3778,7 +3778,7 @@
         "coordinates": [-89.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3788,7 +3788,7 @@
         "coordinates": [-89.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3798,7 +3798,7 @@
         "coordinates": [-89.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.4936
+        "sppRichness": 1.9744
       }
     },
     {
@@ -3808,7 +3808,7 @@
         "coordinates": [-89.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.7038
+        "sppRichness": 2.8154
       }
     },
     {
@@ -3818,7 +3818,7 @@
         "coordinates": [-89.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.6673
+        "sppRichness": 2.6691
       }
     },
     {
@@ -3828,7 +3828,7 @@
         "coordinates": [-89.5, 16.5]
       },
       "properties": {
-        "sppRichness": 1.5174
+        "sppRichness": 6.0695
       }
     },
     {
@@ -3838,7 +3838,7 @@
         "coordinates": [-89.5, 17.5]
       },
       "properties": {
-        "sppRichness": 1.0878
+        "sppRichness": 4.351
       }
     },
     {
@@ -3848,7 +3848,7 @@
         "coordinates": [-89.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3858,7 +3858,7 @@
         "coordinates": [-89.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3868,7 +3868,7 @@
         "coordinates": [-89.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3878,7 +3878,7 @@
         "coordinates": [-89.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3888,7 +3888,7 @@
         "coordinates": [-89.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3898,7 +3898,7 @@
         "coordinates": [-89.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3908,7 +3908,7 @@
         "coordinates": [-89.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3918,7 +3918,7 @@
         "coordinates": [-88.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -3928,7 +3928,7 @@
         "coordinates": [-88.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -3938,7 +3938,7 @@
         "coordinates": [-88.5, 15.5]
       },
       "properties": {
-        "sppRichness": 1.819
+        "sppRichness": 7.2761
       }
     },
     {
@@ -3948,7 +3948,7 @@
         "coordinates": [-88.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -3958,7 +3958,7 @@
         "coordinates": [-88.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3968,7 +3968,7 @@
         "coordinates": [-88.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3978,7 +3978,7 @@
         "coordinates": [-88.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -3988,7 +3988,7 @@
         "coordinates": [-88.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -3998,7 +3998,7 @@
         "coordinates": [-88.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4008,7 +4008,7 @@
         "coordinates": [-88.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -4018,7 +4018,7 @@
         "coordinates": [-88.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4028,7 +4028,7 @@
         "coordinates": [-88.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4038,7 +4038,7 @@
         "coordinates": [-88.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -4048,7 +4048,7 @@
         "coordinates": [-87.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -4058,7 +4058,7 @@
         "coordinates": [-87.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4068,7 +4068,7 @@
         "coordinates": [-87.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -4078,7 +4078,7 @@
         "coordinates": [-87.5, 14.5]
       },
       "properties": {
-        "sppRichness": 1.6728
+        "sppRichness": 6.691
       }
     },
     {
@@ -4088,7 +4088,7 @@
         "coordinates": [-87.5, 15.5]
       },
       "properties": {
-        "sppRichness": 1.6636
+        "sppRichness": 6.6545
       }
     },
     {
@@ -4098,7 +4098,7 @@
         "coordinates": [-87.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4108,7 +4108,7 @@
         "coordinates": [-87.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -4118,7 +4118,7 @@
         "coordinates": [-87.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4128,7 +4128,7 @@
         "coordinates": [-87.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -4138,7 +4138,7 @@
         "coordinates": [-87.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -4148,7 +4148,7 @@
         "coordinates": [-87.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4158,7 +4158,7 @@
         "coordinates": [-87.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -4168,7 +4168,7 @@
         "coordinates": [-86.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -4178,7 +4178,7 @@
         "coordinates": [-86.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -4188,7 +4188,7 @@
         "coordinates": [-86.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.7313
+        "sppRichness": 2.925
       }
     },
     {
@@ -4198,7 +4198,7 @@
         "coordinates": [-86.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.713
+        "sppRichness": 2.8519
       }
     },
     {
@@ -4208,7 +4208,7 @@
         "coordinates": [-86.5, 15.5]
       },
       "properties": {
-        "sppRichness": 1.4168
+        "sppRichness": 5.6673
       }
     },
     {
@@ -4218,7 +4218,7 @@
         "coordinates": [-86.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -4228,7 +4228,7 @@
         "coordinates": [-86.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4238,7 +4238,7 @@
         "coordinates": [-86.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -4248,7 +4248,7 @@
         "coordinates": [-86.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4258,7 +4258,7 @@
         "coordinates": [-86.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4268,7 +4268,7 @@
         "coordinates": [-86.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4278,7 +4278,7 @@
         "coordinates": [-86.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -4288,7 +4288,7 @@
         "coordinates": [-86.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4298,7 +4298,7 @@
         "coordinates": [-86.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4308,7 +4308,7 @@
         "coordinates": [-85.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -4318,7 +4318,7 @@
         "coordinates": [-85.5, 10.5]
       },
       "properties": {
-        "sppRichness": 2.1664
+        "sppRichness": 8.6654
       }
     },
     {
@@ -4328,7 +4328,7 @@
         "coordinates": [-85.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.4113
+        "sppRichness": 1.6453
       }
     },
     {
@@ -4338,7 +4338,7 @@
         "coordinates": [-85.5, 12.5]
       },
       "properties": {
-        "sppRichness": 2.0293
+        "sppRichness": 8.117
       }
     },
     {
@@ -4348,7 +4348,7 @@
         "coordinates": [-85.5, 13.5]
       },
       "properties": {
-        "sppRichness": 1.6271
+        "sppRichness": 6.5082
       }
     },
     {
@@ -4358,7 +4358,7 @@
         "coordinates": [-85.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.5302
+        "sppRichness": 2.1207
       }
     },
     {
@@ -4368,7 +4368,7 @@
         "coordinates": [-85.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4378,7 +4378,7 @@
         "coordinates": [-85.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4388,7 +4388,7 @@
         "coordinates": [-85.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -4398,7 +4398,7 @@
         "coordinates": [-85.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4408,7 +4408,7 @@
         "coordinates": [-85.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -4418,7 +4418,7 @@
         "coordinates": [-85.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -4428,7 +4428,7 @@
         "coordinates": [-84.5, 9.5]
       },
       "properties": {
-        "sppRichness": 1.8464
+        "sppRichness": 7.3857
       }
     },
     {
@@ -4438,7 +4438,7 @@
         "coordinates": [-84.5, 10.5]
       },
       "properties": {
-        "sppRichness": 5
+        "sppRichness": 20
       }
     },
     {
@@ -4448,7 +4448,7 @@
         "coordinates": [-84.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -4458,7 +4458,7 @@
         "coordinates": [-84.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -4468,7 +4468,7 @@
         "coordinates": [-84.5, 13.5]
       },
       "properties": {
-        "sppRichness": 1.7642
+        "sppRichness": 7.0567
       }
     },
     {
@@ -4478,7 +4478,7 @@
         "coordinates": [-84.5, 15.5]
       },
       "properties": {
-        "sppRichness": 1.6088
+        "sppRichness": 6.4351
       }
     },
     {
@@ -4488,7 +4488,7 @@
         "coordinates": [-84.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4498,7 +4498,7 @@
         "coordinates": [-84.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -4508,7 +4508,7 @@
         "coordinates": [-84.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -4518,7 +4518,7 @@
         "coordinates": [-84.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4528,7 +4528,7 @@
         "coordinates": [-84.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4538,7 +4538,7 @@
         "coordinates": [-84.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -4548,7 +4548,7 @@
         "coordinates": [-83.5, 8.5]
       },
       "properties": {
-        "sppRichness": 2.7057
+        "sppRichness": 10.8227
       }
     },
     {
@@ -4558,7 +4558,7 @@
         "coordinates": [-83.5, 9.5]
       },
       "properties": {
-        "sppRichness": 2.1207
+        "sppRichness": 8.4826
       }
     },
     {
@@ -4568,7 +4568,7 @@
         "coordinates": [-83.5, 10.5]
       },
       "properties": {
-        "sppRichness": 1.6362
+        "sppRichness": 6.5448
       }
     },
     {
@@ -4578,7 +4578,7 @@
         "coordinates": [-83.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -4588,7 +4588,7 @@
         "coordinates": [-83.5, 12.5]
       },
       "properties": {
-        "sppRichness": 1.3071
+        "sppRichness": 5.2285
       }
     },
     {
@@ -4598,7 +4598,7 @@
         "coordinates": [-83.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -4608,7 +4608,7 @@
         "coordinates": [-83.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -4618,7 +4618,7 @@
         "coordinates": [-83.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -4628,7 +4628,7 @@
         "coordinates": [-83.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4638,7 +4638,7 @@
         "coordinates": [-83.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4648,7 +4648,7 @@
         "coordinates": [-83.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -4658,7 +4658,7 @@
         "coordinates": [-83.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -4668,7 +4668,7 @@
         "coordinates": [-83.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4678,7 +4678,7 @@
         "coordinates": [-83.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4688,7 +4688,7 @@
         "coordinates": [-82.5, 8.5]
       },
       "properties": {
-        "sppRichness": 1.5356
+        "sppRichness": 6.1426
       }
     },
     {
@@ -4698,7 +4698,7 @@
         "coordinates": [-82.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.7587
+        "sppRichness": 3.0347
       }
     },
     {
@@ -4708,7 +4708,7 @@
         "coordinates": [-82.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4718,7 +4718,7 @@
         "coordinates": [-82.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4728,7 +4728,7 @@
         "coordinates": [-82.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -4738,7 +4738,7 @@
         "coordinates": [-82.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -4748,7 +4748,7 @@
         "coordinates": [-82.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -4758,7 +4758,7 @@
         "coordinates": [-82.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -4768,7 +4768,7 @@
         "coordinates": [-82.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -4778,7 +4778,7 @@
         "coordinates": [-82.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -4788,7 +4788,7 @@
         "coordinates": [-82.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4798,7 +4798,7 @@
         "coordinates": [-82.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4808,7 +4808,7 @@
         "coordinates": [-82.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4818,7 +4818,7 @@
         "coordinates": [-82.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4828,7 +4828,7 @@
         "coordinates": [-82.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -4838,7 +4838,7 @@
         "coordinates": [-81.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4848,7 +4848,7 @@
         "coordinates": [-81.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -4858,7 +4858,7 @@
         "coordinates": [-81.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4868,7 +4868,7 @@
         "coordinates": [-81.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4878,7 +4878,7 @@
         "coordinates": [-81.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -4888,7 +4888,7 @@
         "coordinates": [-81.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -4898,7 +4898,7 @@
         "coordinates": [-81.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -4908,7 +4908,7 @@
         "coordinates": [-81.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.4662
+        "sppRichness": 1.8647
       }
     },
     {
@@ -4918,7 +4918,7 @@
         "coordinates": [-81.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -4928,7 +4928,7 @@
         "coordinates": [-81.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -4938,7 +4938,7 @@
         "coordinates": [-81.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4948,7 +4948,7 @@
         "coordinates": [-81.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4958,7 +4958,7 @@
         "coordinates": [-81.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -4968,7 +4968,7 @@
         "coordinates": [-81.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -4978,7 +4978,7 @@
         "coordinates": [-80.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -4988,7 +4988,7 @@
         "coordinates": [-80.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -4998,7 +4998,7 @@
         "coordinates": [-80.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5008,7 +5008,7 @@
         "coordinates": [-80.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.5484
+        "sppRichness": 2.1938
       }
     },
     {
@@ -5018,7 +5018,7 @@
         "coordinates": [-80.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -5028,7 +5028,7 @@
         "coordinates": [-80.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5038,7 +5038,7 @@
         "coordinates": [-80.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -5048,7 +5048,7 @@
         "coordinates": [-80.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -5058,7 +5058,7 @@
         "coordinates": [-80.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -5068,7 +5068,7 @@
         "coordinates": [-80.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -5078,7 +5078,7 @@
         "coordinates": [-80.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -5088,7 +5088,7 @@
         "coordinates": [-80.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5098,7 +5098,7 @@
         "coordinates": [-80.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5108,7 +5108,7 @@
         "coordinates": [-79.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5118,7 +5118,7 @@
         "coordinates": [-79.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -5128,7 +5128,7 @@
         "coordinates": [-79.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -5138,7 +5138,7 @@
         "coordinates": [-79.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -5148,7 +5148,7 @@
         "coordinates": [-79.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -5158,7 +5158,7 @@
         "coordinates": [-79.5, 9.5]
       },
       "properties": {
-        "sppRichness": 1.1152
+        "sppRichness": 4.4607
       }
     },
     {
@@ -5168,7 +5168,7 @@
         "coordinates": [-79.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5178,7 +5178,7 @@
         "coordinates": [-79.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -5188,7 +5188,7 @@
         "coordinates": [-79.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -5198,7 +5198,7 @@
         "coordinates": [-79.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -5208,7 +5208,7 @@
         "coordinates": [-79.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5218,7 +5218,7 @@
         "coordinates": [-78.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5228,7 +5228,7 @@
         "coordinates": [-78.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5238,7 +5238,7 @@
         "coordinates": [-78.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -5248,7 +5248,7 @@
         "coordinates": [-78.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -5258,7 +5258,7 @@
         "coordinates": [-78.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -5268,7 +5268,7 @@
         "coordinates": [-78.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -5278,7 +5278,7 @@
         "coordinates": [-78.5, 8.5]
       },
       "properties": {
-        "sppRichness": 1.0603
+        "sppRichness": 4.2413
       }
     },
     {
@@ -5288,7 +5288,7 @@
         "coordinates": [-78.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -5298,7 +5298,7 @@
         "coordinates": [-78.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5308,7 +5308,7 @@
         "coordinates": [-78.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -5318,7 +5318,7 @@
         "coordinates": [-78.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.3199
+        "sppRichness": 1.2797
       }
     },
     {
@@ -5328,7 +5328,7 @@
         "coordinates": [-78.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5338,7 +5338,7 @@
         "coordinates": [-77.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5348,7 +5348,7 @@
         "coordinates": [-77.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5358,7 +5358,7 @@
         "coordinates": [-77.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5368,7 +5368,7 @@
         "coordinates": [-77.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.4388
+        "sppRichness": 1.755
       }
     },
     {
@@ -5378,7 +5378,7 @@
         "coordinates": [-77.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -5388,7 +5388,7 @@
         "coordinates": [-77.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5398,7 +5398,7 @@
         "coordinates": [-77.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5408,7 +5408,7 @@
         "coordinates": [-77.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5418,7 +5418,7 @@
         "coordinates": [-77.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5428,7 +5428,7 @@
         "coordinates": [-77.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -5438,7 +5438,7 @@
         "coordinates": [-77.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5448,7 +5448,7 @@
         "coordinates": [-77.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -5458,7 +5458,7 @@
         "coordinates": [-77.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.2651
+        "sppRichness": 1.0603
       }
     },
     {
@@ -5468,7 +5468,7 @@
         "coordinates": [-77.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -5478,7 +5478,7 @@
         "coordinates": [-77.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5488,7 +5488,7 @@
         "coordinates": [-77.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -5498,7 +5498,7 @@
         "coordinates": [-77.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -5508,7 +5508,7 @@
         "coordinates": [-76.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5518,7 +5518,7 @@
         "coordinates": [-76.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5528,7 +5528,7 @@
         "coordinates": [-76.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5538,7 +5538,7 @@
         "coordinates": [-76.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -5548,7 +5548,7 @@
         "coordinates": [-76.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -5558,7 +5558,7 @@
         "coordinates": [-76.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.3748
+        "sppRichness": 1.4991
       }
     },
     {
@@ -5568,7 +5568,7 @@
         "coordinates": [-76.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -5578,7 +5578,7 @@
         "coordinates": [-76.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5588,7 +5588,7 @@
         "coordinates": [-76.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5598,7 +5598,7 @@
         "coordinates": [-76.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -5608,7 +5608,7 @@
         "coordinates": [-76.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5618,7 +5618,7 @@
         "coordinates": [-76.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -5628,7 +5628,7 @@
         "coordinates": [-76.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5638,7 +5638,7 @@
         "coordinates": [-76.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -5648,7 +5648,7 @@
         "coordinates": [-76.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -5658,7 +5658,7 @@
         "coordinates": [-76.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5668,7 +5668,7 @@
         "coordinates": [-76.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -5678,7 +5678,7 @@
         "coordinates": [-76.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5688,7 +5688,7 @@
         "coordinates": [-76.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5698,7 +5698,7 @@
         "coordinates": [-76.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -5708,7 +5708,7 @@
         "coordinates": [-76.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -5718,7 +5718,7 @@
         "coordinates": [-76.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5728,7 +5728,7 @@
         "coordinates": [-76.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5738,7 +5738,7 @@
         "coordinates": [-75.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5748,7 +5748,7 @@
         "coordinates": [-75.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -5758,7 +5758,7 @@
         "coordinates": [-75.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -5768,7 +5768,7 @@
         "coordinates": [-75.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5778,7 +5778,7 @@
         "coordinates": [-75.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -5788,7 +5788,7 @@
         "coordinates": [-75.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -5798,7 +5798,7 @@
         "coordinates": [-75.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -5808,7 +5808,7 @@
         "coordinates": [-75.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -5818,7 +5818,7 @@
         "coordinates": [-75.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -5828,7 +5828,7 @@
         "coordinates": [-75.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5838,7 +5838,7 @@
         "coordinates": [-75.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5848,7 +5848,7 @@
         "coordinates": [-75.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -5858,7 +5858,7 @@
         "coordinates": [-75.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -5868,7 +5868,7 @@
         "coordinates": [-75.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5878,7 +5878,7 @@
         "coordinates": [-75.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5888,7 +5888,7 @@
         "coordinates": [-75.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5898,7 +5898,7 @@
         "coordinates": [-75.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -5908,7 +5908,7 @@
         "coordinates": [-75.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5918,7 +5918,7 @@
         "coordinates": [-74.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5928,7 +5928,7 @@
         "coordinates": [-74.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5938,7 +5938,7 @@
         "coordinates": [-74.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -5948,7 +5948,7 @@
         "coordinates": [-74.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -5958,7 +5958,7 @@
         "coordinates": [-74.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -5968,7 +5968,7 @@
         "coordinates": [-74.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -5978,7 +5978,7 @@
         "coordinates": [-74.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.649
+        "sppRichness": 2.596
       }
     },
     {
@@ -5988,7 +5988,7 @@
         "coordinates": [-74.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.5119
+        "sppRichness": 2.0475
       }
     },
     {
@@ -5998,7 +5998,7 @@
         "coordinates": [-74.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -6008,7 +6008,7 @@
         "coordinates": [-74.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6018,7 +6018,7 @@
         "coordinates": [-74.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6028,7 +6028,7 @@
         "coordinates": [-73.5, -51.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6038,7 +6038,7 @@
         "coordinates": [-73.5, -50.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6048,7 +6048,7 @@
         "coordinates": [-73.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6058,7 +6058,7 @@
         "coordinates": [-73.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6068,7 +6068,7 @@
         "coordinates": [-73.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -6078,7 +6078,7 @@
         "coordinates": [-73.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -6088,7 +6088,7 @@
         "coordinates": [-73.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -6098,7 +6098,7 @@
         "coordinates": [-73.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6108,7 +6108,7 @@
         "coordinates": [-73.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6118,7 +6118,7 @@
         "coordinates": [-73.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -6128,7 +6128,7 @@
         "coordinates": [-73.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6138,7 +6138,7 @@
         "coordinates": [-73.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -6148,7 +6148,7 @@
         "coordinates": [-73.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6158,7 +6158,7 @@
         "coordinates": [-73.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -6168,7 +6168,7 @@
         "coordinates": [-73.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6178,7 +6178,7 @@
         "coordinates": [-72.5, -50.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6188,7 +6188,7 @@
         "coordinates": [-72.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6198,7 +6198,7 @@
         "coordinates": [-72.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6208,7 +6208,7 @@
         "coordinates": [-72.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -6218,7 +6218,7 @@
         "coordinates": [-72.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6228,7 +6228,7 @@
         "coordinates": [-72.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -6238,7 +6238,7 @@
         "coordinates": [-72.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6248,7 +6248,7 @@
         "coordinates": [-72.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6258,7 +6258,7 @@
         "coordinates": [-72.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6268,7 +6268,7 @@
         "coordinates": [-72.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6278,7 +6278,7 @@
         "coordinates": [-72.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6288,7 +6288,7 @@
         "coordinates": [-72.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6298,7 +6298,7 @@
         "coordinates": [-72.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6308,7 +6308,7 @@
         "coordinates": [-72.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6318,7 +6318,7 @@
         "coordinates": [-72.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6328,7 +6328,7 @@
         "coordinates": [-72.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -6338,7 +6338,7 @@
         "coordinates": [-72.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6348,7 +6348,7 @@
         "coordinates": [-71.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6358,7 +6358,7 @@
         "coordinates": [-71.5, -40.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6368,7 +6368,7 @@
         "coordinates": [-71.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -6378,7 +6378,7 @@
         "coordinates": [-71.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6388,7 +6388,7 @@
         "coordinates": [-71.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6398,7 +6398,7 @@
         "coordinates": [-71.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6408,7 +6408,7 @@
         "coordinates": [-71.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6418,7 +6418,7 @@
         "coordinates": [-71.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -6428,7 +6428,7 @@
         "coordinates": [-71.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6438,7 +6438,7 @@
         "coordinates": [-71.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6448,7 +6448,7 @@
         "coordinates": [-71.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6458,7 +6458,7 @@
         "coordinates": [-71.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6468,7 +6468,7 @@
         "coordinates": [-71.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -6478,7 +6478,7 @@
         "coordinates": [-71.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -6488,7 +6488,7 @@
         "coordinates": [-71.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -6498,7 +6498,7 @@
         "coordinates": [-71.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -6508,7 +6508,7 @@
         "coordinates": [-71.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6518,7 +6518,7 @@
         "coordinates": [-71.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6528,7 +6528,7 @@
         "coordinates": [-71.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -6538,7 +6538,7 @@
         "coordinates": [-71.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6548,7 +6548,7 @@
         "coordinates": [-71.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -6558,7 +6558,7 @@
         "coordinates": [-70.5, -53.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6568,7 +6568,7 @@
         "coordinates": [-70.5, -47.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6578,7 +6578,7 @@
         "coordinates": [-70.5, -45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6588,7 +6588,7 @@
         "coordinates": [-70.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6598,7 +6598,7 @@
         "coordinates": [-70.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6608,7 +6608,7 @@
         "coordinates": [-70.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6618,7 +6618,7 @@
         "coordinates": [-70.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6628,7 +6628,7 @@
         "coordinates": [-70.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6638,7 +6638,7 @@
         "coordinates": [-70.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -6648,7 +6648,7 @@
         "coordinates": [-70.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -6658,7 +6658,7 @@
         "coordinates": [-70.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6668,7 +6668,7 @@
         "coordinates": [-70.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.4205
+        "sppRichness": 1.6819
       }
     },
     {
@@ -6678,7 +6678,7 @@
         "coordinates": [-70.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -6688,7 +6688,7 @@
         "coordinates": [-70.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6698,7 +6698,7 @@
         "coordinates": [-70.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -6708,7 +6708,7 @@
         "coordinates": [-70.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6718,7 +6718,7 @@
         "coordinates": [-70.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -6728,7 +6728,7 @@
         "coordinates": [-70.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -6738,7 +6738,7 @@
         "coordinates": [-69.5, -45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6748,7 +6748,7 @@
         "coordinates": [-69.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6758,7 +6758,7 @@
         "coordinates": [-69.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6768,7 +6768,7 @@
         "coordinates": [-69.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6778,7 +6778,7 @@
         "coordinates": [-69.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6788,7 +6788,7 @@
         "coordinates": [-69.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6798,7 +6798,7 @@
         "coordinates": [-69.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6808,7 +6808,7 @@
         "coordinates": [-69.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -6818,7 +6818,7 @@
         "coordinates": [-69.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.5027
+        "sppRichness": 2.011
       }
     },
     {
@@ -6828,7 +6828,7 @@
         "coordinates": [-69.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6838,7 +6838,7 @@
         "coordinates": [-69.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6848,7 +6848,7 @@
         "coordinates": [-69.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6858,7 +6858,7 @@
         "coordinates": [-69.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -6868,7 +6868,7 @@
         "coordinates": [-69.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6878,7 +6878,7 @@
         "coordinates": [-69.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -6888,7 +6888,7 @@
         "coordinates": [-69.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -6898,7 +6898,7 @@
         "coordinates": [-68.5, -49.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6908,7 +6908,7 @@
         "coordinates": [-68.5, -45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6918,7 +6918,7 @@
         "coordinates": [-68.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6928,7 +6928,7 @@
         "coordinates": [-68.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6938,7 +6938,7 @@
         "coordinates": [-68.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6948,7 +6948,7 @@
         "coordinates": [-68.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6958,7 +6958,7 @@
         "coordinates": [-68.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6968,7 +6968,7 @@
         "coordinates": [-68.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6978,7 +6978,7 @@
         "coordinates": [-68.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -6988,7 +6988,7 @@
         "coordinates": [-68.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -6998,7 +6998,7 @@
         "coordinates": [-68.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7008,7 +7008,7 @@
         "coordinates": [-68.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7018,7 +7018,7 @@
         "coordinates": [-67.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7028,7 +7028,7 @@
         "coordinates": [-67.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7038,7 +7038,7 @@
         "coordinates": [-67.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -7048,7 +7048,7 @@
         "coordinates": [-67.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7058,7 +7058,7 @@
         "coordinates": [-67.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7068,7 +7068,7 @@
         "coordinates": [-67.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7078,7 +7078,7 @@
         "coordinates": [-67.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -7088,7 +7088,7 @@
         "coordinates": [-67.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7098,7 +7098,7 @@
         "coordinates": [-67.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7108,7 +7108,7 @@
         "coordinates": [-67.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7118,7 +7118,7 @@
         "coordinates": [-67.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7128,7 +7128,7 @@
         "coordinates": [-67.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7138,7 +7138,7 @@
         "coordinates": [-67.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7148,7 +7148,7 @@
         "coordinates": [-67.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7158,7 +7158,7 @@
         "coordinates": [-67.5, 10.5]
       },
       "properties": {
-        "sppRichness": 1.1335
+        "sppRichness": 4.5338
       }
     },
     {
@@ -7168,7 +7168,7 @@
         "coordinates": [-67.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7178,7 +7178,7 @@
         "coordinates": [-66.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7188,7 +7188,7 @@
         "coordinates": [-66.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7198,7 +7198,7 @@
         "coordinates": [-66.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -7208,7 +7208,7 @@
         "coordinates": [-66.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7218,7 +7218,7 @@
         "coordinates": [-66.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7228,7 +7228,7 @@
         "coordinates": [-66.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7238,7 +7238,7 @@
         "coordinates": [-66.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -7248,7 +7248,7 @@
         "coordinates": [-66.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7258,7 +7258,7 @@
         "coordinates": [-66.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -7268,7 +7268,7 @@
         "coordinates": [-66.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -7278,7 +7278,7 @@
         "coordinates": [-66.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -7288,7 +7288,7 @@
         "coordinates": [-66.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7298,7 +7298,7 @@
         "coordinates": [-66.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -7308,7 +7308,7 @@
         "coordinates": [-66.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -7318,7 +7318,7 @@
         "coordinates": [-65.5, -44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7328,7 +7328,7 @@
         "coordinates": [-65.5, -43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7338,7 +7338,7 @@
         "coordinates": [-65.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7348,7 +7348,7 @@
         "coordinates": [-65.5, -40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7358,7 +7358,7 @@
         "coordinates": [-65.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7368,7 +7368,7 @@
         "coordinates": [-65.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7378,7 +7378,7 @@
         "coordinates": [-65.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7388,7 +7388,7 @@
         "coordinates": [-65.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7398,7 +7398,7 @@
         "coordinates": [-65.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7408,7 +7408,7 @@
         "coordinates": [-65.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -7418,7 +7418,7 @@
         "coordinates": [-65.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -7428,7 +7428,7 @@
         "coordinates": [-65.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7438,7 +7438,7 @@
         "coordinates": [-65.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7448,7 +7448,7 @@
         "coordinates": [-65.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7458,7 +7458,7 @@
         "coordinates": [-65.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7468,7 +7468,7 @@
         "coordinates": [-65.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7478,7 +7478,7 @@
         "coordinates": [-65.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7488,7 +7488,7 @@
         "coordinates": [-65.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7498,7 +7498,7 @@
         "coordinates": [-65.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7508,7 +7508,7 @@
         "coordinates": [-64.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7518,7 +7518,7 @@
         "coordinates": [-64.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7528,7 +7528,7 @@
         "coordinates": [-64.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -7538,7 +7538,7 @@
         "coordinates": [-64.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7548,7 +7548,7 @@
         "coordinates": [-64.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7558,7 +7558,7 @@
         "coordinates": [-64.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -7568,7 +7568,7 @@
         "coordinates": [-64.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7578,7 +7578,7 @@
         "coordinates": [-64.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7588,7 +7588,7 @@
         "coordinates": [-64.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -7598,7 +7598,7 @@
         "coordinates": [-64.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7608,7 +7608,7 @@
         "coordinates": [-64.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7618,7 +7618,7 @@
         "coordinates": [-64.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7628,7 +7628,7 @@
         "coordinates": [-64.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7638,7 +7638,7 @@
         "coordinates": [-64.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7648,7 +7648,7 @@
         "coordinates": [-64.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -7658,7 +7658,7 @@
         "coordinates": [-63.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7668,7 +7668,7 @@
         "coordinates": [-63.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7678,7 +7678,7 @@
         "coordinates": [-63.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -7688,7 +7688,7 @@
         "coordinates": [-63.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7698,7 +7698,7 @@
         "coordinates": [-63.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7708,7 +7708,7 @@
         "coordinates": [-63.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -7718,7 +7718,7 @@
         "coordinates": [-63.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7728,7 +7728,7 @@
         "coordinates": [-63.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -7738,7 +7738,7 @@
         "coordinates": [-62.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7748,7 +7748,7 @@
         "coordinates": [-62.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -7758,7 +7758,7 @@
         "coordinates": [-62.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7768,7 +7768,7 @@
         "coordinates": [-62.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7778,7 +7778,7 @@
         "coordinates": [-62.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -7788,7 +7788,7 @@
         "coordinates": [-62.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7798,7 +7798,7 @@
         "coordinates": [-62.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7808,7 +7808,7 @@
         "coordinates": [-62.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -7818,7 +7818,7 @@
         "coordinates": [-61.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7828,7 +7828,7 @@
         "coordinates": [-61.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7838,7 +7838,7 @@
         "coordinates": [-61.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7848,7 +7848,7 @@
         "coordinates": [-61.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -7858,7 +7858,7 @@
         "coordinates": [-61.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -7868,7 +7868,7 @@
         "coordinates": [-61.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -7878,7 +7878,7 @@
         "coordinates": [-61.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7888,7 +7888,7 @@
         "coordinates": [-61.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -7898,7 +7898,7 @@
         "coordinates": [-61.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7908,7 +7908,7 @@
         "coordinates": [-61.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -7918,7 +7918,7 @@
         "coordinates": [-61.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -7928,7 +7928,7 @@
         "coordinates": [-61.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -7938,7 +7938,7 @@
         "coordinates": [-61.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -7948,7 +7948,7 @@
         "coordinates": [-61.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -7958,7 +7958,7 @@
         "coordinates": [-61.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -7968,7 +7968,7 @@
         "coordinates": [-61.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -7978,7 +7978,7 @@
         "coordinates": [-61.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -7988,7 +7988,7 @@
         "coordinates": [-61.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.4205
+        "sppRichness": 1.6819
       }
     },
     {
@@ -7998,7 +7998,7 @@
         "coordinates": [-60.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8008,7 +8008,7 @@
         "coordinates": [-60.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8018,7 +8018,7 @@
         "coordinates": [-60.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8028,7 +8028,7 @@
         "coordinates": [-60.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8038,7 +8038,7 @@
         "coordinates": [-60.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8048,7 +8048,7 @@
         "coordinates": [-60.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -8058,7 +8058,7 @@
         "coordinates": [-60.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -8068,7 +8068,7 @@
         "coordinates": [-60.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8078,7 +8078,7 @@
         "coordinates": [-60.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8088,7 +8088,7 @@
         "coordinates": [-60.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -8098,7 +8098,7 @@
         "coordinates": [-60.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -8108,7 +8108,7 @@
         "coordinates": [-60.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8118,7 +8118,7 @@
         "coordinates": [-60.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8128,7 +8128,7 @@
         "coordinates": [-60.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -8138,7 +8138,7 @@
         "coordinates": [-60.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -8148,7 +8148,7 @@
         "coordinates": [-60.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8158,7 +8158,7 @@
         "coordinates": [-60.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8168,7 +8168,7 @@
         "coordinates": [-59.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8178,7 +8178,7 @@
         "coordinates": [-59.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8188,7 +8188,7 @@
         "coordinates": [-59.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8198,7 +8198,7 @@
         "coordinates": [-59.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8208,7 +8208,7 @@
         "coordinates": [-59.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -8218,7 +8218,7 @@
         "coordinates": [-59.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8228,7 +8228,7 @@
         "coordinates": [-59.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8238,7 +8238,7 @@
         "coordinates": [-59.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.2651
+        "sppRichness": 1.0603
       }
     },
     {
@@ -8248,7 +8248,7 @@
         "coordinates": [-59.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.3839
+        "sppRichness": 1.5356
       }
     },
     {
@@ -8258,7 +8258,7 @@
         "coordinates": [-59.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.4936
+        "sppRichness": 1.9744
       }
     },
     {
@@ -8268,7 +8268,7 @@
         "coordinates": [-59.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -8278,7 +8278,7 @@
         "coordinates": [-59.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8288,7 +8288,7 @@
         "coordinates": [-58.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8298,7 +8298,7 @@
         "coordinates": [-58.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -8308,7 +8308,7 @@
         "coordinates": [-58.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8318,7 +8318,7 @@
         "coordinates": [-58.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8328,7 +8328,7 @@
         "coordinates": [-58.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -8338,7 +8338,7 @@
         "coordinates": [-58.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8348,7 +8348,7 @@
         "coordinates": [-58.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -8358,7 +8358,7 @@
         "coordinates": [-58.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8368,7 +8368,7 @@
         "coordinates": [-58.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8378,7 +8378,7 @@
         "coordinates": [-58.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -8388,7 +8388,7 @@
         "coordinates": [-58.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8398,7 +8398,7 @@
         "coordinates": [-58.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8408,7 +8408,7 @@
         "coordinates": [-58.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8418,7 +8418,7 @@
         "coordinates": [-58.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8428,7 +8428,7 @@
         "coordinates": [-58.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -8438,7 +8438,7 @@
         "coordinates": [-58.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.3382
+        "sppRichness": 1.3528
       }
     },
     {
@@ -8448,7 +8448,7 @@
         "coordinates": [-58.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -8458,7 +8458,7 @@
         "coordinates": [-58.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -8468,7 +8468,7 @@
         "coordinates": [-58.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8478,7 +8478,7 @@
         "coordinates": [-57.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8488,7 +8488,7 @@
         "coordinates": [-57.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -8498,7 +8498,7 @@
         "coordinates": [-57.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8508,7 +8508,7 @@
         "coordinates": [-57.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8518,7 +8518,7 @@
         "coordinates": [-57.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -8528,7 +8528,7 @@
         "coordinates": [-57.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.5119
+        "sppRichness": 2.0475
       }
     },
     {
@@ -8538,7 +8538,7 @@
         "coordinates": [-57.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -8548,7 +8548,7 @@
         "coordinates": [-57.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -8558,7 +8558,7 @@
         "coordinates": [-57.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8568,7 +8568,7 @@
         "coordinates": [-57.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8578,7 +8578,7 @@
         "coordinates": [-57.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -8588,7 +8588,7 @@
         "coordinates": [-57.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8598,7 +8598,7 @@
         "coordinates": [-56.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8608,7 +8608,7 @@
         "coordinates": [-56.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8618,7 +8618,7 @@
         "coordinates": [-56.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8628,7 +8628,7 @@
         "coordinates": [-56.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8638,7 +8638,7 @@
         "coordinates": [-56.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -8648,7 +8648,7 @@
         "coordinates": [-56.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8658,7 +8658,7 @@
         "coordinates": [-56.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -8668,7 +8668,7 @@
         "coordinates": [-56.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8678,7 +8678,7 @@
         "coordinates": [-56.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -8688,7 +8688,7 @@
         "coordinates": [-56.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8698,7 +8698,7 @@
         "coordinates": [-56.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -8708,7 +8708,7 @@
         "coordinates": [-56.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8718,7 +8718,7 @@
         "coordinates": [-55.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -8728,7 +8728,7 @@
         "coordinates": [-55.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8738,7 +8738,7 @@
         "coordinates": [-55.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8748,7 +8748,7 @@
         "coordinates": [-55.5, -24.5]
       },
       "properties": {
-        "sppRichness": 1.0969
+        "sppRichness": 4.3876
       }
     },
     {
@@ -8758,7 +8758,7 @@
         "coordinates": [-55.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8768,7 +8768,7 @@
         "coordinates": [-55.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -8778,7 +8778,7 @@
         "coordinates": [-55.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8788,7 +8788,7 @@
         "coordinates": [-55.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -8798,7 +8798,7 @@
         "coordinates": [-55.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -8808,7 +8808,7 @@
         "coordinates": [-55.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -8818,7 +8818,7 @@
         "coordinates": [-54.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8828,7 +8828,7 @@
         "coordinates": [-54.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -8838,7 +8838,7 @@
         "coordinates": [-54.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8848,7 +8848,7 @@
         "coordinates": [-54.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -8858,7 +8858,7 @@
         "coordinates": [-54.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -8868,7 +8868,7 @@
         "coordinates": [-54.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -8878,7 +8878,7 @@
         "coordinates": [-53.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8888,7 +8888,7 @@
         "coordinates": [-53.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8898,7 +8898,7 @@
         "coordinates": [-53.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8908,7 +8908,7 @@
         "coordinates": [-53.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8918,7 +8918,7 @@
         "coordinates": [-53.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -8928,7 +8928,7 @@
         "coordinates": [-52.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -8938,7 +8938,7 @@
         "coordinates": [-52.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8948,7 +8948,7 @@
         "coordinates": [-52.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -8958,7 +8958,7 @@
         "coordinates": [-52.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8968,7 +8968,7 @@
         "coordinates": [-52.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8978,7 +8978,7 @@
         "coordinates": [-52.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -8988,7 +8988,7 @@
         "coordinates": [-52.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -8998,7 +8998,7 @@
         "coordinates": [-52.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9008,7 +9008,7 @@
         "coordinates": [-52.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.3382
+        "sppRichness": 1.3528
       }
     },
     {
@@ -9018,7 +9018,7 @@
         "coordinates": [-52.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -9028,7 +9028,7 @@
         "coordinates": [-51.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9038,7 +9038,7 @@
         "coordinates": [-51.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9048,7 +9048,7 @@
         "coordinates": [-51.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9058,7 +9058,7 @@
         "coordinates": [-51.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9068,7 +9068,7 @@
         "coordinates": [-51.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9078,7 +9078,7 @@
         "coordinates": [-51.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9088,7 +9088,7 @@
         "coordinates": [-51.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9098,7 +9098,7 @@
         "coordinates": [-51.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9108,7 +9108,7 @@
         "coordinates": [-51.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -9118,7 +9118,7 @@
         "coordinates": [-51.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9128,7 +9128,7 @@
         "coordinates": [-50.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9138,7 +9138,7 @@
         "coordinates": [-50.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9148,7 +9148,7 @@
         "coordinates": [-50.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9158,7 +9158,7 @@
         "coordinates": [-50.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9168,7 +9168,7 @@
         "coordinates": [-50.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9178,7 +9178,7 @@
         "coordinates": [-50.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9188,7 +9188,7 @@
         "coordinates": [-50.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -9198,7 +9198,7 @@
         "coordinates": [-49.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9208,7 +9208,7 @@
         "coordinates": [-49.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9218,7 +9218,7 @@
         "coordinates": [-49.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -9228,7 +9228,7 @@
         "coordinates": [-49.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9238,7 +9238,7 @@
         "coordinates": [-49.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9248,7 +9248,7 @@
         "coordinates": [-49.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9258,7 +9258,7 @@
         "coordinates": [-49.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9268,7 +9268,7 @@
         "coordinates": [-48.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -9278,7 +9278,7 @@
         "coordinates": [-48.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9288,7 +9288,7 @@
         "coordinates": [-48.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9298,7 +9298,7 @@
         "coordinates": [-48.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -9308,7 +9308,7 @@
         "coordinates": [-48.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -9318,7 +9318,7 @@
         "coordinates": [-48.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -9328,7 +9328,7 @@
         "coordinates": [-48.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9338,7 +9338,7 @@
         "coordinates": [-48.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9348,7 +9348,7 @@
         "coordinates": [-48.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -9358,7 +9358,7 @@
         "coordinates": [-48.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9368,7 +9368,7 @@
         "coordinates": [-48.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9378,7 +9378,7 @@
         "coordinates": [-48.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9388,7 +9388,7 @@
         "coordinates": [-48.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -9398,7 +9398,7 @@
         "coordinates": [-47.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9408,7 +9408,7 @@
         "coordinates": [-47.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9418,7 +9418,7 @@
         "coordinates": [-47.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9428,7 +9428,7 @@
         "coordinates": [-47.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -9438,7 +9438,7 @@
         "coordinates": [-47.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -9448,7 +9448,7 @@
         "coordinates": [-47.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -9458,7 +9458,7 @@
         "coordinates": [-47.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9468,7 +9468,7 @@
         "coordinates": [-47.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9478,7 +9478,7 @@
         "coordinates": [-47.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9488,7 +9488,7 @@
         "coordinates": [-47.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9498,7 +9498,7 @@
         "coordinates": [-46.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -9508,7 +9508,7 @@
         "coordinates": [-46.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9518,7 +9518,7 @@
         "coordinates": [-46.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9528,7 +9528,7 @@
         "coordinates": [-46.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9538,7 +9538,7 @@
         "coordinates": [-46.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9548,7 +9548,7 @@
         "coordinates": [-46.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9558,7 +9558,7 @@
         "coordinates": [-45.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -9568,7 +9568,7 @@
         "coordinates": [-45.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -9578,7 +9578,7 @@
         "coordinates": [-45.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9588,7 +9588,7 @@
         "coordinates": [-44.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -9598,7 +9598,7 @@
         "coordinates": [-44.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -9608,7 +9608,7 @@
         "coordinates": [-44.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9618,7 +9618,7 @@
         "coordinates": [-43.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9628,7 +9628,7 @@
         "coordinates": [-43.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -9638,7 +9638,7 @@
         "coordinates": [-43.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9648,7 +9648,7 @@
         "coordinates": [-43.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -9658,7 +9658,7 @@
         "coordinates": [-43.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9668,7 +9668,7 @@
         "coordinates": [-42.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -9678,7 +9678,7 @@
         "coordinates": [-42.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9688,7 +9688,7 @@
         "coordinates": [-42.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9698,7 +9698,7 @@
         "coordinates": [-42.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9708,7 +9708,7 @@
         "coordinates": [-42.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9718,7 +9718,7 @@
         "coordinates": [-41.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9728,7 +9728,7 @@
         "coordinates": [-41.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -9738,7 +9738,7 @@
         "coordinates": [-41.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9748,7 +9748,7 @@
         "coordinates": [-41.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9758,7 +9758,7 @@
         "coordinates": [-40.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9768,7 +9768,7 @@
         "coordinates": [-40.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -9778,7 +9778,7 @@
         "coordinates": [-40.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -9788,7 +9788,7 @@
         "coordinates": [-40.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9798,7 +9798,7 @@
         "coordinates": [-40.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9808,7 +9808,7 @@
         "coordinates": [-40.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9818,7 +9818,7 @@
         "coordinates": [-39.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -9828,7 +9828,7 @@
         "coordinates": [-39.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9838,7 +9838,7 @@
         "coordinates": [-39.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9848,7 +9848,7 @@
         "coordinates": [-39.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -9858,7 +9858,7 @@
         "coordinates": [-39.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -9868,7 +9868,7 @@
         "coordinates": [-38.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9878,7 +9878,7 @@
         "coordinates": [-38.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9888,7 +9888,7 @@
         "coordinates": [-38.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -9898,7 +9898,7 @@
         "coordinates": [-36.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9908,7 +9908,7 @@
         "coordinates": [-35.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9918,7 +9918,7 @@
         "coordinates": [-35.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -9928,7 +9928,7 @@
         "coordinates": [-34.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -9938,7 +9938,7 @@
         "coordinates": [-28.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9948,7 +9948,7 @@
         "coordinates": [-18.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9958,7 +9958,7 @@
         "coordinates": [-17.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9968,7 +9968,7 @@
         "coordinates": [-17.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -9978,7 +9978,7 @@
         "coordinates": [-17.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9988,7 +9988,7 @@
         "coordinates": [-16.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -9998,7 +9998,7 @@
         "coordinates": [-16.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10008,7 +10008,7 @@
         "coordinates": [-16.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -10018,7 +10018,7 @@
         "coordinates": [-16.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10028,7 +10028,7 @@
         "coordinates": [-16.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10038,7 +10038,7 @@
         "coordinates": [-16.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10048,7 +10048,7 @@
         "coordinates": [-15.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10058,7 +10058,7 @@
         "coordinates": [-14.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10068,7 +10068,7 @@
         "coordinates": [-13.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10078,7 +10078,7 @@
         "coordinates": [-9.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10088,7 +10088,7 @@
         "coordinates": [-9.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10098,7 +10098,7 @@
         "coordinates": [-9.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10108,7 +10108,7 @@
         "coordinates": [-9.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10118,7 +10118,7 @@
         "coordinates": [-9.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -10128,7 +10128,7 @@
         "coordinates": [-8.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10138,7 +10138,7 @@
         "coordinates": [-8.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -10148,7 +10148,7 @@
         "coordinates": [-8.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10158,7 +10158,7 @@
         "coordinates": [-8.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -10168,7 +10168,7 @@
         "coordinates": [-7.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10178,7 +10178,7 @@
         "coordinates": [-7.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10188,7 +10188,7 @@
         "coordinates": [-7.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10198,7 +10198,7 @@
         "coordinates": [-7.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10208,7 +10208,7 @@
         "coordinates": [-7.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10218,7 +10218,7 @@
         "coordinates": [-7.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10228,7 +10228,7 @@
         "coordinates": [-7.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10238,7 +10238,7 @@
         "coordinates": [-7.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10248,7 +10248,7 @@
         "coordinates": [-6.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10258,7 +10258,7 @@
         "coordinates": [-6.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10268,7 +10268,7 @@
         "coordinates": [-6.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10278,7 +10278,7 @@
         "coordinates": [-6.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10288,7 +10288,7 @@
         "coordinates": [-6.5, 53.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10298,7 +10298,7 @@
         "coordinates": [-5.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10308,7 +10308,7 @@
         "coordinates": [-5.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10318,7 +10318,7 @@
         "coordinates": [-5.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10328,7 +10328,7 @@
         "coordinates": [-5.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -10338,7 +10338,7 @@
         "coordinates": [-5.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10348,7 +10348,7 @@
         "coordinates": [-5.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -10358,7 +10358,7 @@
         "coordinates": [-4.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10368,7 +10368,7 @@
         "coordinates": [-4.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10378,7 +10378,7 @@
         "coordinates": [-4.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10388,7 +10388,7 @@
         "coordinates": [-4.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -10398,7 +10398,7 @@
         "coordinates": [-4.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10408,7 +10408,7 @@
         "coordinates": [-4.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10418,7 +10418,7 @@
         "coordinates": [-4.5, 55.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10428,7 +10428,7 @@
         "coordinates": [-3.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -10438,7 +10438,7 @@
         "coordinates": [-3.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10448,7 +10448,7 @@
         "coordinates": [-3.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -10458,7 +10458,7 @@
         "coordinates": [-3.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10468,7 +10468,7 @@
         "coordinates": [-3.5, 55.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10478,7 +10478,7 @@
         "coordinates": [-2.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10488,7 +10488,7 @@
         "coordinates": [-2.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -10498,7 +10498,7 @@
         "coordinates": [-2.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10508,7 +10508,7 @@
         "coordinates": [-2.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10518,7 +10518,7 @@
         "coordinates": [-1.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10528,7 +10528,7 @@
         "coordinates": [-1.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10538,7 +10538,7 @@
         "coordinates": [-1.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10548,7 +10548,7 @@
         "coordinates": [-1.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10558,7 +10558,7 @@
         "coordinates": [-1.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10568,7 +10568,7 @@
         "coordinates": [-1.5, 55.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10578,7 +10578,7 @@
         "coordinates": [-0.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10588,7 +10588,7 @@
         "coordinates": [-0.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.3839
+        "sppRichness": 1.5356
       }
     },
     {
@@ -10598,7 +10598,7 @@
         "coordinates": [-0.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -10608,7 +10608,7 @@
         "coordinates": [-0.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10618,7 +10618,7 @@
         "coordinates": [-0.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10628,7 +10628,7 @@
         "coordinates": [0.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10638,7 +10638,7 @@
         "coordinates": [0.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10648,7 +10648,7 @@
         "coordinates": [0.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10658,7 +10658,7 @@
         "coordinates": [0.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10668,7 +10668,7 @@
         "coordinates": [0.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10678,7 +10678,7 @@
         "coordinates": [0.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10688,7 +10688,7 @@
         "coordinates": [0.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10698,7 +10698,7 @@
         "coordinates": [0.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10708,7 +10708,7 @@
         "coordinates": [1.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10718,7 +10718,7 @@
         "coordinates": [1.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10728,7 +10728,7 @@
         "coordinates": [1.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10738,7 +10738,7 @@
         "coordinates": [2.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10748,7 +10748,7 @@
         "coordinates": [2.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -10758,7 +10758,7 @@
         "coordinates": [2.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10768,7 +10768,7 @@
         "coordinates": [2.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -10778,7 +10778,7 @@
         "coordinates": [2.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -10788,7 +10788,7 @@
         "coordinates": [3.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10798,7 +10798,7 @@
         "coordinates": [3.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10808,7 +10808,7 @@
         "coordinates": [3.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -10818,7 +10818,7 @@
         "coordinates": [3.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -10828,7 +10828,7 @@
         "coordinates": [3.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -10838,7 +10838,7 @@
         "coordinates": [3.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10848,7 +10848,7 @@
         "coordinates": [3.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10858,7 +10858,7 @@
         "coordinates": [3.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -10868,7 +10868,7 @@
         "coordinates": [3.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.3199
+        "sppRichness": 1.2797
       }
     },
     {
@@ -10878,7 +10878,7 @@
         "coordinates": [4.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10888,7 +10888,7 @@
         "coordinates": [4.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -10898,7 +10898,7 @@
         "coordinates": [4.5, 49.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -10908,7 +10908,7 @@
         "coordinates": [4.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.585
+        "sppRichness": 2.34
       }
     },
     {
@@ -10918,7 +10918,7 @@
         "coordinates": [4.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.3931
+        "sppRichness": 1.5722
       }
     },
     {
@@ -10928,7 +10928,7 @@
         "coordinates": [4.5, 52.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -10938,7 +10938,7 @@
         "coordinates": [4.5, 53.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10948,7 +10948,7 @@
         "coordinates": [5.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10958,7 +10958,7 @@
         "coordinates": [5.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -10968,7 +10968,7 @@
         "coordinates": [5.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10978,7 +10978,7 @@
         "coordinates": [5.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -10988,7 +10988,7 @@
         "coordinates": [5.5, 49.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -10998,7 +10998,7 @@
         "coordinates": [5.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.6124
+        "sppRichness": 2.4497
       }
     },
     {
@@ -11008,7 +11008,7 @@
         "coordinates": [5.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -11018,7 +11018,7 @@
         "coordinates": [5.5, 52.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -11028,7 +11028,7 @@
         "coordinates": [5.5, 53.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11038,7 +11038,7 @@
         "coordinates": [6.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -11048,7 +11048,7 @@
         "coordinates": [6.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11058,7 +11058,7 @@
         "coordinates": [6.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -11068,7 +11068,7 @@
         "coordinates": [6.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -11078,7 +11078,7 @@
         "coordinates": [6.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -11088,7 +11088,7 @@
         "coordinates": [6.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11098,7 +11098,7 @@
         "coordinates": [6.5, 52.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11108,7 +11108,7 @@
         "coordinates": [6.5, 53.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11118,7 +11118,7 @@
         "coordinates": [7.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11128,7 +11128,7 @@
         "coordinates": [7.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -11138,7 +11138,7 @@
         "coordinates": [7.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11148,7 +11148,7 @@
         "coordinates": [7.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11158,7 +11158,7 @@
         "coordinates": [7.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11168,7 +11168,7 @@
         "coordinates": [7.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11178,7 +11178,7 @@
         "coordinates": [7.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11188,7 +11188,7 @@
         "coordinates": [7.5, 52.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11198,7 +11198,7 @@
         "coordinates": [8.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -11208,7 +11208,7 @@
         "coordinates": [8.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.3839
+        "sppRichness": 1.5356
       }
     },
     {
@@ -11218,7 +11218,7 @@
         "coordinates": [8.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11228,7 +11228,7 @@
         "coordinates": [8.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11238,7 +11238,7 @@
         "coordinates": [8.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11248,7 +11248,7 @@
         "coordinates": [8.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -11258,7 +11258,7 @@
         "coordinates": [8.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11268,7 +11268,7 @@
         "coordinates": [8.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11278,7 +11278,7 @@
         "coordinates": [8.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -11288,7 +11288,7 @@
         "coordinates": [8.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -11298,7 +11298,7 @@
         "coordinates": [8.5, 56.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11308,7 +11308,7 @@
         "coordinates": [9.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -11318,7 +11318,7 @@
         "coordinates": [9.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.4113
+        "sppRichness": 1.6453
       }
     },
     {
@@ -11328,7 +11328,7 @@
         "coordinates": [9.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -11338,7 +11338,7 @@
         "coordinates": [9.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.777
+        "sppRichness": 3.1079
       }
     },
     {
@@ -11348,7 +11348,7 @@
         "coordinates": [9.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.4845
+        "sppRichness": 1.9378
       }
     },
     {
@@ -11358,7 +11358,7 @@
         "coordinates": [9.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -11368,7 +11368,7 @@
         "coordinates": [9.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11378,7 +11378,7 @@
         "coordinates": [9.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -11388,7 +11388,7 @@
         "coordinates": [9.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -11398,7 +11398,7 @@
         "coordinates": [9.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11408,7 +11408,7 @@
         "coordinates": [9.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11418,7 +11418,7 @@
         "coordinates": [9.5, 49.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11428,7 +11428,7 @@
         "coordinates": [9.5, 56.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11438,7 +11438,7 @@
         "coordinates": [10.5, -2.5]
       },
       "properties": {
-        "sppRichness": 1.2066
+        "sppRichness": 4.8263
       }
     },
     {
@@ -11448,7 +11448,7 @@
         "coordinates": [10.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11458,7 +11458,7 @@
         "coordinates": [10.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.5027
+        "sppRichness": 2.011
       }
     },
     {
@@ -11468,7 +11468,7 @@
         "coordinates": [10.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -11478,7 +11478,7 @@
         "coordinates": [10.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11488,7 +11488,7 @@
         "coordinates": [10.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -11498,7 +11498,7 @@
         "coordinates": [10.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -11508,7 +11508,7 @@
         "coordinates": [10.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11518,7 +11518,7 @@
         "coordinates": [10.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11528,7 +11528,7 @@
         "coordinates": [10.5, 56.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -11538,7 +11538,7 @@
         "coordinates": [11.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11548,7 +11548,7 @@
         "coordinates": [11.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11558,7 +11558,7 @@
         "coordinates": [11.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11568,7 +11568,7 @@
         "coordinates": [11.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11578,7 +11578,7 @@
         "coordinates": [11.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11588,7 +11588,7 @@
         "coordinates": [11.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -11598,7 +11598,7 @@
         "coordinates": [11.5, 56.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11608,7 +11608,7 @@
         "coordinates": [11.5, 58.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11618,7 +11618,7 @@
         "coordinates": [12.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -11628,7 +11628,7 @@
         "coordinates": [12.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.9415
+        "sppRichness": 3.766
       }
     },
     {
@@ -11638,7 +11638,7 @@
         "coordinates": [12.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11648,7 +11648,7 @@
         "coordinates": [12.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -11658,7 +11658,7 @@
         "coordinates": [12.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -11668,7 +11668,7 @@
         "coordinates": [12.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11678,7 +11678,7 @@
         "coordinates": [12.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11688,7 +11688,7 @@
         "coordinates": [12.5, 55.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -11698,7 +11698,7 @@
         "coordinates": [12.5, 56.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -11708,7 +11708,7 @@
         "coordinates": [13.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11718,7 +11718,7 @@
         "coordinates": [13.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -11728,7 +11728,7 @@
         "coordinates": [13.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11738,7 +11738,7 @@
         "coordinates": [13.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -11748,7 +11748,7 @@
         "coordinates": [13.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11758,7 +11758,7 @@
         "coordinates": [13.5, 49.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11768,7 +11768,7 @@
         "coordinates": [13.5, 52.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11778,7 +11778,7 @@
         "coordinates": [13.5, 55.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -11788,7 +11788,7 @@
         "coordinates": [13.5, 58.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11798,7 +11798,7 @@
         "coordinates": [14.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11808,7 +11808,7 @@
         "coordinates": [14.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -11818,7 +11818,7 @@
         "coordinates": [14.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11828,7 +11828,7 @@
         "coordinates": [14.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11838,7 +11838,7 @@
         "coordinates": [14.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -11848,7 +11848,7 @@
         "coordinates": [14.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -11858,7 +11858,7 @@
         "coordinates": [14.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11868,7 +11868,7 @@
         "coordinates": [14.5, 53.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11878,7 +11878,7 @@
         "coordinates": [14.5, 58.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11888,7 +11888,7 @@
         "coordinates": [15.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -11898,7 +11898,7 @@
         "coordinates": [15.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -11908,7 +11908,7 @@
         "coordinates": [15.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -11918,7 +11918,7 @@
         "coordinates": [15.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -11928,7 +11928,7 @@
         "coordinates": [15.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -11938,7 +11938,7 @@
         "coordinates": [15.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -11948,7 +11948,7 @@
         "coordinates": [15.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -11958,7 +11958,7 @@
         "coordinates": [15.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -11968,7 +11968,7 @@
         "coordinates": [15.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -11978,7 +11978,7 @@
         "coordinates": [15.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -11988,7 +11988,7 @@
         "coordinates": [15.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -11998,7 +11998,7 @@
         "coordinates": [15.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12008,7 +12008,7 @@
         "coordinates": [15.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12018,7 +12018,7 @@
         "coordinates": [15.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12028,7 +12028,7 @@
         "coordinates": [15.5, 59.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12038,7 +12038,7 @@
         "coordinates": [16.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12048,7 +12048,7 @@
         "coordinates": [16.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.7952
+        "sppRichness": 3.181
       }
     },
     {
@@ -12058,7 +12058,7 @@
         "coordinates": [16.5, 3.5]
       },
       "properties": {
-        "sppRichness": 1.2066
+        "sppRichness": 4.8263
       }
     },
     {
@@ -12068,7 +12068,7 @@
         "coordinates": [16.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12078,7 +12078,7 @@
         "coordinates": [16.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12088,7 +12088,7 @@
         "coordinates": [16.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -12098,7 +12098,7 @@
         "coordinates": [16.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12108,7 +12108,7 @@
         "coordinates": [16.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -12118,7 +12118,7 @@
         "coordinates": [16.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -12128,7 +12128,7 @@
         "coordinates": [16.5, 58.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12138,7 +12138,7 @@
         "coordinates": [17.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12148,7 +12148,7 @@
         "coordinates": [17.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12158,7 +12158,7 @@
         "coordinates": [17.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -12168,7 +12168,7 @@
         "coordinates": [17.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -12178,7 +12178,7 @@
         "coordinates": [17.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12188,7 +12188,7 @@
         "coordinates": [17.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12198,7 +12198,7 @@
         "coordinates": [17.5, 51.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -12208,7 +12208,7 @@
         "coordinates": [18.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -12218,7 +12218,7 @@
         "coordinates": [18.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -12228,7 +12228,7 @@
         "coordinates": [18.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12238,7 +12238,7 @@
         "coordinates": [18.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12248,7 +12248,7 @@
         "coordinates": [18.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12258,7 +12258,7 @@
         "coordinates": [18.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12268,7 +12268,7 @@
         "coordinates": [18.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12278,7 +12278,7 @@
         "coordinates": [18.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12288,7 +12288,7 @@
         "coordinates": [19.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -12298,7 +12298,7 @@
         "coordinates": [19.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12308,7 +12308,7 @@
         "coordinates": [19.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.3382
+        "sppRichness": 1.3528
       }
     },
     {
@@ -12318,7 +12318,7 @@
         "coordinates": [19.5, 46.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12328,7 +12328,7 @@
         "coordinates": [19.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12338,7 +12338,7 @@
         "coordinates": [19.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12348,7 +12348,7 @@
         "coordinates": [20.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12358,7 +12358,7 @@
         "coordinates": [20.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -12368,7 +12368,7 @@
         "coordinates": [20.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12378,7 +12378,7 @@
         "coordinates": [20.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12388,7 +12388,7 @@
         "coordinates": [20.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12398,7 +12398,7 @@
         "coordinates": [20.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12408,7 +12408,7 @@
         "coordinates": [20.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12418,7 +12418,7 @@
         "coordinates": [20.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12428,7 +12428,7 @@
         "coordinates": [20.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -12438,7 +12438,7 @@
         "coordinates": [20.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12448,7 +12448,7 @@
         "coordinates": [20.5, 49.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12458,7 +12458,7 @@
         "coordinates": [20.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12468,7 +12468,7 @@
         "coordinates": [21.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12478,7 +12478,7 @@
         "coordinates": [21.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12488,7 +12488,7 @@
         "coordinates": [21.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -12498,7 +12498,7 @@
         "coordinates": [22.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12508,7 +12508,7 @@
         "coordinates": [22.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12518,7 +12518,7 @@
         "coordinates": [22.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12528,7 +12528,7 @@
         "coordinates": [22.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -12538,7 +12538,7 @@
         "coordinates": [22.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -12548,7 +12548,7 @@
         "coordinates": [22.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12558,7 +12558,7 @@
         "coordinates": [22.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -12568,7 +12568,7 @@
         "coordinates": [22.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -12578,7 +12578,7 @@
         "coordinates": [22.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -12588,7 +12588,7 @@
         "coordinates": [22.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.5027
+        "sppRichness": 2.011
       }
     },
     {
@@ -12598,7 +12598,7 @@
         "coordinates": [22.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -12608,7 +12608,7 @@
         "coordinates": [22.5, 47.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12618,7 +12618,7 @@
         "coordinates": [22.5, 58.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12628,7 +12628,7 @@
         "coordinates": [22.5, 60.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -12638,7 +12638,7 @@
         "coordinates": [23.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -12648,7 +12648,7 @@
         "coordinates": [23.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -12658,7 +12658,7 @@
         "coordinates": [23.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12668,7 +12668,7 @@
         "coordinates": [23.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12678,7 +12678,7 @@
         "coordinates": [23.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12688,7 +12688,7 @@
         "coordinates": [23.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.457
+        "sppRichness": 1.8282
       }
     },
     {
@@ -12698,7 +12698,7 @@
         "coordinates": [23.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -12708,7 +12708,7 @@
         "coordinates": [23.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -12718,7 +12718,7 @@
         "coordinates": [23.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -12728,7 +12728,7 @@
         "coordinates": [23.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -12738,7 +12738,7 @@
         "coordinates": [23.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -12748,7 +12748,7 @@
         "coordinates": [23.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -12758,7 +12758,7 @@
         "coordinates": [23.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12768,7 +12768,7 @@
         "coordinates": [24.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12778,7 +12778,7 @@
         "coordinates": [24.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12788,7 +12788,7 @@
         "coordinates": [24.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12798,7 +12798,7 @@
         "coordinates": [24.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -12808,7 +12808,7 @@
         "coordinates": [24.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12818,7 +12818,7 @@
         "coordinates": [24.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12828,7 +12828,7 @@
         "coordinates": [24.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12838,7 +12838,7 @@
         "coordinates": [24.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.4662
+        "sppRichness": 1.8647
       }
     },
     {
@@ -12848,7 +12848,7 @@
         "coordinates": [24.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12858,7 +12858,7 @@
         "coordinates": [24.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -12868,7 +12868,7 @@
         "coordinates": [24.5, 56.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12878,7 +12878,7 @@
         "coordinates": [25.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12888,7 +12888,7 @@
         "coordinates": [25.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12898,7 +12898,7 @@
         "coordinates": [25.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -12908,7 +12908,7 @@
         "coordinates": [25.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12918,7 +12918,7 @@
         "coordinates": [25.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -12928,7 +12928,7 @@
         "coordinates": [25.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12938,7 +12938,7 @@
         "coordinates": [25.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12948,7 +12948,7 @@
         "coordinates": [25.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12958,7 +12958,7 @@
         "coordinates": [25.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -12968,7 +12968,7 @@
         "coordinates": [25.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -12978,7 +12978,7 @@
         "coordinates": [25.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -12988,7 +12988,7 @@
         "coordinates": [25.5, 59.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -12998,7 +12998,7 @@
         "coordinates": [26.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -13008,7 +13008,7 @@
         "coordinates": [26.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -13018,7 +13018,7 @@
         "coordinates": [26.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13028,7 +13028,7 @@
         "coordinates": [26.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13038,7 +13038,7 @@
         "coordinates": [26.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13048,7 +13048,7 @@
         "coordinates": [26.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -13058,7 +13058,7 @@
         "coordinates": [26.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -13068,7 +13068,7 @@
         "coordinates": [26.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13078,7 +13078,7 @@
         "coordinates": [26.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -13088,7 +13088,7 @@
         "coordinates": [26.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13098,7 +13098,7 @@
         "coordinates": [26.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13108,7 +13108,7 @@
         "coordinates": [26.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13118,7 +13118,7 @@
         "coordinates": [26.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -13128,7 +13128,7 @@
         "coordinates": [26.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -13138,7 +13138,7 @@
         "coordinates": [26.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -13148,7 +13148,7 @@
         "coordinates": [26.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -13158,7 +13158,7 @@
         "coordinates": [26.5, 60.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13168,7 +13168,7 @@
         "coordinates": [27.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13178,7 +13178,7 @@
         "coordinates": [27.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13188,7 +13188,7 @@
         "coordinates": [27.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13198,7 +13198,7 @@
         "coordinates": [27.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13208,7 +13208,7 @@
         "coordinates": [27.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13218,7 +13218,7 @@
         "coordinates": [27.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13228,7 +13228,7 @@
         "coordinates": [27.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13238,7 +13238,7 @@
         "coordinates": [27.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -13248,7 +13248,7 @@
         "coordinates": [27.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -13258,7 +13258,7 @@
         "coordinates": [27.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -13268,7 +13268,7 @@
         "coordinates": [27.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -13278,7 +13278,7 @@
         "coordinates": [27.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -13288,7 +13288,7 @@
         "coordinates": [27.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -13298,7 +13298,7 @@
         "coordinates": [27.5, 52.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13308,7 +13308,7 @@
         "coordinates": [28.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13318,7 +13318,7 @@
         "coordinates": [28.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -13328,7 +13328,7 @@
         "coordinates": [28.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.9049
+        "sppRichness": 3.6197
       }
     },
     {
@@ -13338,7 +13338,7 @@
         "coordinates": [28.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -13348,7 +13348,7 @@
         "coordinates": [28.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13358,7 +13358,7 @@
         "coordinates": [28.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -13368,7 +13368,7 @@
         "coordinates": [28.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13378,7 +13378,7 @@
         "coordinates": [28.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -13388,7 +13388,7 @@
         "coordinates": [28.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13398,7 +13398,7 @@
         "coordinates": [28.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -13408,7 +13408,7 @@
         "coordinates": [28.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -13418,7 +13418,7 @@
         "coordinates": [29.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -13428,7 +13428,7 @@
         "coordinates": [29.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -13438,7 +13438,7 @@
         "coordinates": [29.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -13448,7 +13448,7 @@
         "coordinates": [29.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -13458,7 +13458,7 @@
         "coordinates": [29.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -13468,7 +13468,7 @@
         "coordinates": [29.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13478,7 +13478,7 @@
         "coordinates": [29.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13488,7 +13488,7 @@
         "coordinates": [29.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13498,7 +13498,7 @@
         "coordinates": [29.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13508,7 +13508,7 @@
         "coordinates": [29.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13518,7 +13518,7 @@
         "coordinates": [29.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -13528,7 +13528,7 @@
         "coordinates": [29.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13538,7 +13538,7 @@
         "coordinates": [29.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13548,7 +13548,7 @@
         "coordinates": [29.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13558,7 +13558,7 @@
         "coordinates": [29.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13568,7 +13568,7 @@
         "coordinates": [29.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -13578,7 +13578,7 @@
         "coordinates": [30.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -13588,7 +13588,7 @@
         "coordinates": [30.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13598,7 +13598,7 @@
         "coordinates": [30.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -13608,7 +13608,7 @@
         "coordinates": [30.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13618,7 +13618,7 @@
         "coordinates": [30.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -13628,7 +13628,7 @@
         "coordinates": [30.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.4936
+        "sppRichness": 1.9744
       }
     },
     {
@@ -13638,7 +13638,7 @@
         "coordinates": [30.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13648,7 +13648,7 @@
         "coordinates": [30.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13658,7 +13658,7 @@
         "coordinates": [30.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13668,7 +13668,7 @@
         "coordinates": [30.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -13678,7 +13678,7 @@
         "coordinates": [30.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13688,7 +13688,7 @@
         "coordinates": [30.5, 0.5]
       },
       "properties": {
-        "sppRichness": 1.5448
+        "sppRichness": 6.1792
       }
     },
     {
@@ -13698,7 +13698,7 @@
         "coordinates": [30.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13708,7 +13708,7 @@
         "coordinates": [30.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -13718,7 +13718,7 @@
         "coordinates": [30.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13728,7 +13728,7 @@
         "coordinates": [31.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13738,7 +13738,7 @@
         "coordinates": [31.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -13748,7 +13748,7 @@
         "coordinates": [31.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -13758,7 +13758,7 @@
         "coordinates": [31.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -13768,7 +13768,7 @@
         "coordinates": [31.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13778,7 +13778,7 @@
         "coordinates": [31.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -13788,7 +13788,7 @@
         "coordinates": [31.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13798,7 +13798,7 @@
         "coordinates": [31.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13808,7 +13808,7 @@
         "coordinates": [31.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -13818,7 +13818,7 @@
         "coordinates": [31.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13828,7 +13828,7 @@
         "coordinates": [31.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -13838,7 +13838,7 @@
         "coordinates": [31.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13848,7 +13848,7 @@
         "coordinates": [31.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -13858,7 +13858,7 @@
         "coordinates": [31.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13868,7 +13868,7 @@
         "coordinates": [31.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13878,7 +13878,7 @@
         "coordinates": [32.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -13888,7 +13888,7 @@
         "coordinates": [32.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -13898,7 +13898,7 @@
         "coordinates": [32.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13908,7 +13908,7 @@
         "coordinates": [32.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13918,7 +13918,7 @@
         "coordinates": [32.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13928,7 +13928,7 @@
         "coordinates": [32.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13938,7 +13938,7 @@
         "coordinates": [32.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13948,7 +13948,7 @@
         "coordinates": [32.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -13958,7 +13958,7 @@
         "coordinates": [32.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -13968,7 +13968,7 @@
         "coordinates": [32.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13978,7 +13978,7 @@
         "coordinates": [32.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -13988,7 +13988,7 @@
         "coordinates": [33.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -13998,7 +13998,7 @@
         "coordinates": [33.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -14008,7 +14008,7 @@
         "coordinates": [33.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14018,7 +14018,7 @@
         "coordinates": [33.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14028,7 +14028,7 @@
         "coordinates": [34.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14038,7 +14038,7 @@
         "coordinates": [34.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -14048,7 +14048,7 @@
         "coordinates": [34.5, 0.5]
       },
       "properties": {
-        "sppRichness": 1.2431
+        "sppRichness": 4.9726
       }
     },
     {
@@ -14058,7 +14058,7 @@
         "coordinates": [35.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14068,7 +14068,7 @@
         "coordinates": [35.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14078,7 +14078,7 @@
         "coordinates": [35.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -14088,7 +14088,7 @@
         "coordinates": [35.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14098,7 +14098,7 @@
         "coordinates": [35.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14108,7 +14108,7 @@
         "coordinates": [35.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14118,7 +14118,7 @@
         "coordinates": [36.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14128,7 +14128,7 @@
         "coordinates": [36.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -14138,7 +14138,7 @@
         "coordinates": [36.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -14148,7 +14148,7 @@
         "coordinates": [36.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -14158,7 +14158,7 @@
         "coordinates": [36.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14168,7 +14168,7 @@
         "coordinates": [36.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14178,7 +14178,7 @@
         "coordinates": [36.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -14188,7 +14188,7 @@
         "coordinates": [36.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -14198,7 +14198,7 @@
         "coordinates": [36.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14208,7 +14208,7 @@
         "coordinates": [36.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14218,7 +14218,7 @@
         "coordinates": [36.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14228,7 +14228,7 @@
         "coordinates": [36.5, 49.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14238,7 +14238,7 @@
         "coordinates": [37.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14248,7 +14248,7 @@
         "coordinates": [37.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -14258,7 +14258,7 @@
         "coordinates": [37.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -14268,7 +14268,7 @@
         "coordinates": [37.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14278,7 +14278,7 @@
         "coordinates": [37.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -14288,7 +14288,7 @@
         "coordinates": [37.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14298,7 +14298,7 @@
         "coordinates": [37.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -14308,7 +14308,7 @@
         "coordinates": [37.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -14318,7 +14318,7 @@
         "coordinates": [37.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14328,7 +14328,7 @@
         "coordinates": [38.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -14338,7 +14338,7 @@
         "coordinates": [38.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -14348,7 +14348,7 @@
         "coordinates": [38.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -14358,7 +14358,7 @@
         "coordinates": [38.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -14368,7 +14368,7 @@
         "coordinates": [38.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14378,7 +14378,7 @@
         "coordinates": [38.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -14388,7 +14388,7 @@
         "coordinates": [38.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14398,7 +14398,7 @@
         "coordinates": [38.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14408,7 +14408,7 @@
         "coordinates": [39.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14418,7 +14418,7 @@
         "coordinates": [39.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -14428,7 +14428,7 @@
         "coordinates": [39.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -14438,7 +14438,7 @@
         "coordinates": [39.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -14448,7 +14448,7 @@
         "coordinates": [39.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -14458,7 +14458,7 @@
         "coordinates": [39.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -14468,7 +14468,7 @@
         "coordinates": [39.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14478,7 +14478,7 @@
         "coordinates": [39.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14488,7 +14488,7 @@
         "coordinates": [39.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -14498,7 +14498,7 @@
         "coordinates": [39.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14508,7 +14508,7 @@
         "coordinates": [39.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -14518,7 +14518,7 @@
         "coordinates": [39.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -14528,7 +14528,7 @@
         "coordinates": [39.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14538,7 +14538,7 @@
         "coordinates": [39.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14548,7 +14548,7 @@
         "coordinates": [39.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14558,7 +14558,7 @@
         "coordinates": [40.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -14568,7 +14568,7 @@
         "coordinates": [40.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14578,7 +14578,7 @@
         "coordinates": [40.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -14588,7 +14588,7 @@
         "coordinates": [40.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14598,7 +14598,7 @@
         "coordinates": [40.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14608,7 +14608,7 @@
         "coordinates": [40.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14618,7 +14618,7 @@
         "coordinates": [40.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14628,7 +14628,7 @@
         "coordinates": [40.5, 54.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14638,7 +14638,7 @@
         "coordinates": [41.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -14648,7 +14648,7 @@
         "coordinates": [41.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -14658,7 +14658,7 @@
         "coordinates": [42.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -14668,7 +14668,7 @@
         "coordinates": [42.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14678,7 +14678,7 @@
         "coordinates": [42.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14688,7 +14688,7 @@
         "coordinates": [42.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -14698,7 +14698,7 @@
         "coordinates": [43.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.4205
+        "sppRichness": 1.6819
       }
     },
     {
@@ -14708,7 +14708,7 @@
         "coordinates": [43.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.713
+        "sppRichness": 2.8519
       }
     },
     {
@@ -14718,7 +14718,7 @@
         "coordinates": [43.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.5759
+        "sppRichness": 2.3035
       }
     },
     {
@@ -14728,7 +14728,7 @@
         "coordinates": [43.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.5484
+        "sppRichness": 2.1938
       }
     },
     {
@@ -14738,7 +14738,7 @@
         "coordinates": [43.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.4296
+        "sppRichness": 1.7185
       }
     },
     {
@@ -14748,7 +14748,7 @@
         "coordinates": [43.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -14758,7 +14758,7 @@
         "coordinates": [43.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14768,7 +14768,7 @@
         "coordinates": [43.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -14778,7 +14778,7 @@
         "coordinates": [43.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14788,7 +14788,7 @@
         "coordinates": [44.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -14798,7 +14798,7 @@
         "coordinates": [44.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -14808,7 +14808,7 @@
         "coordinates": [44.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.777
+        "sppRichness": 3.1079
       }
     },
     {
@@ -14818,7 +14818,7 @@
         "coordinates": [44.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.8227
+        "sppRichness": 3.2907
       }
     },
     {
@@ -14828,7 +14828,7 @@
         "coordinates": [44.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.7313
+        "sppRichness": 2.925
       }
     },
     {
@@ -14838,7 +14838,7 @@
         "coordinates": [44.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.8501
+        "sppRichness": 3.4004
       }
     },
     {
@@ -14848,7 +14848,7 @@
         "coordinates": [44.5, -18.5]
       },
       "properties": {
-        "sppRichness": 1.0329
+        "sppRichness": 4.1316
       }
     },
     {
@@ -14858,7 +14858,7 @@
         "coordinates": [44.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.585
+        "sppRichness": 2.34
       }
     },
     {
@@ -14868,7 +14868,7 @@
         "coordinates": [44.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.6216
+        "sppRichness": 2.4863
       }
     },
     {
@@ -14878,7 +14878,7 @@
         "coordinates": [44.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -14888,7 +14888,7 @@
         "coordinates": [44.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14898,7 +14898,7 @@
         "coordinates": [44.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -14908,7 +14908,7 @@
         "coordinates": [44.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14918,7 +14918,7 @@
         "coordinates": [44.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -14928,7 +14928,7 @@
         "coordinates": [44.5, 58.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -14938,7 +14938,7 @@
         "coordinates": [45.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -14948,7 +14948,7 @@
         "coordinates": [45.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -14958,7 +14958,7 @@
         "coordinates": [45.5, -22.5]
       },
       "properties": {
-        "sppRichness": 1.1609
+        "sppRichness": 4.6435
       }
     },
     {
@@ -14968,7 +14968,7 @@
         "coordinates": [45.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.7038
+        "sppRichness": 2.8154
       }
     },
     {
@@ -14978,7 +14978,7 @@
         "coordinates": [45.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -14988,7 +14988,7 @@
         "coordinates": [45.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -14998,7 +14998,7 @@
         "coordinates": [45.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.5484
+        "sppRichness": 2.1938
       }
     },
     {
@@ -15008,7 +15008,7 @@
         "coordinates": [45.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -15018,7 +15018,7 @@
         "coordinates": [45.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.9049
+        "sppRichness": 3.6197
       }
     },
     {
@@ -15028,7 +15028,7 @@
         "coordinates": [45.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -15038,7 +15038,7 @@
         "coordinates": [45.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.6673
+        "sppRichness": 2.6691
       }
     },
     {
@@ -15048,7 +15048,7 @@
         "coordinates": [45.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -15058,7 +15058,7 @@
         "coordinates": [45.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -15068,7 +15068,7 @@
         "coordinates": [45.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15078,7 +15078,7 @@
         "coordinates": [46.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.8501
+        "sppRichness": 3.4004
       }
     },
     {
@@ -15088,7 +15088,7 @@
         "coordinates": [46.5, -24.5]
       },
       "properties": {
-        "sppRichness": 1.7824
+        "sppRichness": 7.1298
       }
     },
     {
@@ -15098,7 +15098,7 @@
         "coordinates": [46.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.8227
+        "sppRichness": 3.2907
       }
     },
     {
@@ -15108,7 +15108,7 @@
         "coordinates": [46.5, -22.5]
       },
       "properties": {
-        "sppRichness": 1.0878
+        "sppRichness": 4.351
       }
     },
     {
@@ -15118,7 +15118,7 @@
         "coordinates": [46.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -15128,7 +15128,7 @@
         "coordinates": [46.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.8044
+        "sppRichness": 3.2176
       }
     },
     {
@@ -15138,7 +15138,7 @@
         "coordinates": [46.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -15148,7 +15148,7 @@
         "coordinates": [46.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15158,7 +15158,7 @@
         "coordinates": [46.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.6947
+        "sppRichness": 2.7788
       }
     },
     {
@@ -15168,7 +15168,7 @@
         "coordinates": [46.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -15178,7 +15178,7 @@
         "coordinates": [46.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -15188,7 +15188,7 @@
         "coordinates": [46.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -15198,7 +15198,7 @@
         "coordinates": [46.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -15208,7 +15208,7 @@
         "coordinates": [46.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15218,7 +15218,7 @@
         "coordinates": [46.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15228,7 +15228,7 @@
         "coordinates": [47.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.7495
+        "sppRichness": 2.9982
       }
     },
     {
@@ -15238,7 +15238,7 @@
         "coordinates": [47.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.777
+        "sppRichness": 3.1079
       }
     },
     {
@@ -15248,7 +15248,7 @@
         "coordinates": [47.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.8775
+        "sppRichness": 3.5101
       }
     },
     {
@@ -15258,7 +15258,7 @@
         "coordinates": [47.5, -21.5]
       },
       "properties": {
-        "sppRichness": 1.6088
+        "sppRichness": 6.4351
       }
     },
     {
@@ -15268,7 +15268,7 @@
         "coordinates": [47.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.841
+        "sppRichness": 3.3638
       }
     },
     {
@@ -15278,7 +15278,7 @@
         "coordinates": [47.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.5119
+        "sppRichness": 2.0475
       }
     },
     {
@@ -15288,7 +15288,7 @@
         "coordinates": [47.5, -18.5]
       },
       "properties": {
-        "sppRichness": 1.4899
+        "sppRichness": 5.9598
       }
     },
     {
@@ -15298,7 +15298,7 @@
         "coordinates": [47.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -15308,7 +15308,7 @@
         "coordinates": [47.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.6673
+        "sppRichness": 2.6691
       }
     },
     {
@@ -15318,7 +15318,7 @@
         "coordinates": [47.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -15328,7 +15328,7 @@
         "coordinates": [47.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.585
+        "sppRichness": 2.34
       }
     },
     {
@@ -15338,7 +15338,7 @@
         "coordinates": [47.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.457
+        "sppRichness": 1.8282
       }
     },
     {
@@ -15348,7 +15348,7 @@
         "coordinates": [47.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -15358,7 +15358,7 @@
         "coordinates": [47.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -15368,7 +15368,7 @@
         "coordinates": [47.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15378,7 +15378,7 @@
         "coordinates": [47.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15388,7 +15388,7 @@
         "coordinates": [48.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -15398,7 +15398,7 @@
         "coordinates": [48.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15408,7 +15408,7 @@
         "coordinates": [48.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.3199
+        "sppRichness": 1.2797
       }
     },
     {
@@ -15418,7 +15418,7 @@
         "coordinates": [48.5, -18.5]
       },
       "properties": {
-        "sppRichness": 2.0658
+        "sppRichness": 8.2633
       }
     },
     {
@@ -15428,7 +15428,7 @@
         "coordinates": [48.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.8684
+        "sppRichness": 3.4735
       }
     },
     {
@@ -15438,7 +15438,7 @@
         "coordinates": [48.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.6764
+        "sppRichness": 2.7057
       }
     },
     {
@@ -15448,7 +15448,7 @@
         "coordinates": [48.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.6673
+        "sppRichness": 2.6691
       }
     },
     {
@@ -15458,7 +15458,7 @@
         "coordinates": [48.5, -13.5]
       },
       "properties": {
-        "sppRichness": 1.9287
+        "sppRichness": 7.7148
       }
     },
     {
@@ -15468,7 +15468,7 @@
         "coordinates": [48.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15478,7 +15478,7 @@
         "coordinates": [48.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -15488,7 +15488,7 @@
         "coordinates": [49.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.7404
+        "sppRichness": 2.9616
       }
     },
     {
@@ -15498,7 +15498,7 @@
         "coordinates": [49.5, -17.5]
       },
       "properties": {
-        "sppRichness": 1.4351
+        "sppRichness": 5.7404
       }
     },
     {
@@ -15508,7 +15508,7 @@
         "coordinates": [49.5, -16.5]
       },
       "properties": {
-        "sppRichness": 1.4625
+        "sppRichness": 5.8501
       }
     },
     {
@@ -15518,7 +15518,7 @@
         "coordinates": [49.5, -15.5]
       },
       "properties": {
-        "sppRichness": 1.6271
+        "sppRichness": 6.5082
       }
     },
     {
@@ -15528,7 +15528,7 @@
         "coordinates": [49.5, -14.5]
       },
       "properties": {
-        "sppRichness": 2.0475
+        "sppRichness": 8.1901
       }
     },
     {
@@ -15538,7 +15538,7 @@
         "coordinates": [49.5, -13.5]
       },
       "properties": {
-        "sppRichness": 1.6088
+        "sppRichness": 6.4351
       }
     },
     {
@@ -15548,7 +15548,7 @@
         "coordinates": [49.5, -12.5]
       },
       "properties": {
-        "sppRichness": 2.0841
+        "sppRichness": 8.3364
       }
     },
     {
@@ -15558,7 +15558,7 @@
         "coordinates": [49.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15568,7 +15568,7 @@
         "coordinates": [49.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15578,7 +15578,7 @@
         "coordinates": [50.5, -15.5]
       },
       "properties": {
-        "sppRichness": 1.1974
+        "sppRichness": 4.7898
       }
     },
     {
@@ -15588,7 +15588,7 @@
         "coordinates": [50.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.9232
+        "sppRichness": 3.6929
       }
     },
     {
@@ -15598,7 +15598,7 @@
         "coordinates": [50.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.5941
+        "sppRichness": 2.3766
       }
     },
     {
@@ -15608,7 +15608,7 @@
         "coordinates": [50.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15618,7 +15618,7 @@
         "coordinates": [50.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15628,7 +15628,7 @@
         "coordinates": [51.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15638,7 +15638,7 @@
         "coordinates": [51.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15648,7 +15648,7 @@
         "coordinates": [51.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -15658,7 +15658,7 @@
         "coordinates": [51.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -15668,7 +15668,7 @@
         "coordinates": [51.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15678,7 +15678,7 @@
         "coordinates": [52.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15688,7 +15688,7 @@
         "coordinates": [52.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15698,7 +15698,7 @@
         "coordinates": [52.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15708,7 +15708,7 @@
         "coordinates": [52.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -15718,7 +15718,7 @@
         "coordinates": [53.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -15728,7 +15728,7 @@
         "coordinates": [53.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15738,7 +15738,7 @@
         "coordinates": [54.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -15748,7 +15748,7 @@
         "coordinates": [54.5, 39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15758,7 +15758,7 @@
         "coordinates": [55.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -15768,7 +15768,7 @@
         "coordinates": [55.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -15778,7 +15778,7 @@
         "coordinates": [55.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.457
+        "sppRichness": 1.8282
       }
     },
     {
@@ -15788,7 +15788,7 @@
         "coordinates": [55.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15798,7 +15798,7 @@
         "coordinates": [55.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -15808,7 +15808,7 @@
         "coordinates": [55.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -15818,7 +15818,7 @@
         "coordinates": [55.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15828,7 +15828,7 @@
         "coordinates": [56.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -15838,7 +15838,7 @@
         "coordinates": [56.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -15848,7 +15848,7 @@
         "coordinates": [56.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15858,7 +15858,7 @@
         "coordinates": [57.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.457
+        "sppRichness": 1.8282
       }
     },
     {
@@ -15868,7 +15868,7 @@
         "coordinates": [57.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -15878,7 +15878,7 @@
         "coordinates": [57.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15888,7 +15888,7 @@
         "coordinates": [58.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15898,7 +15898,7 @@
         "coordinates": [58.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15908,7 +15908,7 @@
         "coordinates": [59.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15918,7 +15918,7 @@
         "coordinates": [63.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -15928,7 +15928,7 @@
         "coordinates": [67.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15938,7 +15938,7 @@
         "coordinates": [71.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15948,7 +15948,7 @@
         "coordinates": [72.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15958,7 +15958,7 @@
         "coordinates": [72.5, 40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15968,7 +15968,7 @@
         "coordinates": [73.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -15978,7 +15978,7 @@
         "coordinates": [73.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15988,7 +15988,7 @@
         "coordinates": [73.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -15998,7 +15998,7 @@
         "coordinates": [73.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16008,7 +16008,7 @@
         "coordinates": [74.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16018,7 +16018,7 @@
         "coordinates": [74.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16028,7 +16028,7 @@
         "coordinates": [74.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16038,7 +16038,7 @@
         "coordinates": [74.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16048,7 +16048,7 @@
         "coordinates": [74.5, 41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16058,7 +16058,7 @@
         "coordinates": [75.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16068,7 +16068,7 @@
         "coordinates": [75.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16078,7 +16078,7 @@
         "coordinates": [75.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -16088,7 +16088,7 @@
         "coordinates": [75.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -16098,7 +16098,7 @@
         "coordinates": [75.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -16108,7 +16108,7 @@
         "coordinates": [76.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -16118,7 +16118,7 @@
         "coordinates": [76.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -16128,7 +16128,7 @@
         "coordinates": [76.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16138,7 +16138,7 @@
         "coordinates": [76.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -16148,7 +16148,7 @@
         "coordinates": [76.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16158,7 +16158,7 @@
         "coordinates": [77.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16168,7 +16168,7 @@
         "coordinates": [77.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16178,7 +16178,7 @@
         "coordinates": [77.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16188,7 +16188,7 @@
         "coordinates": [77.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16198,7 +16198,7 @@
         "coordinates": [77.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16208,7 +16208,7 @@
         "coordinates": [77.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16218,7 +16218,7 @@
         "coordinates": [77.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16228,7 +16228,7 @@
         "coordinates": [77.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16238,7 +16238,7 @@
         "coordinates": [77.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16248,7 +16248,7 @@
         "coordinates": [77.5, 38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16258,7 +16258,7 @@
         "coordinates": [77.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16268,7 +16268,7 @@
         "coordinates": [78.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16278,7 +16278,7 @@
         "coordinates": [78.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16288,7 +16288,7 @@
         "coordinates": [78.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -16298,7 +16298,7 @@
         "coordinates": [78.5, 31.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16308,7 +16308,7 @@
         "coordinates": [79.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16318,7 +16318,7 @@
         "coordinates": [79.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16328,7 +16328,7 @@
         "coordinates": [79.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16338,7 +16338,7 @@
         "coordinates": [79.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16348,7 +16348,7 @@
         "coordinates": [79.5, 45.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16358,7 +16358,7 @@
         "coordinates": [80.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -16368,7 +16368,7 @@
         "coordinates": [80.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -16378,7 +16378,7 @@
         "coordinates": [80.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16388,7 +16388,7 @@
         "coordinates": [81.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16398,7 +16398,7 @@
         "coordinates": [83.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -16408,7 +16408,7 @@
         "coordinates": [84.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16418,7 +16418,7 @@
         "coordinates": [84.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16428,7 +16428,7 @@
         "coordinates": [84.5, 28.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16438,7 +16438,7 @@
         "coordinates": [84.5, 42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16448,7 +16448,7 @@
         "coordinates": [85.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16458,7 +16458,7 @@
         "coordinates": [86.5, 50.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16468,7 +16468,7 @@
         "coordinates": [87.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16478,7 +16478,7 @@
         "coordinates": [87.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16488,7 +16488,7 @@
         "coordinates": [88.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16498,7 +16498,7 @@
         "coordinates": [88.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16508,7 +16508,7 @@
         "coordinates": [88.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16518,7 +16518,7 @@
         "coordinates": [89.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16528,7 +16528,7 @@
         "coordinates": [90.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16538,7 +16538,7 @@
         "coordinates": [91.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16548,7 +16548,7 @@
         "coordinates": [92.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16558,7 +16558,7 @@
         "coordinates": [92.5, 55.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16568,7 +16568,7 @@
         "coordinates": [94.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16578,7 +16578,7 @@
         "coordinates": [94.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16588,7 +16588,7 @@
         "coordinates": [95.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16598,7 +16598,7 @@
         "coordinates": [95.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16608,7 +16608,7 @@
         "coordinates": [96.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16618,7 +16618,7 @@
         "coordinates": [96.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16628,7 +16628,7 @@
         "coordinates": [96.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16638,7 +16638,7 @@
         "coordinates": [96.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16648,7 +16648,7 @@
         "coordinates": [96.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16658,7 +16658,7 @@
         "coordinates": [97.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -16668,7 +16668,7 @@
         "coordinates": [97.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16678,7 +16678,7 @@
         "coordinates": [97.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16688,7 +16688,7 @@
         "coordinates": [98.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16698,7 +16698,7 @@
         "coordinates": [98.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16708,7 +16708,7 @@
         "coordinates": [98.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16718,7 +16718,7 @@
         "coordinates": [98.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16728,7 +16728,7 @@
         "coordinates": [98.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -16738,7 +16738,7 @@
         "coordinates": [98.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16748,7 +16748,7 @@
         "coordinates": [98.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16758,7 +16758,7 @@
         "coordinates": [99.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16768,7 +16768,7 @@
         "coordinates": [99.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16778,7 +16778,7 @@
         "coordinates": [99.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16788,7 +16788,7 @@
         "coordinates": [99.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16798,7 +16798,7 @@
         "coordinates": [99.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16808,7 +16808,7 @@
         "coordinates": [100.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -16818,7 +16818,7 @@
         "coordinates": [100.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -16828,7 +16828,7 @@
         "coordinates": [100.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16838,7 +16838,7 @@
         "coordinates": [100.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -16848,7 +16848,7 @@
         "coordinates": [100.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -16858,7 +16858,7 @@
         "coordinates": [100.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16868,7 +16868,7 @@
         "coordinates": [100.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16878,7 +16878,7 @@
         "coordinates": [100.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16888,7 +16888,7 @@
         "coordinates": [100.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16898,7 +16898,7 @@
         "coordinates": [100.5, 84.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16908,7 +16908,7 @@
         "coordinates": [101.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16918,7 +16918,7 @@
         "coordinates": [101.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -16928,7 +16928,7 @@
         "coordinates": [101.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -16938,7 +16938,7 @@
         "coordinates": [101.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -16948,7 +16948,7 @@
         "coordinates": [101.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16958,7 +16958,7 @@
         "coordinates": [101.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -16968,7 +16968,7 @@
         "coordinates": [101.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -16978,7 +16978,7 @@
         "coordinates": [101.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -16988,7 +16988,7 @@
         "coordinates": [101.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -16998,7 +16998,7 @@
         "coordinates": [101.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -17008,7 +17008,7 @@
         "coordinates": [101.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17018,7 +17018,7 @@
         "coordinates": [101.5, 21.5]
       },
       "properties": {
-        "sppRichness": 1.2614
+        "sppRichness": 5.0457
       }
     },
     {
@@ -17028,7 +17028,7 @@
         "coordinates": [101.5, 44.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17038,7 +17038,7 @@
         "coordinates": [102.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17048,7 +17048,7 @@
         "coordinates": [102.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17058,7 +17058,7 @@
         "coordinates": [102.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17068,7 +17068,7 @@
         "coordinates": [102.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17078,7 +17078,7 @@
         "coordinates": [102.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17088,7 +17088,7 @@
         "coordinates": [102.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -17098,7 +17098,7 @@
         "coordinates": [102.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17108,7 +17108,7 @@
         "coordinates": [102.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17118,7 +17118,7 @@
         "coordinates": [102.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17128,7 +17128,7 @@
         "coordinates": [102.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17138,7 +17138,7 @@
         "coordinates": [103.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17148,7 +17148,7 @@
         "coordinates": [103.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.3839
+        "sppRichness": 1.5356
       }
     },
     {
@@ -17158,7 +17158,7 @@
         "coordinates": [103.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17168,7 +17168,7 @@
         "coordinates": [103.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17178,7 +17178,7 @@
         "coordinates": [103.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17188,7 +17188,7 @@
         "coordinates": [103.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17198,7 +17198,7 @@
         "coordinates": [103.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17208,7 +17208,7 @@
         "coordinates": [104.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -17218,7 +17218,7 @@
         "coordinates": [104.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17228,7 +17228,7 @@
         "coordinates": [104.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17238,7 +17238,7 @@
         "coordinates": [104.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17248,7 +17248,7 @@
         "coordinates": [104.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17258,7 +17258,7 @@
         "coordinates": [104.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17268,7 +17268,7 @@
         "coordinates": [104.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17278,7 +17278,7 @@
         "coordinates": [104.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17288,7 +17288,7 @@
         "coordinates": [104.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17298,7 +17298,7 @@
         "coordinates": [105.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -17308,7 +17308,7 @@
         "coordinates": [105.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.3931
+        "sppRichness": 1.5722
       }
     },
     {
@@ -17318,7 +17318,7 @@
         "coordinates": [105.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17328,7 +17328,7 @@
         "coordinates": [105.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17338,7 +17338,7 @@
         "coordinates": [105.5, 12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17348,7 +17348,7 @@
         "coordinates": [105.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -17358,7 +17358,7 @@
         "coordinates": [105.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17368,7 +17368,7 @@
         "coordinates": [105.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17378,7 +17378,7 @@
         "coordinates": [105.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -17388,7 +17388,7 @@
         "coordinates": [105.5, 32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17398,7 +17398,7 @@
         "coordinates": [106.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17408,7 +17408,7 @@
         "coordinates": [106.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -17418,7 +17418,7 @@
         "coordinates": [106.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17428,7 +17428,7 @@
         "coordinates": [106.5, 20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17438,7 +17438,7 @@
         "coordinates": [106.5, 21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17448,7 +17448,7 @@
         "coordinates": [106.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17458,7 +17458,7 @@
         "coordinates": [107.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17468,7 +17468,7 @@
         "coordinates": [107.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17478,7 +17478,7 @@
         "coordinates": [107.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17488,7 +17488,7 @@
         "coordinates": [107.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17498,7 +17498,7 @@
         "coordinates": [108.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17508,7 +17508,7 @@
         "coordinates": [108.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17518,7 +17518,7 @@
         "coordinates": [108.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17528,7 +17528,7 @@
         "coordinates": [109.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -17538,7 +17538,7 @@
         "coordinates": [109.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17548,7 +17548,7 @@
         "coordinates": [109.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17558,7 +17558,7 @@
         "coordinates": [110.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17568,7 +17568,7 @@
         "coordinates": [110.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -17578,7 +17578,7 @@
         "coordinates": [110.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -17588,7 +17588,7 @@
         "coordinates": [110.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17598,7 +17598,7 @@
         "coordinates": [110.5, 30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17608,7 +17608,7 @@
         "coordinates": [111.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17618,7 +17618,7 @@
         "coordinates": [112.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17628,7 +17628,7 @@
         "coordinates": [112.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17638,7 +17638,7 @@
         "coordinates": [112.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17648,7 +17648,7 @@
         "coordinates": [112.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17658,7 +17658,7 @@
         "coordinates": [113.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17668,7 +17668,7 @@
         "coordinates": [113.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17678,7 +17678,7 @@
         "coordinates": [113.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -17688,7 +17688,7 @@
         "coordinates": [113.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -17698,7 +17698,7 @@
         "coordinates": [113.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17708,7 +17708,7 @@
         "coordinates": [113.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17718,7 +17718,7 @@
         "coordinates": [113.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17728,7 +17728,7 @@
         "coordinates": [113.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -17738,7 +17738,7 @@
         "coordinates": [113.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17748,7 +17748,7 @@
         "coordinates": [113.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17758,7 +17758,7 @@
         "coordinates": [114.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17768,7 +17768,7 @@
         "coordinates": [114.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17778,7 +17778,7 @@
         "coordinates": [114.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17788,7 +17788,7 @@
         "coordinates": [114.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -17798,7 +17798,7 @@
         "coordinates": [114.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -17808,7 +17808,7 @@
         "coordinates": [114.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -17818,7 +17818,7 @@
         "coordinates": [114.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -17828,7 +17828,7 @@
         "coordinates": [114.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17838,7 +17838,7 @@
         "coordinates": [114.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17848,7 +17848,7 @@
         "coordinates": [114.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -17858,7 +17858,7 @@
         "coordinates": [114.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17868,7 +17868,7 @@
         "coordinates": [114.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -17878,7 +17878,7 @@
         "coordinates": [114.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -17888,7 +17888,7 @@
         "coordinates": [114.5, 22.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -17898,7 +17898,7 @@
         "coordinates": [115.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.3199
+        "sppRichness": 1.2797
       }
     },
     {
@@ -17908,7 +17908,7 @@
         "coordinates": [115.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -17918,7 +17918,7 @@
         "coordinates": [115.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.841
+        "sppRichness": 3.3638
       }
     },
     {
@@ -17928,7 +17928,7 @@
         "coordinates": [115.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.9963
+        "sppRichness": 3.9854
       }
     },
     {
@@ -17938,7 +17938,7 @@
         "coordinates": [115.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.3199
+        "sppRichness": 1.2797
       }
     },
     {
@@ -17948,7 +17948,7 @@
         "coordinates": [115.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.4388
+        "sppRichness": 1.755
       }
     },
     {
@@ -17958,7 +17958,7 @@
         "coordinates": [115.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.2742
+        "sppRichness": 1.0969
       }
     },
     {
@@ -17968,7 +17968,7 @@
         "coordinates": [115.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17978,7 +17978,7 @@
         "coordinates": [115.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -17988,7 +17988,7 @@
         "coordinates": [115.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -17998,7 +17998,7 @@
         "coordinates": [115.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18008,7 +18008,7 @@
         "coordinates": [115.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.4113
+        "sppRichness": 1.6453
       }
     },
     {
@@ -18018,7 +18018,7 @@
         "coordinates": [115.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18028,7 +18028,7 @@
         "coordinates": [115.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18038,7 +18038,7 @@
         "coordinates": [115.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18048,7 +18048,7 @@
         "coordinates": [115.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18058,7 +18058,7 @@
         "coordinates": [115.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -18068,7 +18068,7 @@
         "coordinates": [115.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18078,7 +18078,7 @@
         "coordinates": [116.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.5027
+        "sppRichness": 2.011
       }
     },
     {
@@ -18088,7 +18088,7 @@
         "coordinates": [116.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -18098,7 +18098,7 @@
         "coordinates": [116.5, -32.5]
       },
       "properties": {
-        "sppRichness": 1.1426
+        "sppRichness": 4.5704
       }
     },
     {
@@ -18108,7 +18108,7 @@
         "coordinates": [116.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.9049
+        "sppRichness": 3.6197
       }
     },
     {
@@ -18118,7 +18118,7 @@
         "coordinates": [116.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -18128,7 +18128,7 @@
         "coordinates": [116.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -18138,7 +18138,7 @@
         "coordinates": [116.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -18148,7 +18148,7 @@
         "coordinates": [116.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18158,7 +18158,7 @@
         "coordinates": [116.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -18168,7 +18168,7 @@
         "coordinates": [116.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -18178,7 +18178,7 @@
         "coordinates": [116.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -18188,7 +18188,7 @@
         "coordinates": [116.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18198,7 +18198,7 @@
         "coordinates": [116.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18208,7 +18208,7 @@
         "coordinates": [116.5, 4.5]
       },
       "properties": {
-        "sppRichness": 1.3071
+        "sppRichness": 5.2285
       }
     },
     {
@@ -18218,7 +18218,7 @@
         "coordinates": [116.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -18228,7 +18228,7 @@
         "coordinates": [116.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.2742
+        "sppRichness": 1.0969
       }
     },
     {
@@ -18238,7 +18238,7 @@
         "coordinates": [117.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -18248,7 +18248,7 @@
         "coordinates": [117.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.457
+        "sppRichness": 1.8282
       }
     },
     {
@@ -18258,7 +18258,7 @@
         "coordinates": [117.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -18268,7 +18268,7 @@
         "coordinates": [117.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -18278,7 +18278,7 @@
         "coordinates": [117.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -18288,7 +18288,7 @@
         "coordinates": [117.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -18298,7 +18298,7 @@
         "coordinates": [117.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -18308,7 +18308,7 @@
         "coordinates": [117.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -18318,7 +18318,7 @@
         "coordinates": [117.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -18328,7 +18328,7 @@
         "coordinates": [117.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18338,7 +18338,7 @@
         "coordinates": [117.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -18348,7 +18348,7 @@
         "coordinates": [117.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -18358,7 +18358,7 @@
         "coordinates": [117.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -18368,7 +18368,7 @@
         "coordinates": [117.5, 4.5]
       },
       "properties": {
-        "sppRichness": 1.3254
+        "sppRichness": 5.3016
       }
     },
     {
@@ -18378,7 +18378,7 @@
         "coordinates": [117.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -18388,7 +18388,7 @@
         "coordinates": [117.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18398,7 +18398,7 @@
         "coordinates": [118.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.5302
+        "sppRichness": 2.1207
       }
     },
     {
@@ -18408,7 +18408,7 @@
         "coordinates": [118.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -18418,7 +18418,7 @@
         "coordinates": [118.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -18428,7 +18428,7 @@
         "coordinates": [118.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -18438,7 +18438,7 @@
         "coordinates": [118.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -18448,7 +18448,7 @@
         "coordinates": [118.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -18458,7 +18458,7 @@
         "coordinates": [118.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -18468,7 +18468,7 @@
         "coordinates": [118.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -18478,7 +18478,7 @@
         "coordinates": [118.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18488,7 +18488,7 @@
         "coordinates": [118.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18498,7 +18498,7 @@
         "coordinates": [118.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.3382
+        "sppRichness": 1.3528
       }
     },
     {
@@ -18508,7 +18508,7 @@
         "coordinates": [118.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18518,7 +18518,7 @@
         "coordinates": [118.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -18528,7 +18528,7 @@
         "coordinates": [118.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18538,7 +18538,7 @@
         "coordinates": [118.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -18548,7 +18548,7 @@
         "coordinates": [118.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.3748
+        "sppRichness": 1.4991
       }
     },
     {
@@ -18558,7 +18558,7 @@
         "coordinates": [118.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18568,7 +18568,7 @@
         "coordinates": [118.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18578,7 +18578,7 @@
         "coordinates": [118.5, 29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -18588,7 +18588,7 @@
         "coordinates": [119.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -18598,7 +18598,7 @@
         "coordinates": [119.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -18608,7 +18608,7 @@
         "coordinates": [119.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.3382
+        "sppRichness": 1.3528
       }
     },
     {
@@ -18618,7 +18618,7 @@
         "coordinates": [119.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -18628,7 +18628,7 @@
         "coordinates": [119.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18638,7 +18638,7 @@
         "coordinates": [119.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18648,7 +18648,7 @@
         "coordinates": [119.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18658,7 +18658,7 @@
         "coordinates": [119.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -18668,7 +18668,7 @@
         "coordinates": [119.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18678,7 +18678,7 @@
         "coordinates": [119.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -18688,7 +18688,7 @@
         "coordinates": [119.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -18698,7 +18698,7 @@
         "coordinates": [119.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.2742
+        "sppRichness": 1.0969
       }
     },
     {
@@ -18708,7 +18708,7 @@
         "coordinates": [119.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -18718,7 +18718,7 @@
         "coordinates": [119.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -18728,7 +18728,7 @@
         "coordinates": [119.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -18738,7 +18738,7 @@
         "coordinates": [119.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18748,7 +18748,7 @@
         "coordinates": [119.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18758,7 +18758,7 @@
         "coordinates": [119.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18768,7 +18768,7 @@
         "coordinates": [119.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18778,7 +18778,7 @@
         "coordinates": [119.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18788,7 +18788,7 @@
         "coordinates": [119.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18798,7 +18798,7 @@
         "coordinates": [120.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.2742
+        "sppRichness": 1.0969
       }
     },
     {
@@ -18808,7 +18808,7 @@
         "coordinates": [120.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18818,7 +18818,7 @@
         "coordinates": [120.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -18828,7 +18828,7 @@
         "coordinates": [120.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -18838,7 +18838,7 @@
         "coordinates": [120.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18848,7 +18848,7 @@
         "coordinates": [120.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -18858,7 +18858,7 @@
         "coordinates": [120.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18868,7 +18868,7 @@
         "coordinates": [120.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18878,7 +18878,7 @@
         "coordinates": [120.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18888,7 +18888,7 @@
         "coordinates": [120.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -18898,7 +18898,7 @@
         "coordinates": [120.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -18908,7 +18908,7 @@
         "coordinates": [120.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18918,7 +18918,7 @@
         "coordinates": [120.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -18928,7 +18928,7 @@
         "coordinates": [120.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -18938,7 +18938,7 @@
         "coordinates": [120.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18948,7 +18948,7 @@
         "coordinates": [120.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18958,7 +18958,7 @@
         "coordinates": [120.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -18968,7 +18968,7 @@
         "coordinates": [120.5, 23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -18978,7 +18978,7 @@
         "coordinates": [121.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.4296
+        "sppRichness": 1.7185
       }
     },
     {
@@ -18988,7 +18988,7 @@
         "coordinates": [121.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -18998,7 +18998,7 @@
         "coordinates": [121.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.3382
+        "sppRichness": 1.3528
       }
     },
     {
@@ -19008,7 +19008,7 @@
         "coordinates": [121.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -19018,7 +19018,7 @@
         "coordinates": [121.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -19028,7 +19028,7 @@
         "coordinates": [121.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -19038,7 +19038,7 @@
         "coordinates": [121.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -19048,7 +19048,7 @@
         "coordinates": [121.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19058,7 +19058,7 @@
         "coordinates": [121.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19068,7 +19068,7 @@
         "coordinates": [121.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19078,7 +19078,7 @@
         "coordinates": [121.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19088,7 +19088,7 @@
         "coordinates": [121.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19098,7 +19098,7 @@
         "coordinates": [121.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19108,7 +19108,7 @@
         "coordinates": [121.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -19118,7 +19118,7 @@
         "coordinates": [121.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19128,7 +19128,7 @@
         "coordinates": [121.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19138,7 +19138,7 @@
         "coordinates": [121.5, 25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19148,7 +19148,7 @@
         "coordinates": [122.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19158,7 +19158,7 @@
         "coordinates": [122.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -19168,7 +19168,7 @@
         "coordinates": [122.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -19178,7 +19178,7 @@
         "coordinates": [122.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -19188,7 +19188,7 @@
         "coordinates": [122.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -19198,7 +19198,7 @@
         "coordinates": [122.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19208,7 +19208,7 @@
         "coordinates": [122.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -19218,7 +19218,7 @@
         "coordinates": [122.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19228,7 +19228,7 @@
         "coordinates": [122.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19238,7 +19238,7 @@
         "coordinates": [122.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -19248,7 +19248,7 @@
         "coordinates": [122.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19258,7 +19258,7 @@
         "coordinates": [122.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -19268,7 +19268,7 @@
         "coordinates": [122.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -19278,7 +19278,7 @@
         "coordinates": [122.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19288,7 +19288,7 @@
         "coordinates": [122.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19298,7 +19298,7 @@
         "coordinates": [122.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19308,7 +19308,7 @@
         "coordinates": [122.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19318,7 +19318,7 @@
         "coordinates": [123.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.4113
+        "sppRichness": 1.6453
       }
     },
     {
@@ -19328,7 +19328,7 @@
         "coordinates": [123.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -19338,7 +19338,7 @@
         "coordinates": [123.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -19348,7 +19348,7 @@
         "coordinates": [123.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -19358,7 +19358,7 @@
         "coordinates": [123.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19368,7 +19368,7 @@
         "coordinates": [123.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19378,7 +19378,7 @@
         "coordinates": [123.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19388,7 +19388,7 @@
         "coordinates": [123.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19398,7 +19398,7 @@
         "coordinates": [123.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19408,7 +19408,7 @@
         "coordinates": [123.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -19418,7 +19418,7 @@
         "coordinates": [123.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -19428,7 +19428,7 @@
         "coordinates": [123.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -19438,7 +19438,7 @@
         "coordinates": [123.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -19448,7 +19448,7 @@
         "coordinates": [123.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19458,7 +19458,7 @@
         "coordinates": [123.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19468,7 +19468,7 @@
         "coordinates": [123.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19478,7 +19478,7 @@
         "coordinates": [123.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -19488,7 +19488,7 @@
         "coordinates": [123.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -19498,7 +19498,7 @@
         "coordinates": [123.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -19508,7 +19508,7 @@
         "coordinates": [123.5, 24.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19518,7 +19518,7 @@
         "coordinates": [124.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -19528,7 +19528,7 @@
         "coordinates": [124.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19538,7 +19538,7 @@
         "coordinates": [124.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -19548,7 +19548,7 @@
         "coordinates": [124.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -19558,7 +19558,7 @@
         "coordinates": [124.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19568,7 +19568,7 @@
         "coordinates": [124.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19578,7 +19578,7 @@
         "coordinates": [124.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19588,7 +19588,7 @@
         "coordinates": [124.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19598,7 +19598,7 @@
         "coordinates": [124.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -19608,7 +19608,7 @@
         "coordinates": [124.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -19618,7 +19618,7 @@
         "coordinates": [124.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -19628,7 +19628,7 @@
         "coordinates": [124.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -19638,7 +19638,7 @@
         "coordinates": [124.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -19648,7 +19648,7 @@
         "coordinates": [124.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -19658,7 +19658,7 @@
         "coordinates": [124.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19668,7 +19668,7 @@
         "coordinates": [125.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -19678,7 +19678,7 @@
         "coordinates": [125.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19688,7 +19688,7 @@
         "coordinates": [125.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19698,7 +19698,7 @@
         "coordinates": [125.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -19708,7 +19708,7 @@
         "coordinates": [125.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19718,7 +19718,7 @@
         "coordinates": [125.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19728,7 +19728,7 @@
         "coordinates": [125.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -19738,7 +19738,7 @@
         "coordinates": [125.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -19748,7 +19748,7 @@
         "coordinates": [125.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -19758,7 +19758,7 @@
         "coordinates": [125.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -19768,7 +19768,7 @@
         "coordinates": [125.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -19778,7 +19778,7 @@
         "coordinates": [125.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -19788,7 +19788,7 @@
         "coordinates": [125.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19798,7 +19798,7 @@
         "coordinates": [125.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19808,7 +19808,7 @@
         "coordinates": [125.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19818,7 +19818,7 @@
         "coordinates": [125.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19828,7 +19828,7 @@
         "coordinates": [125.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -19838,7 +19838,7 @@
         "coordinates": [125.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19848,7 +19848,7 @@
         "coordinates": [126.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -19858,7 +19858,7 @@
         "coordinates": [126.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -19868,7 +19868,7 @@
         "coordinates": [126.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19878,7 +19878,7 @@
         "coordinates": [126.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -19888,7 +19888,7 @@
         "coordinates": [126.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -19898,7 +19898,7 @@
         "coordinates": [126.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -19908,7 +19908,7 @@
         "coordinates": [126.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -19918,7 +19918,7 @@
         "coordinates": [126.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -19928,7 +19928,7 @@
         "coordinates": [126.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -19938,7 +19938,7 @@
         "coordinates": [126.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -19948,7 +19948,7 @@
         "coordinates": [126.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -19958,7 +19958,7 @@
         "coordinates": [126.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19968,7 +19968,7 @@
         "coordinates": [127.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -19978,7 +19978,7 @@
         "coordinates": [127.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -19988,7 +19988,7 @@
         "coordinates": [127.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -19998,7 +19998,7 @@
         "coordinates": [127.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -20008,7 +20008,7 @@
         "coordinates": [127.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -20018,7 +20018,7 @@
         "coordinates": [127.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -20028,7 +20028,7 @@
         "coordinates": [127.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20038,7 +20038,7 @@
         "coordinates": [127.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20048,7 +20048,7 @@
         "coordinates": [127.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20058,7 +20058,7 @@
         "coordinates": [127.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -20068,7 +20068,7 @@
         "coordinates": [127.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20078,7 +20078,7 @@
         "coordinates": [127.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20088,7 +20088,7 @@
         "coordinates": [127.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -20098,7 +20098,7 @@
         "coordinates": [127.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -20108,7 +20108,7 @@
         "coordinates": [127.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20118,7 +20118,7 @@
         "coordinates": [127.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20128,7 +20128,7 @@
         "coordinates": [127.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20138,7 +20138,7 @@
         "coordinates": [128.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -20148,7 +20148,7 @@
         "coordinates": [128.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20158,7 +20158,7 @@
         "coordinates": [128.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20168,7 +20168,7 @@
         "coordinates": [128.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -20178,7 +20178,7 @@
         "coordinates": [128.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -20188,7 +20188,7 @@
         "coordinates": [128.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20198,7 +20198,7 @@
         "coordinates": [128.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20208,7 +20208,7 @@
         "coordinates": [128.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -20218,7 +20218,7 @@
         "coordinates": [128.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20228,7 +20228,7 @@
         "coordinates": [128.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -20238,7 +20238,7 @@
         "coordinates": [128.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20248,7 +20248,7 @@
         "coordinates": [128.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.3748
+        "sppRichness": 1.4991
       }
     },
     {
@@ -20258,7 +20258,7 @@
         "coordinates": [128.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20268,7 +20268,7 @@
         "coordinates": [128.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20278,7 +20278,7 @@
         "coordinates": [128.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -20288,7 +20288,7 @@
         "coordinates": [128.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20298,7 +20298,7 @@
         "coordinates": [129.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -20308,7 +20308,7 @@
         "coordinates": [129.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20318,7 +20318,7 @@
         "coordinates": [129.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -20328,7 +20328,7 @@
         "coordinates": [129.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -20338,7 +20338,7 @@
         "coordinates": [129.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -20348,7 +20348,7 @@
         "coordinates": [129.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20358,7 +20358,7 @@
         "coordinates": [129.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -20368,7 +20368,7 @@
         "coordinates": [129.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20378,7 +20378,7 @@
         "coordinates": [129.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20388,7 +20388,7 @@
         "coordinates": [129.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -20398,7 +20398,7 @@
         "coordinates": [129.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20408,7 +20408,7 @@
         "coordinates": [129.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20418,7 +20418,7 @@
         "coordinates": [129.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -20428,7 +20428,7 @@
         "coordinates": [129.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20438,7 +20438,7 @@
         "coordinates": [129.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20448,7 +20448,7 @@
         "coordinates": [129.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20458,7 +20458,7 @@
         "coordinates": [130.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20468,7 +20468,7 @@
         "coordinates": [130.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20478,7 +20478,7 @@
         "coordinates": [130.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20488,7 +20488,7 @@
         "coordinates": [130.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -20498,7 +20498,7 @@
         "coordinates": [130.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20508,7 +20508,7 @@
         "coordinates": [130.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20518,7 +20518,7 @@
         "coordinates": [130.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -20528,7 +20528,7 @@
         "coordinates": [130.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20538,7 +20538,7 @@
         "coordinates": [130.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20548,7 +20548,7 @@
         "coordinates": [130.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -20558,7 +20558,7 @@
         "coordinates": [130.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20568,7 +20568,7 @@
         "coordinates": [130.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -20578,7 +20578,7 @@
         "coordinates": [130.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -20588,7 +20588,7 @@
         "coordinates": [130.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -20598,7 +20598,7 @@
         "coordinates": [130.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20608,7 +20608,7 @@
         "coordinates": [130.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -20618,7 +20618,7 @@
         "coordinates": [130.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.3931
+        "sppRichness": 1.5722
       }
     },
     {
@@ -20628,7 +20628,7 @@
         "coordinates": [130.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20638,7 +20638,7 @@
         "coordinates": [130.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20648,7 +20648,7 @@
         "coordinates": [130.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20658,7 +20658,7 @@
         "coordinates": [131.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -20668,7 +20668,7 @@
         "coordinates": [131.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -20678,7 +20678,7 @@
         "coordinates": [131.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -20688,7 +20688,7 @@
         "coordinates": [131.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -20698,7 +20698,7 @@
         "coordinates": [131.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -20708,7 +20708,7 @@
         "coordinates": [131.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -20718,7 +20718,7 @@
         "coordinates": [131.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -20728,7 +20728,7 @@
         "coordinates": [131.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -20738,7 +20738,7 @@
         "coordinates": [131.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -20748,7 +20748,7 @@
         "coordinates": [131.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -20758,7 +20758,7 @@
         "coordinates": [131.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20768,7 +20768,7 @@
         "coordinates": [131.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20778,7 +20778,7 @@
         "coordinates": [131.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20788,7 +20788,7 @@
         "coordinates": [131.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -20798,7 +20798,7 @@
         "coordinates": [131.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20808,7 +20808,7 @@
         "coordinates": [131.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -20818,7 +20818,7 @@
         "coordinates": [131.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -20828,7 +20828,7 @@
         "coordinates": [131.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -20838,7 +20838,7 @@
         "coordinates": [131.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20848,7 +20848,7 @@
         "coordinates": [131.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20858,7 +20858,7 @@
         "coordinates": [131.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20868,7 +20868,7 @@
         "coordinates": [131.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20878,7 +20878,7 @@
         "coordinates": [131.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20888,7 +20888,7 @@
         "coordinates": [132.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -20898,7 +20898,7 @@
         "coordinates": [132.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -20908,7 +20908,7 @@
         "coordinates": [132.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20918,7 +20918,7 @@
         "coordinates": [132.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -20928,7 +20928,7 @@
         "coordinates": [132.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -20938,7 +20938,7 @@
         "coordinates": [132.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -20948,7 +20948,7 @@
         "coordinates": [132.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -20958,7 +20958,7 @@
         "coordinates": [132.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -20968,7 +20968,7 @@
         "coordinates": [132.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -20978,7 +20978,7 @@
         "coordinates": [132.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -20988,7 +20988,7 @@
         "coordinates": [132.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -20998,7 +20998,7 @@
         "coordinates": [132.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -21008,7 +21008,7 @@
         "coordinates": [132.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21018,7 +21018,7 @@
         "coordinates": [132.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21028,7 +21028,7 @@
         "coordinates": [132.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.2834
+        "sppRichness": 1.1335
       }
     },
     {
@@ -21038,7 +21038,7 @@
         "coordinates": [132.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -21048,7 +21048,7 @@
         "coordinates": [132.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.5027
+        "sppRichness": 2.011
       }
     },
     {
@@ -21058,7 +21058,7 @@
         "coordinates": [132.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -21068,7 +21068,7 @@
         "coordinates": [132.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -21078,7 +21078,7 @@
         "coordinates": [132.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -21088,7 +21088,7 @@
         "coordinates": [132.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21098,7 +21098,7 @@
         "coordinates": [132.5, 4.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21108,7 +21108,7 @@
         "coordinates": [133.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -21118,7 +21118,7 @@
         "coordinates": [133.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -21128,7 +21128,7 @@
         "coordinates": [133.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -21138,7 +21138,7 @@
         "coordinates": [133.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -21148,7 +21148,7 @@
         "coordinates": [133.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -21158,7 +21158,7 @@
         "coordinates": [133.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -21168,7 +21168,7 @@
         "coordinates": [133.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -21178,7 +21178,7 @@
         "coordinates": [133.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -21188,7 +21188,7 @@
         "coordinates": [133.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -21198,7 +21198,7 @@
         "coordinates": [133.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21208,7 +21208,7 @@
         "coordinates": [133.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -21218,7 +21218,7 @@
         "coordinates": [133.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21228,7 +21228,7 @@
         "coordinates": [133.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21238,7 +21238,7 @@
         "coordinates": [133.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -21248,7 +21248,7 @@
         "coordinates": [133.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -21258,7 +21258,7 @@
         "coordinates": [133.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21268,7 +21268,7 @@
         "coordinates": [133.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -21278,7 +21278,7 @@
         "coordinates": [133.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21288,7 +21288,7 @@
         "coordinates": [133.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -21298,7 +21298,7 @@
         "coordinates": [133.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -21308,7 +21308,7 @@
         "coordinates": [133.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21318,7 +21318,7 @@
         "coordinates": [133.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21328,7 +21328,7 @@
         "coordinates": [134.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -21338,7 +21338,7 @@
         "coordinates": [134.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.4205
+        "sppRichness": 1.6819
       }
     },
     {
@@ -21348,7 +21348,7 @@
         "coordinates": [134.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21358,7 +21358,7 @@
         "coordinates": [134.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -21368,7 +21368,7 @@
         "coordinates": [134.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -21378,7 +21378,7 @@
         "coordinates": [134.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -21388,7 +21388,7 @@
         "coordinates": [134.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -21398,7 +21398,7 @@
         "coordinates": [134.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -21408,7 +21408,7 @@
         "coordinates": [134.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -21418,7 +21418,7 @@
         "coordinates": [134.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -21428,7 +21428,7 @@
         "coordinates": [134.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -21438,7 +21438,7 @@
         "coordinates": [134.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21448,7 +21448,7 @@
         "coordinates": [134.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21458,7 +21458,7 @@
         "coordinates": [134.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21468,7 +21468,7 @@
         "coordinates": [134.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -21478,7 +21478,7 @@
         "coordinates": [134.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -21488,7 +21488,7 @@
         "coordinates": [134.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21498,7 +21498,7 @@
         "coordinates": [134.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -21508,7 +21508,7 @@
         "coordinates": [134.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21518,7 +21518,7 @@
         "coordinates": [134.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21528,7 +21528,7 @@
         "coordinates": [134.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -21538,7 +21538,7 @@
         "coordinates": [134.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -21548,7 +21548,7 @@
         "coordinates": [134.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -21558,7 +21558,7 @@
         "coordinates": [134.5, 48.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21568,7 +21568,7 @@
         "coordinates": [135.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -21578,7 +21578,7 @@
         "coordinates": [135.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -21588,7 +21588,7 @@
         "coordinates": [135.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.3016
+        "sppRichness": 1.2066
       }
     },
     {
@@ -21598,7 +21598,7 @@
         "coordinates": [135.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -21608,7 +21608,7 @@
         "coordinates": [135.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -21618,7 +21618,7 @@
         "coordinates": [135.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21628,7 +21628,7 @@
         "coordinates": [135.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -21638,7 +21638,7 @@
         "coordinates": [135.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -21648,7 +21648,7 @@
         "coordinates": [135.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -21658,7 +21658,7 @@
         "coordinates": [135.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -21668,7 +21668,7 @@
         "coordinates": [135.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21678,7 +21678,7 @@
         "coordinates": [135.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21688,7 +21688,7 @@
         "coordinates": [135.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21698,7 +21698,7 @@
         "coordinates": [135.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21708,7 +21708,7 @@
         "coordinates": [135.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21718,7 +21718,7 @@
         "coordinates": [135.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21728,7 +21728,7 @@
         "coordinates": [135.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -21738,7 +21738,7 @@
         "coordinates": [135.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21748,7 +21748,7 @@
         "coordinates": [135.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21758,7 +21758,7 @@
         "coordinates": [135.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21768,7 +21768,7 @@
         "coordinates": [135.5, 33.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21778,7 +21778,7 @@
         "coordinates": [135.5, 34.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21788,7 +21788,7 @@
         "coordinates": [135.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21798,7 +21798,7 @@
         "coordinates": [136.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -21808,7 +21808,7 @@
         "coordinates": [136.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -21818,7 +21818,7 @@
         "coordinates": [136.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -21828,7 +21828,7 @@
         "coordinates": [136.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.2651
+        "sppRichness": 1.0603
       }
     },
     {
@@ -21838,7 +21838,7 @@
         "coordinates": [136.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -21848,7 +21848,7 @@
         "coordinates": [136.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -21858,7 +21858,7 @@
         "coordinates": [136.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -21868,7 +21868,7 @@
         "coordinates": [136.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -21878,7 +21878,7 @@
         "coordinates": [136.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -21888,7 +21888,7 @@
         "coordinates": [136.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -21898,7 +21898,7 @@
         "coordinates": [136.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -21908,7 +21908,7 @@
         "coordinates": [136.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21918,7 +21918,7 @@
         "coordinates": [136.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -21928,7 +21928,7 @@
         "coordinates": [136.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -21938,7 +21938,7 @@
         "coordinates": [136.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -21948,7 +21948,7 @@
         "coordinates": [136.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -21958,7 +21958,7 @@
         "coordinates": [136.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -21968,7 +21968,7 @@
         "coordinates": [136.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -21978,7 +21978,7 @@
         "coordinates": [136.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -21988,7 +21988,7 @@
         "coordinates": [136.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -21998,7 +21998,7 @@
         "coordinates": [136.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -22008,7 +22008,7 @@
         "coordinates": [136.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22018,7 +22018,7 @@
         "coordinates": [136.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -22028,7 +22028,7 @@
         "coordinates": [137.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -22038,7 +22038,7 @@
         "coordinates": [137.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -22048,7 +22048,7 @@
         "coordinates": [137.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -22058,7 +22058,7 @@
         "coordinates": [137.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -22068,7 +22068,7 @@
         "coordinates": [137.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -22078,7 +22078,7 @@
         "coordinates": [137.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -22088,7 +22088,7 @@
         "coordinates": [137.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -22098,7 +22098,7 @@
         "coordinates": [137.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22108,7 +22108,7 @@
         "coordinates": [137.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22118,7 +22118,7 @@
         "coordinates": [137.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22128,7 +22128,7 @@
         "coordinates": [137.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22138,7 +22138,7 @@
         "coordinates": [137.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -22148,7 +22148,7 @@
         "coordinates": [137.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -22158,7 +22158,7 @@
         "coordinates": [137.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22168,7 +22168,7 @@
         "coordinates": [137.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22178,7 +22178,7 @@
         "coordinates": [137.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -22188,7 +22188,7 @@
         "coordinates": [137.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -22198,7 +22198,7 @@
         "coordinates": [138.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.5667
+        "sppRichness": 2.2669
       }
     },
     {
@@ -22208,7 +22208,7 @@
         "coordinates": [138.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.7221
+        "sppRichness": 2.8885
       }
     },
     {
@@ -22218,7 +22218,7 @@
         "coordinates": [138.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.6033
+        "sppRichness": 2.4132
       }
     },
     {
@@ -22228,7 +22228,7 @@
         "coordinates": [138.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -22238,7 +22238,7 @@
         "coordinates": [138.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.5119
+        "sppRichness": 2.0475
       }
     },
     {
@@ -22248,7 +22248,7 @@
         "coordinates": [138.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -22258,7 +22258,7 @@
         "coordinates": [138.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -22268,7 +22268,7 @@
         "coordinates": [138.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -22278,7 +22278,7 @@
         "coordinates": [138.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -22288,7 +22288,7 @@
         "coordinates": [138.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -22298,7 +22298,7 @@
         "coordinates": [138.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22308,7 +22308,7 @@
         "coordinates": [138.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22318,7 +22318,7 @@
         "coordinates": [138.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -22328,7 +22328,7 @@
         "coordinates": [138.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -22338,7 +22338,7 @@
         "coordinates": [138.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -22348,7 +22348,7 @@
         "coordinates": [138.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -22358,7 +22358,7 @@
         "coordinates": [138.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22368,7 +22368,7 @@
         "coordinates": [138.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -22378,7 +22378,7 @@
         "coordinates": [138.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22388,7 +22388,7 @@
         "coordinates": [138.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -22398,7 +22398,7 @@
         "coordinates": [139.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22408,7 +22408,7 @@
         "coordinates": [139.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -22418,7 +22418,7 @@
         "coordinates": [139.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -22428,7 +22428,7 @@
         "coordinates": [139.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -22438,7 +22438,7 @@
         "coordinates": [139.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -22448,7 +22448,7 @@
         "coordinates": [139.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.4113
+        "sppRichness": 1.6453
       }
     },
     {
@@ -22458,7 +22458,7 @@
         "coordinates": [139.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22468,7 +22468,7 @@
         "coordinates": [139.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -22478,7 +22478,7 @@
         "coordinates": [139.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22488,7 +22488,7 @@
         "coordinates": [139.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22498,7 +22498,7 @@
         "coordinates": [139.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -22508,7 +22508,7 @@
         "coordinates": [139.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -22518,7 +22518,7 @@
         "coordinates": [139.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -22528,7 +22528,7 @@
         "coordinates": [139.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -22538,7 +22538,7 @@
         "coordinates": [139.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22548,7 +22548,7 @@
         "coordinates": [139.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -22558,7 +22558,7 @@
         "coordinates": [139.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -22568,7 +22568,7 @@
         "coordinates": [139.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22578,7 +22578,7 @@
         "coordinates": [139.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22588,7 +22588,7 @@
         "coordinates": [139.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22598,7 +22598,7 @@
         "coordinates": [139.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22608,7 +22608,7 @@
         "coordinates": [139.5, 10.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -22618,7 +22618,7 @@
         "coordinates": [139.5, 35.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -22628,7 +22628,7 @@
         "coordinates": [139.5, 37.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22638,7 +22638,7 @@
         "coordinates": [140.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22648,7 +22648,7 @@
         "coordinates": [140.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -22658,7 +22658,7 @@
         "coordinates": [140.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -22668,7 +22668,7 @@
         "coordinates": [140.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -22678,7 +22678,7 @@
         "coordinates": [140.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -22688,7 +22688,7 @@
         "coordinates": [140.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -22698,7 +22698,7 @@
         "coordinates": [140.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -22708,7 +22708,7 @@
         "coordinates": [140.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22718,7 +22718,7 @@
         "coordinates": [140.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -22728,7 +22728,7 @@
         "coordinates": [140.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -22738,7 +22738,7 @@
         "coordinates": [140.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -22748,7 +22748,7 @@
         "coordinates": [140.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -22758,7 +22758,7 @@
         "coordinates": [140.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -22768,7 +22768,7 @@
         "coordinates": [140.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22778,7 +22778,7 @@
         "coordinates": [140.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22788,7 +22788,7 @@
         "coordinates": [140.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -22798,7 +22798,7 @@
         "coordinates": [140.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -22808,7 +22808,7 @@
         "coordinates": [140.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -22818,7 +22818,7 @@
         "coordinates": [140.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -22828,7 +22828,7 @@
         "coordinates": [140.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -22838,7 +22838,7 @@
         "coordinates": [140.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -22848,7 +22848,7 @@
         "coordinates": [140.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -22858,7 +22858,7 @@
         "coordinates": [140.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -22868,7 +22868,7 @@
         "coordinates": [140.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -22878,7 +22878,7 @@
         "coordinates": [140.5, 36.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -22888,7 +22888,7 @@
         "coordinates": [141.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -22898,7 +22898,7 @@
         "coordinates": [141.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -22908,7 +22908,7 @@
         "coordinates": [141.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -22918,7 +22918,7 @@
         "coordinates": [141.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -22928,7 +22928,7 @@
         "coordinates": [141.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -22938,7 +22938,7 @@
         "coordinates": [141.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -22948,7 +22948,7 @@
         "coordinates": [141.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -22958,7 +22958,7 @@
         "coordinates": [141.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -22968,7 +22968,7 @@
         "coordinates": [141.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -22978,7 +22978,7 @@
         "coordinates": [141.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -22988,7 +22988,7 @@
         "coordinates": [141.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -22998,7 +22998,7 @@
         "coordinates": [141.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -23008,7 +23008,7 @@
         "coordinates": [141.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23018,7 +23018,7 @@
         "coordinates": [141.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -23028,7 +23028,7 @@
         "coordinates": [141.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -23038,7 +23038,7 @@
         "coordinates": [141.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23048,7 +23048,7 @@
         "coordinates": [141.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -23058,7 +23058,7 @@
         "coordinates": [141.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -23068,7 +23068,7 @@
         "coordinates": [141.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -23078,7 +23078,7 @@
         "coordinates": [141.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23088,7 +23088,7 @@
         "coordinates": [141.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -23098,7 +23098,7 @@
         "coordinates": [141.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -23108,7 +23108,7 @@
         "coordinates": [141.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -23118,7 +23118,7 @@
         "coordinates": [141.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -23128,7 +23128,7 @@
         "coordinates": [141.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -23138,7 +23138,7 @@
         "coordinates": [141.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -23148,7 +23148,7 @@
         "coordinates": [141.5, 43.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -23158,7 +23158,7 @@
         "coordinates": [142.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -23168,7 +23168,7 @@
         "coordinates": [142.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -23178,7 +23178,7 @@
         "coordinates": [142.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23188,7 +23188,7 @@
         "coordinates": [142.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -23198,7 +23198,7 @@
         "coordinates": [142.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -23208,7 +23208,7 @@
         "coordinates": [142.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -23218,7 +23218,7 @@
         "coordinates": [142.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -23228,7 +23228,7 @@
         "coordinates": [142.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -23238,7 +23238,7 @@
         "coordinates": [142.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -23248,7 +23248,7 @@
         "coordinates": [142.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -23258,7 +23258,7 @@
         "coordinates": [142.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -23268,7 +23268,7 @@
         "coordinates": [142.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23278,7 +23278,7 @@
         "coordinates": [142.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -23288,7 +23288,7 @@
         "coordinates": [142.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -23298,7 +23298,7 @@
         "coordinates": [142.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23308,7 +23308,7 @@
         "coordinates": [142.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -23318,7 +23318,7 @@
         "coordinates": [142.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -23328,7 +23328,7 @@
         "coordinates": [142.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23338,7 +23338,7 @@
         "coordinates": [142.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -23348,7 +23348,7 @@
         "coordinates": [142.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -23358,7 +23358,7 @@
         "coordinates": [142.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -23368,7 +23368,7 @@
         "coordinates": [142.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.4022
+        "sppRichness": 1.6088
       }
     },
     {
@@ -23378,7 +23378,7 @@
         "coordinates": [142.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.6216
+        "sppRichness": 2.4863
       }
     },
     {
@@ -23388,7 +23388,7 @@
         "coordinates": [142.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -23398,7 +23398,7 @@
         "coordinates": [142.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -23408,7 +23408,7 @@
         "coordinates": [142.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -23418,7 +23418,7 @@
         "coordinates": [142.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -23428,7 +23428,7 @@
         "coordinates": [142.5, 26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23438,7 +23438,7 @@
         "coordinates": [142.5, 27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23448,7 +23448,7 @@
         "coordinates": [143.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -23458,7 +23458,7 @@
         "coordinates": [143.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -23468,7 +23468,7 @@
         "coordinates": [143.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -23478,7 +23478,7 @@
         "coordinates": [143.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -23488,7 +23488,7 @@
         "coordinates": [143.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -23498,7 +23498,7 @@
         "coordinates": [143.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -23508,7 +23508,7 @@
         "coordinates": [143.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -23518,7 +23518,7 @@
         "coordinates": [143.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23528,7 +23528,7 @@
         "coordinates": [143.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -23538,7 +23538,7 @@
         "coordinates": [143.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23548,7 +23548,7 @@
         "coordinates": [143.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -23558,7 +23558,7 @@
         "coordinates": [143.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -23568,7 +23568,7 @@
         "coordinates": [143.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23578,7 +23578,7 @@
         "coordinates": [143.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -23588,7 +23588,7 @@
         "coordinates": [143.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23598,7 +23598,7 @@
         "coordinates": [143.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23608,7 +23608,7 @@
         "coordinates": [143.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -23618,7 +23618,7 @@
         "coordinates": [143.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -23628,7 +23628,7 @@
         "coordinates": [143.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -23638,7 +23638,7 @@
         "coordinates": [143.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -23648,7 +23648,7 @@
         "coordinates": [143.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -23658,7 +23658,7 @@
         "coordinates": [143.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -23668,7 +23668,7 @@
         "coordinates": [143.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.8318
+        "sppRichness": 3.3272
       }
     },
     {
@@ -23678,7 +23678,7 @@
         "coordinates": [143.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -23688,7 +23688,7 @@
         "coordinates": [143.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -23698,7 +23698,7 @@
         "coordinates": [143.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -23708,7 +23708,7 @@
         "coordinates": [143.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -23718,7 +23718,7 @@
         "coordinates": [143.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -23728,7 +23728,7 @@
         "coordinates": [143.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23738,7 +23738,7 @@
         "coordinates": [143.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -23748,7 +23748,7 @@
         "coordinates": [143.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.5302
+        "sppRichness": 2.1207
       }
     },
     {
@@ -23758,7 +23758,7 @@
         "coordinates": [143.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23768,7 +23768,7 @@
         "coordinates": [144.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23778,7 +23778,7 @@
         "coordinates": [144.5, -40.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -23788,7 +23788,7 @@
         "coordinates": [144.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -23798,7 +23798,7 @@
         "coordinates": [144.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -23808,7 +23808,7 @@
         "coordinates": [144.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.3748
+        "sppRichness": 1.4991
       }
     },
     {
@@ -23818,7 +23818,7 @@
         "coordinates": [144.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -23828,7 +23828,7 @@
         "coordinates": [144.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -23838,7 +23838,7 @@
         "coordinates": [144.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23848,7 +23848,7 @@
         "coordinates": [144.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23858,7 +23858,7 @@
         "coordinates": [144.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23868,7 +23868,7 @@
         "coordinates": [144.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -23878,7 +23878,7 @@
         "coordinates": [144.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -23888,7 +23888,7 @@
         "coordinates": [144.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -23898,7 +23898,7 @@
         "coordinates": [144.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -23908,7 +23908,7 @@
         "coordinates": [144.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -23918,7 +23918,7 @@
         "coordinates": [144.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -23928,7 +23928,7 @@
         "coordinates": [144.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -23938,7 +23938,7 @@
         "coordinates": [144.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -23948,7 +23948,7 @@
         "coordinates": [144.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -23958,7 +23958,7 @@
         "coordinates": [144.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -23968,7 +23968,7 @@
         "coordinates": [144.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -23978,7 +23978,7 @@
         "coordinates": [144.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -23988,7 +23988,7 @@
         "coordinates": [144.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -23998,7 +23998,7 @@
         "coordinates": [144.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -24008,7 +24008,7 @@
         "coordinates": [144.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24018,7 +24018,7 @@
         "coordinates": [144.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -24028,7 +24028,7 @@
         "coordinates": [144.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -24038,7 +24038,7 @@
         "coordinates": [144.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24048,7 +24048,7 @@
         "coordinates": [144.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -24058,7 +24058,7 @@
         "coordinates": [144.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -24068,7 +24068,7 @@
         "coordinates": [144.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24078,7 +24078,7 @@
         "coordinates": [144.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24088,7 +24088,7 @@
         "coordinates": [144.5, 13.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -24098,7 +24098,7 @@
         "coordinates": [145.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -24108,7 +24108,7 @@
         "coordinates": [145.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -24118,7 +24118,7 @@
         "coordinates": [145.5, -40.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -24128,7 +24128,7 @@
         "coordinates": [145.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -24138,7 +24138,7 @@
         "coordinates": [145.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.6947
+        "sppRichness": 2.7788
       }
     },
     {
@@ -24148,7 +24148,7 @@
         "coordinates": [145.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24158,7 +24158,7 @@
         "coordinates": [145.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -24168,7 +24168,7 @@
         "coordinates": [145.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -24178,7 +24178,7 @@
         "coordinates": [145.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -24188,7 +24188,7 @@
         "coordinates": [145.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -24198,7 +24198,7 @@
         "coordinates": [145.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -24208,7 +24208,7 @@
         "coordinates": [145.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -24218,7 +24218,7 @@
         "coordinates": [145.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -24228,7 +24228,7 @@
         "coordinates": [145.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -24238,7 +24238,7 @@
         "coordinates": [145.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24248,7 +24248,7 @@
         "coordinates": [145.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -24258,7 +24258,7 @@
         "coordinates": [145.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24268,7 +24268,7 @@
         "coordinates": [145.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -24278,7 +24278,7 @@
         "coordinates": [145.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -24288,7 +24288,7 @@
         "coordinates": [145.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -24298,7 +24298,7 @@
         "coordinates": [145.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -24308,7 +24308,7 @@
         "coordinates": [145.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -24318,7 +24318,7 @@
         "coordinates": [145.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -24328,7 +24328,7 @@
         "coordinates": [145.5, -17.5]
       },
       "properties": {
-        "sppRichness": 1.2157
+        "sppRichness": 4.8629
       }
     },
     {
@@ -24338,7 +24338,7 @@
         "coordinates": [145.5, -16.5]
       },
       "properties": {
-        "sppRichness": 1.7824
+        "sppRichness": 7.1298
       }
     },
     {
@@ -24348,7 +24348,7 @@
         "coordinates": [145.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.5941
+        "sppRichness": 2.3766
       }
     },
     {
@@ -24358,7 +24358,7 @@
         "coordinates": [145.5, -14.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -24368,7 +24368,7 @@
         "coordinates": [145.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -24378,7 +24378,7 @@
         "coordinates": [145.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.7313
+        "sppRichness": 2.925
       }
     },
     {
@@ -24388,7 +24388,7 @@
         "coordinates": [145.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -24398,7 +24398,7 @@
         "coordinates": [145.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -24408,7 +24408,7 @@
         "coordinates": [145.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24418,7 +24418,7 @@
         "coordinates": [145.5, 14.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24428,7 +24428,7 @@
         "coordinates": [145.5, 15.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24438,7 +24438,7 @@
         "coordinates": [145.5, 17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24448,7 +24448,7 @@
         "coordinates": [145.5, 18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24458,7 +24458,7 @@
         "coordinates": [146.5, -43.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -24468,7 +24468,7 @@
         "coordinates": [146.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -24478,7 +24478,7 @@
         "coordinates": [146.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -24488,7 +24488,7 @@
         "coordinates": [146.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -24498,7 +24498,7 @@
         "coordinates": [146.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -24508,7 +24508,7 @@
         "coordinates": [146.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -24518,7 +24518,7 @@
         "coordinates": [146.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -24528,7 +24528,7 @@
         "coordinates": [146.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -24538,7 +24538,7 @@
         "coordinates": [146.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -24548,7 +24548,7 @@
         "coordinates": [146.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -24558,7 +24558,7 @@
         "coordinates": [146.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -24568,7 +24568,7 @@
         "coordinates": [146.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -24578,7 +24578,7 @@
         "coordinates": [146.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24588,7 +24588,7 @@
         "coordinates": [146.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -24598,7 +24598,7 @@
         "coordinates": [146.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -24608,7 +24608,7 @@
         "coordinates": [146.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24618,7 +24618,7 @@
         "coordinates": [146.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -24628,7 +24628,7 @@
         "coordinates": [146.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -24638,7 +24638,7 @@
         "coordinates": [146.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24648,7 +24648,7 @@
         "coordinates": [146.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24658,7 +24658,7 @@
         "coordinates": [146.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.2102
+        "sppRichness": 0.841
       }
     },
     {
@@ -24668,7 +24668,7 @@
         "coordinates": [146.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.521
+        "sppRichness": 2.0841
       }
     },
     {
@@ -24678,7 +24678,7 @@
         "coordinates": [146.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.5119
+        "sppRichness": 2.0475
       }
     },
     {
@@ -24688,7 +24688,7 @@
         "coordinates": [146.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.2925
+        "sppRichness": 1.17
       }
     },
     {
@@ -24698,7 +24698,7 @@
         "coordinates": [146.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24708,7 +24708,7 @@
         "coordinates": [146.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24718,7 +24718,7 @@
         "coordinates": [146.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -24728,7 +24728,7 @@
         "coordinates": [146.5, -7.5]
       },
       "properties": {
-        "sppRichness": 1.1152
+        "sppRichness": 4.4607
       }
     },
     {
@@ -24738,7 +24738,7 @@
         "coordinates": [146.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.4936
+        "sppRichness": 1.9744
       }
     },
     {
@@ -24748,7 +24748,7 @@
         "coordinates": [146.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -24758,7 +24758,7 @@
         "coordinates": [146.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -24768,7 +24768,7 @@
         "coordinates": [147.5, -43.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -24778,7 +24778,7 @@
         "coordinates": [147.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -24788,7 +24788,7 @@
         "coordinates": [147.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -24798,7 +24798,7 @@
         "coordinates": [147.5, -40.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24808,7 +24808,7 @@
         "coordinates": [147.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24818,7 +24818,7 @@
         "coordinates": [147.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -24828,7 +24828,7 @@
         "coordinates": [147.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -24838,7 +24838,7 @@
         "coordinates": [147.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -24848,7 +24848,7 @@
         "coordinates": [147.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -24858,7 +24858,7 @@
         "coordinates": [147.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -24868,7 +24868,7 @@
         "coordinates": [147.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -24878,7 +24878,7 @@
         "coordinates": [147.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -24888,7 +24888,7 @@
         "coordinates": [147.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -24898,7 +24898,7 @@
         "coordinates": [147.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24908,7 +24908,7 @@
         "coordinates": [147.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24918,7 +24918,7 @@
         "coordinates": [147.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24928,7 +24928,7 @@
         "coordinates": [147.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -24938,7 +24938,7 @@
         "coordinates": [147.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24948,7 +24948,7 @@
         "coordinates": [147.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -24958,7 +24958,7 @@
         "coordinates": [147.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -24968,7 +24968,7 @@
         "coordinates": [147.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -24978,7 +24978,7 @@
         "coordinates": [147.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -24988,7 +24988,7 @@
         "coordinates": [147.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.8227
+        "sppRichness": 3.2907
       }
     },
     {
@@ -24998,7 +24998,7 @@
         "coordinates": [147.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -25008,7 +25008,7 @@
         "coordinates": [147.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25018,7 +25018,7 @@
         "coordinates": [147.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.5484
+        "sppRichness": 2.1938
       }
     },
     {
@@ -25028,7 +25028,7 @@
         "coordinates": [147.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -25038,7 +25038,7 @@
         "coordinates": [148.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -25048,7 +25048,7 @@
         "coordinates": [148.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -25058,7 +25058,7 @@
         "coordinates": [148.5, -40.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -25068,7 +25068,7 @@
         "coordinates": [148.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25078,7 +25078,7 @@
         "coordinates": [148.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -25088,7 +25088,7 @@
         "coordinates": [148.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -25098,7 +25098,7 @@
         "coordinates": [148.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.6033
+        "sppRichness": 2.4132
       }
     },
     {
@@ -25108,7 +25108,7 @@
         "coordinates": [148.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -25118,7 +25118,7 @@
         "coordinates": [148.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.2651
+        "sppRichness": 1.0603
       }
     },
     {
@@ -25128,7 +25128,7 @@
         "coordinates": [148.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -25138,7 +25138,7 @@
         "coordinates": [148.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -25148,7 +25148,7 @@
         "coordinates": [148.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -25158,7 +25158,7 @@
         "coordinates": [148.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -25168,7 +25168,7 @@
         "coordinates": [148.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -25178,7 +25178,7 @@
         "coordinates": [148.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25188,7 +25188,7 @@
         "coordinates": [148.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -25198,7 +25198,7 @@
         "coordinates": [148.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -25208,7 +25208,7 @@
         "coordinates": [148.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -25218,7 +25218,7 @@
         "coordinates": [148.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -25228,7 +25228,7 @@
         "coordinates": [148.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.5027
+        "sppRichness": 2.011
       }
     },
     {
@@ -25238,7 +25238,7 @@
         "coordinates": [148.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -25248,7 +25248,7 @@
         "coordinates": [148.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -25258,7 +25258,7 @@
         "coordinates": [148.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25268,7 +25268,7 @@
         "coordinates": [148.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -25278,7 +25278,7 @@
         "coordinates": [148.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.2377
+        "sppRichness": 0.9506
       }
     },
     {
@@ -25288,7 +25288,7 @@
         "coordinates": [148.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.6124
+        "sppRichness": 2.4497
       }
     },
     {
@@ -25298,7 +25298,7 @@
         "coordinates": [148.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25308,7 +25308,7 @@
         "coordinates": [149.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -25318,7 +25318,7 @@
         "coordinates": [149.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.2651
+        "sppRichness": 1.0603
       }
     },
     {
@@ -25328,7 +25328,7 @@
         "coordinates": [149.5, -35.5]
       },
       "properties": {
-        "sppRichness": 1.0146
+        "sppRichness": 4.0585
       }
     },
     {
@@ -25338,7 +25338,7 @@
         "coordinates": [149.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -25348,7 +25348,7 @@
         "coordinates": [149.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -25358,7 +25358,7 @@
         "coordinates": [149.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.2194
+        "sppRichness": 0.8775
       }
     },
     {
@@ -25368,7 +25368,7 @@
         "coordinates": [149.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -25378,7 +25378,7 @@
         "coordinates": [149.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -25388,7 +25388,7 @@
         "coordinates": [149.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -25398,7 +25398,7 @@
         "coordinates": [149.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -25408,7 +25408,7 @@
         "coordinates": [149.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25418,7 +25418,7 @@
         "coordinates": [149.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -25428,7 +25428,7 @@
         "coordinates": [149.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -25438,7 +25438,7 @@
         "coordinates": [149.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -25448,7 +25448,7 @@
         "coordinates": [149.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -25458,7 +25458,7 @@
         "coordinates": [149.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.1737
+        "sppRichness": 0.6947
       }
     },
     {
@@ -25468,7 +25468,7 @@
         "coordinates": [149.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.4388
+        "sppRichness": 1.755
       }
     },
     {
@@ -25478,7 +25478,7 @@
         "coordinates": [149.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -25488,7 +25488,7 @@
         "coordinates": [149.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -25498,7 +25498,7 @@
         "coordinates": [149.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -25508,7 +25508,7 @@
         "coordinates": [149.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25518,7 +25518,7 @@
         "coordinates": [149.5, -1.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25528,7 +25528,7 @@
         "coordinates": [150.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -25538,7 +25538,7 @@
         "coordinates": [150.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.5302
+        "sppRichness": 2.1207
       }
     },
     {
@@ -25548,7 +25548,7 @@
         "coordinates": [150.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.7678
+        "sppRichness": 3.0713
       }
     },
     {
@@ -25558,7 +25558,7 @@
         "coordinates": [150.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.8227
+        "sppRichness": 3.2907
       }
     },
     {
@@ -25568,7 +25568,7 @@
         "coordinates": [150.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -25578,7 +25578,7 @@
         "coordinates": [150.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -25588,7 +25588,7 @@
         "coordinates": [150.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.2651
+        "sppRichness": 1.0603
       }
     },
     {
@@ -25598,7 +25598,7 @@
         "coordinates": [150.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -25608,7 +25608,7 @@
         "coordinates": [150.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -25618,7 +25618,7 @@
         "coordinates": [150.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -25628,7 +25628,7 @@
         "coordinates": [150.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -25638,7 +25638,7 @@
         "coordinates": [150.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.4022
+        "sppRichness": 1.6088
       }
     },
     {
@@ -25648,7 +25648,7 @@
         "coordinates": [150.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -25658,7 +25658,7 @@
         "coordinates": [150.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.1828
+        "sppRichness": 0.7313
       }
     },
     {
@@ -25668,7 +25668,7 @@
         "coordinates": [150.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25678,7 +25678,7 @@
         "coordinates": [150.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25688,7 +25688,7 @@
         "coordinates": [150.5, -13.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25698,7 +25698,7 @@
         "coordinates": [150.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -25708,7 +25708,7 @@
         "coordinates": [150.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -25718,7 +25718,7 @@
         "coordinates": [150.5, -2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25728,7 +25728,7 @@
         "coordinates": [150.5, 16.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25738,7 +25738,7 @@
         "coordinates": [151.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -25748,7 +25748,7 @@
         "coordinates": [151.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.3473
+        "sppRichness": 1.3894
       }
     },
     {
@@ -25758,7 +25758,7 @@
         "coordinates": [151.5, -33.5]
       },
       "properties": {
-        "sppRichness": 0.9141
+        "sppRichness": 3.6563
       }
     },
     {
@@ -25768,7 +25768,7 @@
         "coordinates": [151.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.457
+        "sppRichness": 1.8282
       }
     },
     {
@@ -25778,7 +25778,7 @@
         "coordinates": [151.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -25788,7 +25788,7 @@
         "coordinates": [151.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.3931
+        "sppRichness": 1.5722
       }
     },
     {
@@ -25798,7 +25798,7 @@
         "coordinates": [151.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -25808,7 +25808,7 @@
         "coordinates": [151.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.3291
+        "sppRichness": 1.3163
       }
     },
     {
@@ -25818,7 +25818,7 @@
         "coordinates": [151.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.2742
+        "sppRichness": 1.0969
       }
     },
     {
@@ -25828,7 +25828,7 @@
         "coordinates": [151.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -25838,7 +25838,7 @@
         "coordinates": [151.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -25848,7 +25848,7 @@
         "coordinates": [151.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.2011
+        "sppRichness": 0.8044
       }
     },
     {
@@ -25858,7 +25858,7 @@
         "coordinates": [151.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0731
+        "sppRichness": 0.2925
       }
     },
     {
@@ -25868,7 +25868,7 @@
         "coordinates": [151.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -25878,7 +25878,7 @@
         "coordinates": [151.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.064
+        "sppRichness": 0.2559
       }
     },
     {
@@ -25888,7 +25888,7 @@
         "coordinates": [151.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -25898,7 +25898,7 @@
         "coordinates": [151.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -25908,7 +25908,7 @@
         "coordinates": [151.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -25918,7 +25918,7 @@
         "coordinates": [152.5, -32.5]
       },
       "properties": {
-        "sppRichness": 0.3565
+        "sppRichness": 1.426
       }
     },
     {
@@ -25928,7 +25928,7 @@
         "coordinates": [152.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -25938,7 +25938,7 @@
         "coordinates": [152.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.4936
+        "sppRichness": 1.9744
       }
     },
     {
@@ -25948,7 +25948,7 @@
         "coordinates": [152.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.4113
+        "sppRichness": 1.6453
       }
     },
     {
@@ -25958,7 +25958,7 @@
         "coordinates": [152.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.5393
+        "sppRichness": 2.1572
       }
     },
     {
@@ -25968,7 +25968,7 @@
         "coordinates": [152.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.7404
+        "sppRichness": 2.9616
       }
     },
     {
@@ -25978,7 +25978,7 @@
         "coordinates": [152.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.4845
+        "sppRichness": 1.9378
       }
     },
     {
@@ -25988,7 +25988,7 @@
         "coordinates": [152.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.2559
+        "sppRichness": 1.0238
       }
     },
     {
@@ -25998,7 +25998,7 @@
         "coordinates": [152.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -26008,7 +26008,7 @@
         "coordinates": [152.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26018,7 +26018,7 @@
         "coordinates": [152.5, -4.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -26028,7 +26028,7 @@
         "coordinates": [152.5, -3.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26038,7 +26038,7 @@
         "coordinates": [152.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -26048,7 +26048,7 @@
         "coordinates": [153.5, -30.5]
       },
       "properties": {
-        "sppRichness": 0.2285
+        "sppRichness": 0.9141
       }
     },
     {
@@ -26058,7 +26058,7 @@
         "coordinates": [153.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.1554
+        "sppRichness": 0.6216
       }
     },
     {
@@ -26068,7 +26068,7 @@
         "coordinates": [153.5, -28.5]
       },
       "properties": {
-        "sppRichness": 0.7313
+        "sppRichness": 2.925
       }
     },
     {
@@ -26078,7 +26078,7 @@
         "coordinates": [153.5, -27.5]
       },
       "properties": {
-        "sppRichness": 0.6764
+        "sppRichness": 2.7057
       }
     },
     {
@@ -26088,7 +26088,7 @@
         "coordinates": [153.5, -26.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -26098,7 +26098,7 @@
         "coordinates": [153.5, -25.5]
       },
       "properties": {
-        "sppRichness": 0.585
+        "sppRichness": 2.34
       }
     },
     {
@@ -26108,7 +26108,7 @@
         "coordinates": [153.5, -24.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26118,7 +26118,7 @@
         "coordinates": [154.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26128,7 +26128,7 @@
         "coordinates": [154.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26138,7 +26138,7 @@
         "coordinates": [155.5, -23.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26148,7 +26148,7 @@
         "coordinates": [155.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26158,7 +26158,7 @@
         "coordinates": [155.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26168,7 +26168,7 @@
         "coordinates": [155.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26178,7 +26178,7 @@
         "coordinates": [155.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26188,7 +26188,7 @@
         "coordinates": [156.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.1371
+        "sppRichness": 0.5484
       }
     },
     {
@@ -26198,7 +26198,7 @@
         "coordinates": [156.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -26208,7 +26208,7 @@
         "coordinates": [156.5, -6.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26218,7 +26218,7 @@
         "coordinates": [157.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -26228,7 +26228,7 @@
         "coordinates": [157.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26238,7 +26238,7 @@
         "coordinates": [158.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26248,7 +26248,7 @@
         "coordinates": [158.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -26258,7 +26258,7 @@
         "coordinates": [159.5, -31.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -26268,7 +26268,7 @@
         "coordinates": [159.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.1005
+        "sppRichness": 0.4022
       }
     },
     {
@@ -26278,7 +26278,7 @@
         "coordinates": [159.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -26288,7 +26288,7 @@
         "coordinates": [159.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0823
+        "sppRichness": 0.3291
       }
     },
     {
@@ -26298,7 +26298,7 @@
         "coordinates": [159.5, -7.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26308,7 +26308,7 @@
         "coordinates": [159.5, -5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26318,7 +26318,7 @@
         "coordinates": [159.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26328,7 +26328,7 @@
         "coordinates": [159.5, 57.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26338,7 +26338,7 @@
         "coordinates": [160.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.1097
+        "sppRichness": 0.4388
       }
     },
     {
@@ -26348,7 +26348,7 @@
         "coordinates": [160.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.2468
+        "sppRichness": 0.9872
       }
     },
     {
@@ -26358,7 +26358,7 @@
         "coordinates": [160.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0914
+        "sppRichness": 0.3656
       }
     },
     {
@@ -26368,7 +26368,7 @@
         "coordinates": [160.5, 6.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26378,7 +26378,7 @@
         "coordinates": [161.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.4479
+        "sppRichness": 1.7916
       }
     },
     {
@@ -26388,7 +26388,7 @@
         "coordinates": [161.5, -9.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26398,7 +26398,7 @@
         "coordinates": [161.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26408,7 +26408,7 @@
         "coordinates": [162.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.128
+        "sppRichness": 0.5119
       }
     },
     {
@@ -26418,7 +26418,7 @@
         "coordinates": [162.5, -8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26428,7 +26428,7 @@
         "coordinates": [162.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26438,7 +26438,7 @@
         "coordinates": [162.5, 11.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26448,7 +26448,7 @@
         "coordinates": [163.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26458,7 +26458,7 @@
         "coordinates": [164.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.1463
+        "sppRichness": 0.585
       }
     },
     {
@@ -26468,7 +26468,7 @@
         "coordinates": [165.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -26478,7 +26478,7 @@
         "coordinates": [165.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26488,7 +26488,7 @@
         "coordinates": [165.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26498,7 +26498,7 @@
         "coordinates": [166.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.3656
+        "sppRichness": 1.4625
       }
     },
     {
@@ -26508,7 +26508,7 @@
         "coordinates": [166.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -26518,7 +26518,7 @@
         "coordinates": [166.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26528,7 +26528,7 @@
         "coordinates": [166.5, -11.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26538,7 +26538,7 @@
         "coordinates": [166.5, -10.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -26548,7 +26548,7 @@
         "coordinates": [166.5, 19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26558,7 +26558,7 @@
         "coordinates": [167.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.192
+        "sppRichness": 0.7678
       }
     },
     {
@@ -26568,7 +26568,7 @@
         "coordinates": [167.5, -22.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -26578,7 +26578,7 @@
         "coordinates": [167.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26588,7 +26588,7 @@
         "coordinates": [167.5, -15.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -26598,7 +26598,7 @@
         "coordinates": [167.5, 8.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26608,7 +26608,7 @@
         "coordinates": [167.5, 9.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26618,7 +26618,7 @@
         "coordinates": [168.5, -21.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26628,7 +26628,7 @@
         "coordinates": [168.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.0548
+        "sppRichness": 0.2194
       }
     },
     {
@@ -26638,7 +26638,7 @@
         "coordinates": [168.5, -12.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26648,7 +26648,7 @@
         "coordinates": [169.5, -46.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26658,7 +26658,7 @@
         "coordinates": [169.5, -20.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26668,7 +26668,7 @@
         "coordinates": [169.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26678,7 +26678,7 @@
         "coordinates": [169.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26688,7 +26688,7 @@
         "coordinates": [169.5, -0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26698,7 +26698,7 @@
         "coordinates": [169.5, 5.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26708,7 +26708,7 @@
         "coordinates": [171.5, 7.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26718,7 +26718,7 @@
         "coordinates": [172.5, -43.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26728,7 +26728,7 @@
         "coordinates": [172.5, -42.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26738,7 +26738,7 @@
         "coordinates": [172.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26748,7 +26748,7 @@
         "coordinates": [172.5, -34.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26758,7 +26758,7 @@
         "coordinates": [172.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0457
+        "sppRichness": 0.1828
       }
     },
     {
@@ -26768,7 +26768,7 @@
         "coordinates": [172.5, 3.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26778,7 +26778,7 @@
         "coordinates": [173.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26788,7 +26788,7 @@
         "coordinates": [173.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26798,7 +26798,7 @@
         "coordinates": [173.5, 0.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26808,7 +26808,7 @@
         "coordinates": [173.5, 1.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26818,7 +26818,7 @@
         "coordinates": [173.5, 2.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26828,7 +26828,7 @@
         "coordinates": [174.5, -41.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26838,7 +26838,7 @@
         "coordinates": [174.5, -40.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26848,7 +26848,7 @@
         "coordinates": [174.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26858,7 +26858,7 @@
         "coordinates": [174.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26868,7 +26868,7 @@
         "coordinates": [174.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.1645
+        "sppRichness": 0.6581
       }
     },
     {
@@ -26878,7 +26878,7 @@
         "coordinates": [174.5, -35.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26888,7 +26888,7 @@
         "coordinates": [175.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26898,7 +26898,7 @@
         "coordinates": [175.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26908,7 +26908,7 @@
         "coordinates": [175.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0366
+        "sppRichness": 0.1463
       }
     },
     {
@@ -26918,7 +26918,7 @@
         "coordinates": [175.5, -36.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26928,7 +26928,7 @@
         "coordinates": [176.5, -39.5]
       },
       "properties": {
-        "sppRichness": 0.0274
+        "sppRichness": 0.1097
       }
     },
     {
@@ -26938,7 +26938,7 @@
         "coordinates": [176.5, -38.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26948,7 +26948,7 @@
         "coordinates": [176.5, -37.5]
       },
       "properties": {
-        "sppRichness": 0.0183
+        "sppRichness": 0.0731
       }
     },
     {
@@ -26958,7 +26958,7 @@
         "coordinates": [177.5, -29.5]
       },
       "properties": {
-        "sppRichness": 0.0091
+        "sppRichness": 0.0366
       }
     },
     {
@@ -26968,7 +26968,7 @@
         "coordinates": [177.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.2742
+        "sppRichness": 1.0969
       }
     },
     {
@@ -26978,7 +26978,7 @@
         "coordinates": [177.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.4388
+        "sppRichness": 1.755
       }
     },
     {
@@ -26988,7 +26988,7 @@
         "coordinates": [177.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.8592
+        "sppRichness": 3.4369
       }
     },
     {
@@ -26998,7 +26998,7 @@
         "coordinates": [177.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.1188
+        "sppRichness": 0.4753
       }
     },
     {
@@ -27008,7 +27008,7 @@
         "coordinates": [178.5, -19.5]
       },
       "properties": {
-        "sppRichness": 0.4022
+        "sppRichness": 1.6088
       }
     },
     {
@@ -27018,7 +27018,7 @@
         "coordinates": [178.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.841
+        "sppRichness": 3.3638
       }
     },
     {
@@ -27028,7 +27028,7 @@
         "coordinates": [178.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.7495
+        "sppRichness": 2.9982
       }
     },
     {
@@ -27038,7 +27038,7 @@
         "coordinates": [178.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.4388
+        "sppRichness": 1.755
       }
     },
     {
@@ -27048,7 +27048,7 @@
         "coordinates": [179.5, -18.5]
       },
       "properties": {
-        "sppRichness": 0.3108
+        "sppRichness": 1.2431
       }
     },
     {
@@ -27058,7 +27058,7 @@
         "coordinates": [179.5, -17.5]
       },
       "properties": {
-        "sppRichness": 0.5941
+        "sppRichness": 2.3766
       }
     },
     {
@@ -27068,7 +27068,7 @@
         "coordinates": [179.5, -16.5]
       },
       "properties": {
-        "sppRichness": 0.7221
+        "sppRichness": 2.8885
       }
     }
   ]
