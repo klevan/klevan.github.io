@@ -101,11 +101,10 @@ d3.json("//klevan.github.io/d3scripts/world-50m.json", function(error, world) {
 
 var ants = svg.append("g");
   ants.selectAll("circle")
-      .data(sppRichness.features)
-      .enter()
+      .data(sppRichness.features).enter()
       .append("circle")
-      .attr("cx", function (d) { console.log(projection(d)); return projection(d)[0]; })
-      .attr("cy", function (d) { return projection(d)[1]; })
+      .attr("cx", "data")
+      .attr("cy", "data")
       .attr("r", "8px")
       .attr("fill", "red")
   
