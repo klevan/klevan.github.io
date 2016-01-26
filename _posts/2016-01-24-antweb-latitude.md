@@ -71,8 +71,7 @@ var projection = d3.geo.stereographic()
     .precision(.1);
 
 var path = d3.geo.path()
-    .projection(projection)
-    .transition();
+    .projection(projection);
 
 var graticule = d3.geo.graticule();
 
