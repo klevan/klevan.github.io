@@ -103,8 +103,8 @@ var ants = svg.append("g");
   ants.selectAll("circle")
       .data(sppRichness.features).enter()
       .append("circle")
-      .attr("cx", "data")
-      .attr("cy", "data")
+      .attr("cx", ants.geometry.coordinates)
+      .attr("cy", ants.geometry.coordinates)
       .attr("r", "8px")
       .attr("fill", "red")
   
