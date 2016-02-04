@@ -51,7 +51,9 @@ Looked at another way, there is a clear positive relationship between documented
 
 This is pretty much a textbook case of the species-latitudinal gradient. 
 
-I've plotted species richness, genera richness and subfamily richness in a dynamic shiny app environment to look at some of the patterns more closely. Click [here](https://klevan.shinyapps.io/ant-web/) to check it out. 
+I've also plotted species richness, genera richness and subfamily richness in a dynamic shiny app environment to look at some of the patterns more closely. Click [here](https://klevan.shinyapps.io/ant-web/) to check it out. 
 ![Exploring Antweb Data](//klevan.github.io/images/rfigs/antwebMap2.png)
+
 Some areas in the equatorial areas have much richer communities of ants, as is demonstrated by scatterplot above. But when looking at the 'Number of Records' of occurrence noted in each region, it's easy to see that those richer areas are also the areas most sampled by researchers. 
+
 It will be great once NEON has diversity data available for all sampled taxa, because this issue of "haphazard sampling" will begin to get addressed. 
