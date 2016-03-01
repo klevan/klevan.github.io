@@ -22,11 +22,11 @@ I've set up some try blocks that will periodically try to harvest housing market
 # Looking at pricing data
 Certain neighborhoods are pricier than others. The most expensive quintile is plotted in green, the least expensive quintile is plotted in red.
 
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap1.jpg "neighborhood pricing")
+![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap1.jpeg "neighborhood pricing")
 
 # Mapping the community
 How is the price of housing related to the proximity of open space or green space? First, I wanted to get a sense visually of the open space within Boulder.
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap2.jpg "where are the trees?")
+![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap2.jpeg "where are the trees?")
 A lot of the trees (at least those tracked and managed by the city) are in the Mapleton Hill neighborhood, a historic and very expensive area.
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap1.jpg "trees and open space")
+![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap1.jpeg "trees and open space")
 However, a lot of the land owned by [Open Space and Mountain Parks](https://bouldercolorado.gov/osmp) is located further from Mapleton and the tonier parts of town than I would have expected.
