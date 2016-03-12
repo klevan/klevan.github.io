@@ -20,11 +20,11 @@ Data for this post come from two sources: the [Boulder Open Data Catalog](https:
 I've set up some try blocks that will periodically try to harvest housing market data on addresses for which I don't have information yet. In my experience, Zillow will let me do about 2500 calls to their API before they shut me down for a while. So far, I've gotten some price information for about half the properties in the city.
 
 # Looking at pricing data
-Certain neighborhoods are pricier than others. The most expensive quintile is plotted in green contours, the least expensive quintile is plotted in red. Interpreting contour lines is pretty straightforward and similar to interpreting contours on a topographic map. On a topo map, contour lines that are close together indicate a steep change in elevation whereas lines spaced further apart represent less elevation gain  or even completely flat sections. In this context, "steep" areas represent a high concentration of points, whereas areas with lines that are spaced further apart represent areas with few points. 
+Certain neighborhoods are pricier than others. The most expensive areas are plotted in green, the least expensive properties are plotted in red. 
 
 ![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap1.jpeg "neighborhood pricing")
 
-From this plot, the "steep" areas of the green contours are in the Pearl Street/Mapleton Hill neighborhoods and the South Table Mesa neighborhood; so those are statistically where the greatest concentration of houses over a million dollars are located. Likewise, the "steep" areas of the red contours are concentrated in Gunbarrel and around Valmont Rd in Northeast Boulder. That's where you are most likely to find a property valued at less that a quarter million dollars.
+From this plot, the priciest areas appear to be in the Pearl Street/Mapleton Hill neighborhoods and the South Table Mesa neighborhood; this is also where the greatest concentration of houses over a million dollars are located. Likewise, areas with the most red are concentrated in Gunbarrel and around Valmont Rd in Northeast Boulder. That's also where you are most likely to find a property valued at less that a quarter million dollars.
 
 # Mapping the community
 How is the price of housing related to the proximity of open space or green space? First, I wanted to get a sense visually of the open space within Boulder.
