@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 
 tags: [cv]
@@ -25,14 +25,14 @@ image:
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory.
 
 * Develops pipelines and scripts to deliver quality data products on a public data portal; algorithms performed numerous QA/QC checks and modifications on raw data 
-* Co-manages a large (~100 full-time, ~200 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
+* Co-manages a large (~100 full-time, ~400 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
 * Creates training materials 
 
 ## Technical Experience
 
 Programming Platforms and Languages
 
-:   **R:** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories, 
+:   **R:** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories
 
 :   **GitHub:** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors and outputing 
 
@@ -58,7 +58,7 @@ using NEON Data and R*
 :   **Ecological Society of America** Presented results of a network analysis at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks.
 
 ## Publication Record
-1.  D Hoekman, **KE LeVan**, *et al.* *in prep.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
+1.  D Hoekman, **KE LeVan**, *et al.* *submitted.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
 1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. *submitted.* Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere*: Special Issue
 1.  **KE LeVan** *et al.* *submitted.* Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism.
 1.  J Ludka, **KE LeVan** and DA Holway. 2015. Infiltration of a facultative ant–plant mutualism by the introduced Argentine ant: effects on mutualist diversity and mutualism benefits. *Ecological Entomology* 40 (4), 437-443
