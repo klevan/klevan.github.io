@@ -64,7 +64,9 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 2011-2012
 : **Ecological Society of America** Presented on a variety of projects to national audience of ecologists
+
 * ["The broader ecological effects of aphid tending by the Argentine ant"](http://esa.org/meetings_archive/2012/webprogram/Paper36315.html)
+
 * ["Do mutualisms between the Argentine ant and cotton aphids structure arthropod food webs in cotton?"](http://esa.org/meetings_archive/2011/webprogram/Paper31841.html)
 
 ## Publication Record
