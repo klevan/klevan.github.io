@@ -80,3 +80,33 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 1.  **KE LeVan** *et al.* 2009. Testing multiple hypotheses for the maintenance of male homosexual copulatory behaviour in flour beetles. *Journal of Evolutionary Biology* 22 (1), 60-70
 1.  A South, **K LeVan**, *et al.* 2008. Examining the role of cuticular hydrocarbons in firefly species recognition.  *Ethology* 114 (9), 916-924
 1.  **KE LeVan** and N Wilson-Rich 2006. An honest and deceitful review. *Science* 314 (5801), 927-928
+
+## Teaching Experience
+
+2014 Explore Ecology, 
+
+* Instructed 850 students at the K-6 level, created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution
+
+2012 Reuben H. Fleet Science Center, San Diego: K-8 Teacher Institute
+
+* Led a 90 minute workshop teaching STEM methods to 25 K-8 educators.
+
+2009-2012 University of California, San Diego: Introduction to Research
+
+* Personally mentored 24 students in their independent research in the Holway lab. Many were from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) and 25% pursued graduate school afterward.
+
+2011 University of California, San Diego: Introduction to Ecology
+
+* Head teaching assistant for Dr. Jon Shurin, led discussion sections, graded exams, led review sessions.
+
+2011 University of California, San Diego: Biometry: Instructor for two lab sections for 25 students each. 
+
+* Labs teach basic statistical methods, appropriate applications and R statistical software.
+
+2010 University of California, San Diego: Ecosystems and Global Change
+
+* Teaching assistant for Dr. Elsa Cleland for a class of 175 students, led two discussion sections of 30 students each, graded problem sets and exams. 
+
+2006-2008 Tufts University: Organisms and Populations 
+
+* Taught lab sections with 26 students. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy).
