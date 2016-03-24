@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 
 tags: [cv]
@@ -34,7 +34,7 @@ Programming Platforms and Languages
 
 :   **R:** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories
 
-:   **GitHub:** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors and outputing 
+:   **GitHub:** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors
 
 :   Also familiar with **Python**, **SQL**, **CSS**
 
@@ -55,7 +55,7 @@ using NEON Data and R*
 * Conducted an interactive workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
 
 2013
-:   **Ecological Society of America** Presented results of a network analysis at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks.
+:   **Ecological Society of America** Presented results of a network analysis at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
 
 ## Publication Record
 1.  D Hoekman, **KE LeVan**, *et al.* *submitted.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
