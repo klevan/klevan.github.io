@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: 
 tags: [cv]
@@ -32,7 +32,7 @@ Principal scientist heading the Insect Ecology sampling program for an NSF-funde
 
 Programming Platforms and Languages
 
-:   **R:** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories
+:   **R:** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories (see my posts about [BOLD](//klevan.github.io/BOLD-sequence-data/) and [AntWeb](//klevan.github.io/antweb-exploration/) for examples)
 
 :   **GitHub:** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors
 
