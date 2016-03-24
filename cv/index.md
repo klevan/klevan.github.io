@@ -83,7 +83,7 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 ## Teaching Experience
 
-2014 Explore Ecology, 
+2014 Explore Ecology *Santa Barbara, CA*
 
 * Instructed 850 students at the K-6 level, created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution
 
