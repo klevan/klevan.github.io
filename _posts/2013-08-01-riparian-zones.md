@@ -42,5 +42,7 @@ Now, using molecular techniques, we are revealing the effects of ant diversity l
 ## Funding provided by:
 
 "Achievement Rewards for College Scientists" Grant (2012-2013)
+
 Mildred Mathias UC Natural Reserve System Grant (2011)
+
 NSF Graduate Research Fellowship (2009-2012) 
