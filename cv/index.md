@@ -38,6 +38,16 @@ Programming Platforms and Languages
 
 :   Also familiar with **Python**, **SQL**, **CSS**
 
+Statistical Methods
+
+:   **Parametric** methods including simple/multiple regression, ANOVA/ANCOVA, MANOVA/MANCOVA, t-tests, Pearson's correlation
+
+:   **Non-parametric** methods including Kruskal-Wallis, Mann-Whitney, Spearman's correlation, sign tests
+
+:   **Ordination** techniques including Non-metric Multidimensional Scaling, Principal Component Analysis
+
+:   Also familiar with **numerical** methods and **PerMANOVA**
+
 ## Education
 2008 - 2013
 
