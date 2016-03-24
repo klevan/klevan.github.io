@@ -43,7 +43,7 @@ Programming Platforms and Languages
 
 :   PhD, Biology *University of California, San Diego* (La Jolla, CA)
 
-Thesis: "The broader ecological effects of species invasion on protection mutualisms"
+Dissertation title: "The broader ecological effects of species invasion on protection mutualisms"
 
 2004 - 2008    
 
@@ -59,10 +59,8 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 2014
 :   **Ecological Society of America** ["Ant-aphid mutualisms increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation"](http://esa.org/meetings_archive/2014/webprogram/Paper47631.html)
 
-
 2013
 :   **Ecological Society of America** Presented [results of a network analysis](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html) at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
-
 
 2011-2012
 : **Ecological Society of America** Presented on a variety of projects to national audience of ecologists
@@ -103,7 +101,7 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 2011 University of California, San Diego: Biometry: Instructor for two lab sections for 25 students each. 
 
-* Labs teach basic statistical methods, appropriate applications and R statistical software.
+* Labs taught basic statistical methods, appropriate applications and R statistical software.
 
 2010 University of California, San Diego: Ecosystems and Global Change
 
@@ -111,4 +109,4 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 2006-2008 Tufts University: Organisms and Populations 
 
-* Taught lab sections with 26 students. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy).
+* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy).
