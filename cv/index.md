@@ -50,24 +50,19 @@ Dissertation title: "The broader ecological effects of species invasion on prote
 :   BS, Biology & Spanish *Tufts University* (Medford, MA)
 
 ## Workshops and Presentations
+2016
+:  **The Nature Conservancy** invited talk, "The NEON project: Ecology meets Big Data at a Continental Scale"
+
 2015
 :   **Entomological Society of America** [*Big Data Meets Insect Ecology: Examining Insects Continentally
 using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Program.pdf)
 
-* Conducted an interactive workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
+* Conducted an interactive 2-hr workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
 
-2014
-:   **Ecological Society of America** ["Ant-aphid mutualisms increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation"](http://esa.org/meetings_archive/2014/webprogram/Paper47631.html)
+2011 - 2014
+: **Ecological Society of America** Gave 4 presentations to a national audience of ecologists on a variety of research projects; see [1](http://esa.org/meetings_archive/2014/webprogram/Paper47631.html), [2](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html), [3](http://esa.org/meetings_archive/2012/webprogram/Paper36315.html), [4](http://esa.org/meetings_archive/2011/webprogram/Paper31841.html)
 
-2013
-:   **Ecological Society of America** Presented [results of a network analysis](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html) at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
-
-2011-2012
-: **Ecological Society of America** Presented on a variety of projects to national audience of ecologists
-
-* ["The broader ecological effects of aphid tending by the Argentine ant"](http://esa.org/meetings_archive/2012/webprogram/Paper36315.html)
-
-* ["Do mutualisms between the Argentine ant and cotton aphids structure arthropod food webs in cotton?"](http://esa.org/meetings_archive/2011/webprogram/Paper31841.html)
+* Presented [results of a network analysis](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html) at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
 
 ## Publication Record
 1.  D Hoekman, **KE LeVan**, *et al.* *submitted.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
@@ -89,7 +84,7 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 2012 Reuben H. Fleet Science Center, San Diego: K-8 Teacher Institute
 
-* Led a 90 minute workshop teaching STEM methods to 25 K-8 educators.
+* Led a 90-minute workshop teaching STEM methods to 25 K-8 educators.
 
 2009-2012 University of California, San Diego: Introduction to Research
 
@@ -106,6 +101,8 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 2010 University of California, San Diego: Ecosystems and Global Change
 
 * Teaching assistant for Dr. Elsa Cleland for a class of 175 students, led two discussion sections of 30 students each, graded problem sets and exams. 
+
+* Delivered a 75 minute guest lecture on Trophic Dynamics 
 
 2006-2008 Tufts University: Organisms and Populations 
 
