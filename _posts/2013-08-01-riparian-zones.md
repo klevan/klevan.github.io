@@ -34,6 +34,7 @@ Many aphid species exchange honeydew for protection from their enemies. Argentin
 Now, using molecular techniques, we are revealing the effects of ant diversity loss on other taxa. Results seemed to indicate that aphid and parasitoid diversity was reduced in areas with Argentine ants compared to adjacent sites with native ants. This difference appears to result from a lower diversity pool of aphid hosts that parasitic wasps must choose from rather than any superior protection offered by the Argentine ant.
 
 ![Unparasitized](//klevan.github.io/images/rfigs/willowProject4a.png)
+
 ![Parasitoid in full view](//klevan.github.io/images/rfigs/willowProject4b.png)
 
 **Pictured above**: Under the microscope, an unparasitized aphid (upper) has an intact abdomen. If an aphid is parasitized by a wasp, the wasp egg hatches and the larvae grows until it occupies the majority of the interior of the aphid body (lower).
