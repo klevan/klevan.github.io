@@ -43,19 +43,29 @@ Programming Platforms and Languages
 
 :   PhD, Biology *University of California, San Diego* (La Jolla, CA)
 
+Thesis: "The broader ecological effects of species invasion on protection mutualisms"
+
 2004 - 2008    
 
 :   BS, Biology & Spanish *Tufts University* (Medford, MA)
 
 ## Workshops and Presentations
 2015
-:   **Entomological Society of America** *Big Data Meets Insect Ecology: Examining Insects Continentally
-using NEON Data and R* 
+:   **Entomological Society of America** [*Big Data Meets Insect Ecology: Examining Insects Continentally
+using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Program.pdf)
 
 * Conducted an interactive workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
 
+2014
+:   **Ecological Society of America** ["Ant-aphid mutualisms increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation"](http://esa.org/meetings_archive/2014/webprogram/Paper47631.html)
+
 2013
-:   **Ecological Society of America** Presented results of a network analysis at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
+:   **Ecological Society of America** Presented [results of a network analysis](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html) at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
+
+2011-2012
+: **Ecological Society of America** Presented on a variety of projects to national audience of ecologists
+* ["The broader ecological effects of aphid tending by the Argentine ant"](http://esa.org/meetings_archive/2012/webprogram/Paper36315.html)
+* ["Do mutualisms between the Argentine ant and cotton aphids structure arthropod food webs in cotton?"](http://esa.org/meetings_archive/2011/webprogram/Paper31841.html)
 
 ## Publication Record
 1.  D Hoekman, **KE LeVan**, *et al.* *submitted.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
