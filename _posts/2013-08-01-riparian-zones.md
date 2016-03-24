@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Diversity meets invasion"
 excerpt: "A snapshot into a community changed by invasion"
