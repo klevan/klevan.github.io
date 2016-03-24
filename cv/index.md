@@ -53,7 +53,7 @@ Statistical Methods
 
 :   PhD, Biology *University of California, San Diego* (La Jolla, CA)
 
-Dissertation title: "The broader ecological effects of species invasion on protection mutualisms"
+:   Dissertation title: "The broader ecological effects of species invasion on protection mutualisms"
 
 2004 - 2008    
 
