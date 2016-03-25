@@ -20,7 +20,7 @@ image:
 
 ### Data Scientist
 
-**National Ecological Observatory Network:** Staff Scientist (Current)
+**National Ecological Observatory Network** *Boulder, CO* Staff Scientist (Current)
 
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory
 
