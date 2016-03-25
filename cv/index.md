@@ -32,9 +32,9 @@ Principal scientist heading the Insect Ecology sampling program for an NSF-funde
 
 Programming Platforms and Languages
 
-:   **R:** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories (see my posts about [BOLD](//klevan.github.io/BOLD-sequence-data/) and [AntWeb](//klevan.github.io/antweb-exploration/) for examples)
+:   **R.** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories (see my posts about [BOLD](//klevan.github.io/BOLD-sequence-data/) and [AntWeb](//klevan.github.io/antweb-exploration/) for examples)
 
-:   **GitHub:** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors
+:   **GitHub.** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors
 
 :   Also familiar with **Python**, **SQL**, **CSS**
 
@@ -88,32 +88,26 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 ## Teaching Experience
 
-2014 Explore Ecology *Santa Barbara, CA*
+2014 
 
-* Instructed 850 students at the K-6 level, created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution
+:   **Explore Ecology** *Santa Barbara, CA* Instructed 850 students at the K-6 level, created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution
 
-2012 Reuben H. Fleet Science Center, San Diego: K-8 Teacher Institute
+2012
 
-* Led a 90-minute workshop teaching STEM methods to 25 K-8 educators.
+:   **K-8 Teacher Institute** *Reuben H. Fleet Science Center, San Diego* Led a 90-minute workshop teaching STEM methods to 25 K-8 educators.
 
-2009-2012 University of California, San Diego: Introduction to Research
+2009 - 2012
 
-* Personally mentored 24 students in their independent research in the Holway lab. Many were from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) and 25% pursued graduate school afterward.
+:   **Introduction to Research** *University of California, San Diego* Acted as a research mentor to 24 students conducting independent research in the Holway lab. Many were from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) and 25% pursued graduate school afterward.
 
-2011 University of California, San Diego: Introduction to Ecology
+2010 - 2011 
 
-* Head teaching assistant for Dr. Jon Shurin, led discussion sections, graded exams, led review sessions.
+:   **Introduction to Ecology** *University of California, San Diego* As head teaching assistant I led discussion sections and review sessions, graded exams, supported student learning.
 
-2011 University of California, San Diego: Biometry: Instructor for two lab sections for 25 students each. 
+:   **Biometry** *University of California, San Diego* Instructed two lab sections (50 students); Labs taught basic statistical methods, appropriate applications and R statistical software.
 
-* Labs taught basic statistical methods, appropriate applications and R statistical software.
+:   **Ecosystems and Global Change** *University of California, San Diego* Teaching assistant for Dr. Elsa Cleland for a class of 175 students, led two discussion sections (60 students), graded problem sets and exams; Gave a 75 minute guest lecture on Trophic Dynamics 
 
-2010 University of California, San Diego: Ecosystems and Global Change
+2006 - 2008 
 
-* Teaching assistant for Dr. Elsa Cleland for a class of 175 students, led two discussion sections of 30 students each, graded problem sets and exams. 
-
-* Delivered a 75 minute guest lecture on Trophic Dynamics 
-
-2006-2008 Tufts University: Organisms and Populations 
-
-* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy).
+:    **Organisms and Populations** *Tufts University* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy).
