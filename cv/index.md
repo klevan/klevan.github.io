@@ -22,7 +22,7 @@ image:
 
 **National Ecological Observatory Network:** Staff Scientist (Current)
 
-Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory.
+Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory
 
 * Develops pipelines and scripts to deliver quality data products on a public data portal; algorithms performed numerous QA/QC checks and modifications on raw data 
 * Co-manages a large (~100 full-time, ~400 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
@@ -94,20 +94,20 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 2012
 
-:   **K-8 Teacher Institute** *Reuben H. Fleet Science Center, San Diego* Led a 90-minute workshop teaching STEM methods to 25 K-8 educators.
+:   **K-8 Teacher Institute** *Reuben H. Fleet Science Center, San Diego* Led a 90-minute workshop teaching STEM methods to 25 K-8 educators
 
 2009 - 2012
 
-:   **Introduction to Research** *University of California, San Diego* Acted as a research mentor to 24 students conducting independent research in the Holway lab. Many were from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) and 25% pursued graduate school afterward.
+:   **Introduction to Research** *University of California, San Diego* Acted as a research mentor to 24 students conducting independent research in the Holway lab. Many were from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) and 25% pursued graduate school afterward
 
 2010 - 2011 
 
-:   **Introduction to Ecology** *University of California, San Diego* As head teaching assistant I led discussion sections and review sessions, graded exams, supported student learning.
+:   **Introduction to Ecology** *University of California, San Diego* As head teaching assistant I led discussion sections and review sessions, graded exams, supported student learning
 
-:   **Biometry** *University of California, San Diego* Instructed two lab sections (50 students); Labs taught basic statistical methods, appropriate applications and R statistical software.
+:   **Biometry** *University of California, San Diego* Instructed two lab sections (50 students); Labs taught basic statistical methods, appropriate applications and R statistical software
 
 :   **Ecosystems and Global Change** *University of California, San Diego* Teaching assistant for Dr. Elsa Cleland for a class of 175 students, led two discussion sections (60 students), graded problem sets and exams; Gave a 75 minute guest lecture on Trophic Dynamics 
 
 2006 - 2008 
 
-:    **Organisms and Populations** *Tufts University* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy).
+:    **Organisms and Populations** *Tufts University* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy)
