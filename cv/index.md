@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 
 tags: [cv]
@@ -48,6 +48,10 @@ Statistical Methods
 
 :   Also familiar with **numerical** methods and **PerMANOVA**
 
+Data Product Development
+
+:   **ETL.** Develops all aspects of the data pipeline within a large team (195 data products planned for end of observatory construction); including specifying data ingest, processing and QA/QC checks, & data publication. 
+
 ## Education
 2008 - 2013
 
@@ -61,7 +65,7 @@ Statistical Methods
 
 ## Workshops and Presentations
 2016
-:  **The Nature Conservancy** invited talk, "The NEON project: Ecology meets Big Data at a Continental Scale"
+:  **The Nature Conservancy** invited talk, *The NEON project: Ecology meets Big Data at a Continental Scale*
 
 2015
 :   **Entomological Society of America** [*Big Data Meets Insect Ecology: Examining Insects Continentally
@@ -86,7 +90,7 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 1.  A South, **K LeVan**, *et al.* 2008. Examining the role of cuticular hydrocarbons in firefly species recognition.  *Ethology* 114 (9), 916-924
 1.  **KE LeVan** and N Wilson-Rich 2006. An honest and deceitful review. *Science* 314 (5801), 927-928
 
-## Teaching Experience
+## Teaching and Mentoring
 
 2014 
 
@@ -94,7 +98,7 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 2012
 
-:   **K-8 Teacher Institute** *Reuben H. Fleet Science Center, San Diego* Led a 90-minute workshop teaching STEM methods to 25 K-8 educators
+:   **K-8 Teacher Institute** *Reuben H. Fleet Science Center, San Diego* Led a workshop session teaching STEM methods to K-8 educators
 
 2009 - 2012
 
