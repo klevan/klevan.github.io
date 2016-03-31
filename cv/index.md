@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: 
 tags: [cv]
@@ -84,13 +84,13 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 1.  D Hoekman, **KE LeVan**, *et al.* *submitted.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
 1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. *submitted.* Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere*: Special Issue
 1.  **KE LeVan** *et al.* *submitted.* Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism.
-1.  [J Ludka, **KE LeVan** and DA Holway. 2015. Infiltration of a facultative ant–plant mutualism by the introduced Argentine ant: effects on mutualist diversity and mutualism benefits. *Ecological Entomology* 40 (4), 437-443](//klevan.github.io/cv/pubs/ecolent2015.pdf)
-1.  [**KE LeVan** and DA Holway. 2015. Ant–aphid interactions increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation. *Ecology* 96, 1620–1630](//klevan.github.io/cv/pubs/ecol2015.pdf)
-1.  [**KE LeVan** *et al.* 2014. Floral visitation by the Argentine ant reduces pollinator visitation and seed set in the coast barrel cactus, *Ferocactus viridescens*. *Oecologia* 174 (1), 163-171](//klevan.github.io/cv/pubs/oecol2014.pdf)
-1.  [EE Wilson, CS Sidhu, **KE LeVan**, DA Holway. 2010. Pollen foraging behaviour of solitary Hawaiian bees revealed through molecular pollen analysis. *Molecular Ecology* 19 (21), 4823-4829](//klevan.github.io/cv/pubs/molecol2010.pdf)
-1.  [**KE LeVan** *et al.* 2009. Testing multiple hypotheses for the maintenance of male homosexual copulatory behaviour in flour beetles. *Journal of Evolutionary Biology* 22 (1), 60-70](//klevan.github.io/cv/pubs/JEB2008.pdf)
-1.  [A South, **K LeVan**, *et al.* 2008. Examining the role of cuticular hydrocarbons in firefly species recognition.  *Ethology* 114 (9), 916-924](//klevan.github.io/cv/pubs/Ethology2008.pdf)
-1.  [**KE LeVan** and N Wilson-Rich 2006. An honest and deceitful review. *Science* 314 (5801), 927-928](//klevan.github.io/cv/pubs/science2006.pdf)
+1.  J Ludka, **KE LeVan** and DA Holway. 2015. Infiltration of a facultative ant–plant mutualism by the introduced Argentine ant: effects on mutualist diversity and mutualism benefits. *Ecological Entomology* 40 (4), 437-443 [pdf](//klevan.github.io/cv/pubs/ecolent2015.pdf)
+1.  **KE LeVan** and DA Holway. 2015. Ant–aphid interactions increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation. *Ecology* 96, 1620–1630 [pdf](//klevan.github.io/cv/pubs/ecol2015.pdf)
+1.  **KE LeVan** *et al.* 2014. Floral visitation by the Argentine ant reduces pollinator visitation and seed set in the coast barrel cactus, *Ferocactus viridescens*. *Oecologia* 174 (1), 163-171 [pdf](//klevan.github.io/cv/pubs/oecol2014.pdf)
+1.  EE Wilson, CS Sidhu, **KE LeVan**, DA Holway. 2010. Pollen foraging behaviour of solitary Hawaiian bees revealed through molecular pollen analysis. *Molecular Ecology* 19 (21), 4823-4829 [pdf](//klevan.github.io/cv/pubs/molecol2010.pdf)
+1.  **KE LeVan** *et al.* 2009. Testing multiple hypotheses for the maintenance of male homosexual copulatory behaviour in flour beetles. *Journal of Evolutionary Biology* 22 (1), 60-70 [pdf](//klevan.github.io/cv/pubs/JEB2008.pdf)
+1.  A South, **K LeVan**, *et al.* 2008. Examining the role of cuticular hydrocarbons in firefly species recognition.  *Ethology* 114 (9), 916-924 [pdf](//klevan.github.io/cv/pubs/Ethology2008.pdf)
+1.  **KE LeVan** and N Wilson-Rich 2006. An honest and deceitful review. *Science* 314 (5801), 927-928 [pdf](//klevan.github.io/cv/pubs/science2006.pdf)
 
 ## Teaching and Mentoring
 
