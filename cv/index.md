@@ -24,7 +24,7 @@ image:
 
 Principal scientist heading the Insect Ecology sampling program for an NSF-funded national observatory
 
-* Develops pipelines and scripts to deliver quality data products on a public data portal; algorithms performed numerous QA/QC checks and modifications on raw data 
+* Develops pipelines and scripts to deliver quality data products on a public data portal (e.g., Mosquito diversity and pathogen-status); algorithms performed numerous QA/QC checks and modifications on raw data (data available [here](http://data.neonscience.org/browse-data?showTheme=org) from the NEON data portal)
 * Co-manages a large (~100 full-time, ~400 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
 * Creates training materials 
 
