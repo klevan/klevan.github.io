@@ -27,7 +27,7 @@ Still, mid-June is still early in the season and people are not allowed to reser
 The date with the least availability (only 15 spots in the whole park remaining!) is the Saturday night of 4th of July weekend (7/2). This is not surprising, especially with the Fourth occuring on a Monday. The next most popular dates are both Saturday reservations in July (7/16 and 7/23), followed by Sunday night of the Fourth of July weekend (7/3). In general, mid July to early August is prime time for backpacking in RMNP.
 ![When people want to be backpacking in Rocky](//klevan.github.io/images/rfigs/rmnp_datedesirability.png)
 This is probably related to the elevation and snow pack in the park, which tends to thin out by July. Higher elevation sites hang on to their snow later into the season, but all sites are accessible by mid-July.
-![When is the snowpack gone?](//klevan.github.io/images/rfigs/rmnp_snowfree_dates.jpg)
+![When is the snowpack gone?](//klevan.github.io/images/rfigs/rmnp_snowfree_dates.JPG)
 Also not surprising, Friday and Saturday are the most popular days of the week to make a reservation. 
 ![Everyone has fun on the weekend](//klevan.github.io/images/rfigs/rmnp_dayoftheweek.png)
 
