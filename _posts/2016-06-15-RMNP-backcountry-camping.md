@@ -5,7 +5,7 @@ excerpt: "Just how early do I have to get that permit?"
 tags: [RMNP, backcountry, permit]
 comments: true
 image:
-  feature: bearlake.jpg
+  feature: bearlake.JPG
   credit: Wikimedia Commons
   creditlink:  https://upload.wikimedia.org/wikipedia/commons/1/1a/Rocky_Mountain_National_Park_in_September_2011_-_Bear_Lake_looking_toward_Glacier_Gorge.JPG
 ---
