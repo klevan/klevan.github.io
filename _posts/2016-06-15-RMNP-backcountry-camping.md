@@ -34,3 +34,6 @@ Also not surprising, Friday and Saturday are the most popular days of the week t
 # Site desirability
 In general, the southern areas appear to be snapped up quickly, with the 5 most popular locations (in order) being Glacier Gorge, Andrews Creek, Thunder Lake, Ouzel Lake, and Upper Ouzel Creek. In the map below, the diameter of the red dot scales with the proportion of days that site is reserved in advance. The five most popular sites are indicated in blue. 
 ![No one chooses the Northern backcountry sites](//klevan.github.io/images/rfigs/rmnp_mapofdesirability.png)
+
+## Factors that are *not* related to desirability
+Several factors had no effect on the likelihood of people to reserve a particular campsite location in advance. The distance hiked up the trail to get to the site, the elevation of the site, and the elevation gain were all irrelevant in an evaluation of site desirability. Locations that are clear of snow early in the season are not more desirable than sites that stay snowy longer (no surprise there, since elevation didn't matter and the 'snow-free' date is tightly correlated to elevation). Locations with privies are not more popular than those without. 
