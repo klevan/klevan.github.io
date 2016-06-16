@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Rocky Mountain National Park - A camping trip"
 excerpt: "Just how early do I have to get that permit?"
