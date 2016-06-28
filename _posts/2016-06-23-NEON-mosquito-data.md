@@ -63,7 +63,4 @@ As more data are released, it will be interesting to see how climate affects pat
 ### Extensions: Birds as viral hosts
 NEON is also collecting bird data at NEON sites and these data may reveal connections between bird communities and mosquito pathogen-status. EEEV activity is most intense in bird populations associated with fresh-water swamp forest habitats; this includes species such as thrushes, cardinals, red-winged blackbirds, sparrows, bluejays, chickadees and woodpeckers. Given this data it will be interesting to see if we can begin to understand which bird species are particularly important vectors in EEE virus amplification.
 
-
-
-[^1]:  Grady, G.F. *et al* 1978. Eastern equine encephalitis in Massachusetts,
-1957-1976: A prospective study centered upon analyses of mosquitoes. Am. J. Epidemiol. 107:170-178. 
+[^1]:  Grady, G.F. *et al* 1978. Am. J. Epidemiol. 107:170-178. 
