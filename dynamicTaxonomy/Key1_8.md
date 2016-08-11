@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-##8A: Cicindelini sp. 
+## 8A: Cicindelini sp. 
 
 Anterolateral pronotal angles not more prominent than prosternal margin (Fig. 16.6); anterior pronotal sulcus continuous with anterior prosternal sulcus (Cicindela)
 
@@ -25,7 +25,7 @@ Anterolateral pronotal angles not more prominent than prosternal margin (Fig. 16
 [Click if 8A is a better match](https://en.wikipedia.org/wiki/Cicindelini)
 
 
-##8B: Carabidae sp. 
+## 8B: Carabidae sp. 
 
 Anterolateral angles of pronotum more prominent than anterior margins of prosternum (Fig. 15.6); anterior pronotal sulcus separated from anterior prosternal sulcus and also from prosterno-episternal sulcus
 

@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-##7A: Carabidae sp. 
+## 7A: Carabidae sp. 
 
 Antennae with insertions on frons, between bases of mandibles (Cicindelinae)
 
@@ -25,7 +25,7 @@ Antennae with insertions on frons, between bases of mandibles (Cicindelinae)
 [Click if 7A is a better match](//klevan.github.io/dynamicTaxonomy/Key1_8)
 
 
-##7B: Carabidae sp. 
+## 7B: Carabidae sp. 
 
 Antenna with insertion in line with and posteriad adjacent mandibular base
 

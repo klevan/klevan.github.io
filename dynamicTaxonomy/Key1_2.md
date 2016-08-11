@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-##2A: Omophron sp. 
+## 2A: Omophron sp. 
 
 Scutellum of mesothorax not visible (Fig. 5.6); mesosternum completely covered by scoop-shaped intercoxal process of prosternum (Fig. 6.6); body oval, not pedunculate.
 
@@ -25,7 +25,7 @@ Scutellum of mesothorax not visible (Fig. 5.6); mesosternum completely covered b
 [Click if 2A is a better match](https://en.wikipedia.org/wiki/Omophron)
 
 
-##2B: Carabidae sp. 
+## 2B: Carabidae sp. 
 
 Scutellum of mesothorax normally exposed, but difficult to see if body is pedunculate; prosternum not scoop-shaped, mesosternum not completely covered by it
 

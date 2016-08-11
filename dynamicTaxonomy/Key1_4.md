@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-##4A: Gehringia sp. 
+## 4A: Gehringia sp. 
 
 Elytron with lateral portion of disc as well as epipleuron bent under abdomen (Fig. 8.6); palpus with palpomere 4 very small, nearly subulate; mandible with a setigerous puncture in scrobe; head with single supraorbital setigerous puncture over each eye; hind coxae separated from one another in mid line of body; total length 2.0 mm or less (Fig. 7.6)
 
@@ -25,7 +25,7 @@ Elytron with lateral portion of disc as well as epipleuron bent under abdomen (F
 [Click if 4A is a better match](https://en.wikipedia.org/wiki/Gehringia)
 
 
-##4B: Carabidae sp. 
+## 4B: Carabidae sp. 
 
 Elytron with only epipleuron bent under abdomen
 
