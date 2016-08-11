@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: A key to Ground Beetles of North America
 tags: [taxonomy]
