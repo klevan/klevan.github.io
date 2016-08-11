@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-9A: Omini sp. 
+##9A: Omini sp. 
 
 Posterior coxae separated; eyes small; body dorsally dark (color uniformily black), dull (Key X)
 
@@ -25,7 +25,7 @@ Posterior coxae separated; eyes small; body dorsally dark (color uniformily blac
 [Click if 9A is a better match](https://en.wikipedia.org/wiki/Omini)
 
 
-9B: Megacephalini sp. 
+##9B: Megacephalini sp. 
 
 Posterior coxae contiguous; eyes large, prominent; body dorsally colored brilliantly (Megacephala)
 

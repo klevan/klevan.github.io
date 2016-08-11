@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-6A: Carabidae sp. 
+##6A: Carabidae sp. 
 
 Middle coxal cavities disjunct (not entirely enclosed by sterna, Fig. 11.6)
 
@@ -25,7 +25,7 @@ Middle coxal cavities disjunct (not entirely enclosed by sterna, Fig. 11.6)
 [Click if 6A is a better match](//klevan.github.io/dynamicTaxonomy/Key1_7)
 
 
-6B: Carabidae sp. 
+##6B: Carabidae sp. 
 
 Middle coxal cavities conjunct (entirely enclosed by sterna, Fig. 12.6), mesepimera not extended to middle coxal cavities
 

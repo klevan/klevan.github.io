@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-5A: Ozaenini sp. 
+##5A: Ozaenini sp. 
 
 Elytron with prominent outward-projected ridge (flange of Coanda) in apical one-fifth of lateral margin (Fig. 9.6); anterior tibia with both spurs apical (Fig. 1 0.6), emarginate or not; antennomeres
 
@@ -25,7 +25,7 @@ Elytron with prominent outward-projected ridge (flange of Coanda) in apical one-
 [Click if 5A is a better match](https://en.wikipedia.org/wiki/Ozaenini)
 
 
-5B: Carabidae sp. 
+##5B: Carabidae sp. 
 
 Elytron without flange of Coanda; anterior tibia with spurs various in position; antennomeres various; metepimeron distinct or not; hind coxae various
 

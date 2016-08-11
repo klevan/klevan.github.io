@@ -16,7 +16,7 @@ image:
 
 Choose the descriptions and photos that match your specimen the closest. 
 
-3A: Brachinus sp. 
+##3A: Brachinus sp. 
 
 Abdomen with seven or eight sterna normally exposed; mandible with a setigerous puncture in scrobe; head with single supraorbital setigerous puncture over each eye; elytron truncate at apex; head and prothorax testaceous, elytra blue or brownish.
 
@@ -25,7 +25,7 @@ Abdomen with seven or eight sterna normally exposed; mandible with a setigerous 
 [Click if 3A is a better match](https://en.wikipedia.org/wiki/Brachinus)
 
 
-3B: Carabidae sp. 
+##3B: Carabidae sp. 
 
 Abdomen with six sterna normally visible
 
