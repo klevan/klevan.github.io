@@ -32,7 +32,7 @@ Principal scientist heading the Insect Ecology sampling program for an NSF-funde
 
 Programming Platforms and Languages
 
-:   **R.** Seven years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories (see my posts about [BOLD](//klevan.github.io/BOLD-sequence-data/) and [AntWeb](//klevan.github.io/antweb-exploration/) for examples)
+:   **R.** Eight years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories (see my posts about [BOLD](//klevan.github.io/BOLD-sequence-data/) and [AntWeb](//klevan.github.io/antweb-exploration/) for examples)
 
 :   **GitHub.** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors
 
@@ -82,8 +82,8 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 ## Publication Record
 1.  D Hoekman, **KE LeVan**, *et al.* *Accepted.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
-1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. 2016. Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere* 7 (12):e01627. [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1627/epdf)
 1.  **KE LeVan** *et al.* *submitted.* Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism.
+1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. 2016. Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere* 7 (12):e01627. [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1627/epdf)
 1.  J Ludka, **KE LeVan** and DA Holway. 2015. Infiltration of a facultative ant–plant mutualism by the introduced Argentine ant: effects on mutualist diversity and mutualism benefits. *Ecological Entomology* 40 (4), 437-443 [pdf](//klevan.github.io/cv/pubs/ecolent2015.pdf)
 1.  **KE LeVan** and DA Holway. 2015. Ant–aphid interactions increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation. *Ecology* 96, 1620–1630 [pdf](//klevan.github.io/cv/pubs/ecol2015.pdf)
 1.  **KE LeVan** *et al.* 2014. Floral visitation by the Argentine ant reduces pollinator visitation and seed set in the coast barrel cactus, *Ferocactus viridescens*. *Oecologia* 174 (1), 163-171 [pdf](//klevan.github.io/cv/pubs/oecol2014.pdf)
