@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Katherine LeVan"
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I heard them say refreshments were provided?"
   location         : "In the Rockies"
   email            : "klevan@battelleecology.org"

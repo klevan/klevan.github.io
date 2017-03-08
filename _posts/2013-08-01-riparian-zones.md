@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Diversity meets invasion"
 excerpt: "A snapshot into a community changed by invasion"
 comments: true
-image:
-  feature: ants-alexwild.jpg
+header:
+  overlay_image: /assets/image/ants-alexwild.jpg
   credit: Alexander Wild
   creditlink: http://www.alexanderwild.com
 ---
