@@ -1,18 +1,12 @@
----
-layout: page
+﻿---
 title: 
 tags: [cv]
 modified: 2016-01-19T08:53:07.573882-07:00
 comments: false
-share: false
-image:
-  feature: mountain.jpg
-  credit: Wikimedia Commons
-  creditlink: https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg
+header:
+  image: /assets/images/mountain.jpg
+  caption: "[Photo credit: Wikimedia Commons](https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg)
 ---
-
-<!-- Scripts for D3 -->
-<script src="https://d3js.org/d3.v3.min.js"></script>
 
 # Katherine E. LeVan
 
