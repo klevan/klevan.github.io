@@ -3,7 +3,8 @@ title: "Diversity meets invasion"
 excerpt: "A snapshot into a community changed by invasion"
 comments: true
 header:
-  overlay_image: /assets/image/ants-alexwild.jpg
+  image: /assets/image/ants-alexwild.jpg
+  caption: "[Photo credit: Alexander Wild](http://www.alexanderwild.com)"
 ---
 
 # Life in a riparian ecosystem changed by ant invasion
