@@ -1,4 +1,5 @@
----
+﻿---
+layout: single
 title: 
 tags: [cv]
 comments: false
