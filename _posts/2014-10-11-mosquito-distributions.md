@@ -6,7 +6,6 @@ header:
   caption: "[Photo credit: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mosquito_female.svg)"
 ---
 
-
 When he made the statement, former Secretary of Defense Donald Rumsfeld was trying to dodge a reporter’s question. Since then his quote about ‘known knowns’ has transformed into a kind of watchword for any epistemiological problem.
 
 *[…] there are known knowns; there are things we know we know. We also know there are known unknowns; that is to say we know there are some things we do not know. But there are also unknown unknowns — the ones we don’t know we don’t know. And if one looks throughout the history of our country and other free countries, it is the latter category that tend to be the difficult ones.*
