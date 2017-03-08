@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tiger Beetle Distributions"
 excerpt: "Diversity analysis using USGS Data"
 comments: true
