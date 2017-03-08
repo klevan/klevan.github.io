@@ -1,6 +1,7 @@
 ---
 title: "Mosquito Distributions"
-excerpt: "A demo showing how to use publicly available presence-comments: true
+excerpt: "A demo showing how to use publicly available presence-absence data"
+comments: true
 header:
   image: /assets/images/mosquito.png
   caption: "[Photo credit: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mosquito_female.svg)"
