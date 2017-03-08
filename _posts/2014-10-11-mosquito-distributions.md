@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mosquito Distributions"
 excerpt: "A demo showing how to use publicly available presence-comments: true
 header:
