@@ -1,13 +1,10 @@
 ---
-layout: post
 title: "Exploring ant biodiversity"
 excerpt: "Looking at data from AntWeb.org"
-tags: [ant, biodiversity, latitude, richness]
 comments: true
-image:
-  feature: rainforest.jpg
-  credit: Wikimedia Commons
-  creditlink: https://commons.wikimedia.org/wiki/File:El_Yunque_panorama.jpg
+header:
+  image: /assets/images/rainforest.jpg
+  caption: "[Photo credit: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Yunque_panorama.jpg)"
 ---
 
 ## Exploring patterns of ant occurrence data in AntWeb
@@ -20,7 +17,7 @@ As of January 2016, Ant Web has 548,926 specimen records describing the occurren
     points(antData$decimal_longitude,antData$decimal_latitude,
            pch=21,bg="turquoise")
 
-![Each point is an ant occurrence record](//klevan.github.io/images/rfigs/antwebMap1.png)
+![Each point is an ant occurrence record](//klevan.github.io/assets/images/rfigs/antwebMap1.png)
 From the distribution of recorded ant sightings, there are some obvious gaps in parts of Asia, equitorial Africa, and the Amazon.
 
 
@@ -47,12 +44,12 @@ Looked at another way, there is a clear positive relationship between documented
     x$fit <- as.numeric(mod$fitted.values)
     lines(x$latitude,x$fit,lwd=4)
 
-![Number of ant species per degree latitude](//klevan.github.io/images/rfigs/antwebLatGraph.png)
+![Number of ant species per degree latitude](//klevan.github.io/assets/images/rfigs/antwebLatGraph.png)
 
 This is pretty much a textbook case of the species-latitudinal gradient. 
 
 I've also plotted species richness, genera richness and subfamily richness in a dynamic shiny app environment to look at some of the patterns more closely. Click [here](https://klevan.shinyapps.io/ant-web/) to check it out. 
-![Exploring Antweb Data](//klevan.github.io/images/rfigs/antwebMap2.png)
+![Exploring Antweb Data](//klevan.github.io/assets/images/rfigs/antwebMap2.png)
 
 Some areas in the equatorial areas have much richer communities of ants, as is demonstrated by scatterplot above. But when looking at the 'Number of Records' of occurrence noted in each region, it's easy to see that those richer areas are also the areas most sampled by researchers. 
 

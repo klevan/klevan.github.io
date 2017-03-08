@@ -1,13 +1,10 @@
 ---
-layout: post
 title: "Rocky Mountain National Park - A camping trip"
 excerpt: "Just how early do I have to get that permit?"
-tags: [RMNP, backcountry, permit]
 comments: true
-image:
-  feature: bearlake.JPG
-  credit: Wikimedia Commons
-  creditlink:  https://upload.wikimedia.org/wikipedia/commons/1/1a/Rocky_Mountain_National_Park_in_September_2011_-_Bear_Lake_looking_toward_Glacier_Gorge.JPG
+header:
+  image: /assets/images/bearlake.JPG
+  caption: "[Photo credit: Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/1/1a/Rocky_Mountain_National_Park_in_September_2011_-_Bear_Lake_looking_toward_Glacier_Gorge.JPG)"
 ---
 
 # Backpacking season is here!
@@ -25,15 +22,15 @@ Still, mid-June is still early in the season and people are not allowed to reser
 
 ## What dates are most coveted?
 The date with the least availability (only 15 spots in the whole park remaining!) is the Saturday night of 4th of July weekend (7/2). This is not surprising, especially with the Fourth occuring on a Monday. The next most popular dates are both Saturday reservations in July (7/16 and 7/23), followed by Sunday night of the Fourth of July weekend (7/3). In general, mid July to early August is prime time for backpacking in RMNP.
-![When people want to be backpacking in Rocky](//klevan.github.io/images/rfigs/rmnp_datedesirability.png)
+![When people want to be backpacking in Rocky](//klevan.github.io/assets/images/rfigs/rmnp_datedesirability.png)
 This is probably related to the elevation and snow pack in the park, which tends to thin out by July. Higher elevation sites hang on to their snow later into the season, but all sites are accessible by mid-July.
-![When is the snowpack gone?](//klevan.github.io/images/rfigs/rmnp_snowfree_dates.jpeg)
+![When is the snowpack gone?](//klevan.github.io/assets/images/rfigs/rmnp_snowfree_dates.jpeg)
 Also not surprising, Friday and Saturday are the most popular days of the week to make a reservation. 
-![Everyone has fun on the weekend](//klevan.github.io/images/rfigs/rmnp_dayoftheweek.png)
+![Everyone has fun on the weekend](//klevan.github.io/assets/images/rfigs/rmnp_dayoftheweek.png)
 
 # Site desirability
 In general, the southern areas appear to be snapped up quickly, with the 5 most popular locations (in order) being Glacier Gorge, Andrews Creek, Thunder Lake, Ouzel Lake, and Upper Ouzel Creek. In the map below, the diameter of the red dot scales with the proportion of days that site is reserved in advance. The five most popular sites are indicated in blue. 
-![No one chooses the Northern backcountry sites](//klevan.github.io/images/rfigs/rmnp_mapofdesirability.png)
+![No one chooses the Northern backcountry sites](//klevan.github.io/assets/images/rfigs/rmnp_mapofdesirability.png)
 
 ## Factors that are *not* related to desirability
 Several factors had no effect on the likelihood of people to reserve a particular campsite location in advance. The distance hiked up the trail to get to the site, the elevation of the site, and the elevation gain were all irrelevant in an evaluation of site desirability. Locations that are clear of snow early in the season are not more desirable than sites that stay snowy longer (no surprise there, since elevation didn't matter and the 'snow-free' date is tightly correlated to elevation). Locations with privies are not more popular than those without. 

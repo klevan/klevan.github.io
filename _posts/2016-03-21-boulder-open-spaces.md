@@ -1,13 +1,10 @@
 ---
-layout: post
 title: "The Affordability of Open Space"
 excerpt: "Can you buy a house with decent access to the Flatirons?"
-tags: [market, Zillow, real estate, housing]
 comments: true
-image:
-  feature: flatirons.jpg
-  credit: Zach Ancell
-  creditlink: https://www.flickr.com/photos/zachancell/3682237473
+header:
+  image: /assets/images/flatirons.jpg
+  caption: "[Photo credit: Zach Ancell](https://www.flickr.com/photos/zachancell/3682237473)"
 ---
 
 # Boulder & Open Space Access
@@ -24,20 +21,20 @@ From the get-go, median home price ($602,360) and mean home price ($694,148) for
 
 However, there is considerable variance by location and certain neighborhoods are pricier than others. The most expensive areas are plotted in green, the least expensive properties are plotted in red. 
 
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap1.jpeg "neighborhood pricing")
+![alt text](//klevan.github.io/assets/images/rfigs/boulderOpenDataMap1.jpeg "neighborhood pricing")
 
 From this plot, the priciest areas appear to be in the Pearl Street/Mapleton Hill neighborhoods and the South Table Mesa neighborhood; this is also where the greatest concentration of houses over a million dollars are located. Likewise, areas with the most red are concentrated in Gunbarrel and around Valmont Rd in Northeast Boulder (also called 'the Crossroads'). That's also where you are most likely to find a property valued at less that a quarter million dollars.
 
 # Mapping the community
 How is the price of housing related to the proximity of open space or green space? First, I wanted to get a sense visually of the open space within Boulder.
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap2.jpeg "where are the trees?")
+![alt text](//klevan.github.io/assets/images/rfigs/boulderOpenDataMap2.jpeg "where are the trees?")
 The contour map (in green) tells you something about the distribution of trees managed by the city. Again, it seems as though lot of the trees (at least those tracked by the city) are in the Mapleton Hill neighborhood, a historic and very expensive area.
 Green space isn't just tree-lined streets, though. So I mapped out the open space parcels owned by the City of Boulder in brown.
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap3.jpeg "trees and open space")
+![alt text](//klevan.github.io/assets/images/rfigs/boulderOpenDataMap3.jpeg "trees and open space")
 A lot of the land owned by [Open Space and Mountain Parks](https://bouldercolorado.gov/osmp) is located further from Mapleton and the tonier parts of town than I would have expected. Even so, not all of the space owned and controlled by OSMP is accessible to the public. While I certainly appreciate being able to look at a pristine vista, the real pleasure is in exploring it. In the map below, I've greyed out the parcels where public access is restricted and overlaid trails where they occur.
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap4.jpeg "trees and accessible open space")
+![alt text](//klevan.github.io/assets/images/rfigs/boulderOpenDataMap4.jpeg "trees and accessible open space")
 My favorite portion of the land owned by OSMP is in what's called the [West Trail Study Area](https://www-static.bouldercolorado.gov/docs/trails-study-areas-map-1-201304101255.pdf) and contains all the trails over the Flatirons. 
-![alt text](//klevan.github.io/images/rfigs/boulderOpenDataMap5.jpeg "Open space & the Flatirons")
+![alt text](//klevan.github.io/assets/images/rfigs/boulderOpenDataMap5.jpeg "Open space & the Flatirons")
 
 In the figure above, you can see that the neighborhoods closest to the West Trail Study Area (i.e., the FlatIrons) are more expensive than those areas further away. In fact, the median home price within the Crossroads (the darkest colored blue polygon), is a full $100k cheaper than the median price in the most expensive areas (i.e., Central Boulder - contains the Pearl Street Mall). 
 
