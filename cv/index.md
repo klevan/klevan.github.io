@@ -5,7 +5,7 @@ modified: 2016-01-19T08:53:07.573882-07:00
 comments: false
 header:
   image: /assets/images/mountain.jpg
-  caption: "[Photo credit: Wikimedia Commons](https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg)
+  caption: "[Photo credit: Wikimedia Commons](https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg)"
 ---
 
 # Katherine E. LeVan
