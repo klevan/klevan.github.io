@@ -3,7 +3,7 @@ title: "Diversity meets invasion"
 excerpt: "A snapshot into a community changed by invasion"
 comments: true
 header:
-  image: /assets/image/ants-alexwild.jpg
+  image: /assets/images/ants-alexwild.jpg
   caption: "[Photo credit: Alexander Wild](http://www.alexanderwild.com)"
 ---
 
