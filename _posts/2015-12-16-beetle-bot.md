@@ -1,13 +1,10 @@
 ---
-layout: post
 title: "The Beetle Bot"
 excerpt: "All about a twitter bot that dispenses facts about beetles."
-tags: [twitter]
 comments: true
-image:
-  feature: beetle-bot.jpg
-  credit: Wikimedia Commons
-  creditlink: https://commons.wikimedia.org/wiki/File:Carabus_insulicola.jpg
+header:
+  image: /assets/images/beetle-bot.jpg
+  caption: "[Photo credit: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Carabus_insulicola.jpg)"
 ---
 
 # I am the beetleBot
@@ -19,7 +16,7 @@ Ecology is now moving into the realm of large, query-able databases; databases t
 ## Why this project won't solve anything, but will be entertaining
 I decided to make a twitter bot that could tell me factoids about insect life history on a regular basis. I found a paper (Larochelle, A. and M.C. Lariviere. 2001. Natural history of the tiger beetles of North America north of Mexico. Cicindela 33(3-4): 41-162) that documents the life history traits of North American Tiger beetles. With this information, I was able to parse the text to extract standardized information about each of the species. From there I built a twitter bot that would sample the database for a random species, choose a fact related to that species at random and construct a tweet from a set of predefined adjectives/nouns/transitional phrases. The result is a sort of madlibs that combines a fact about a species of Tiger beetle with a photo.
 
-![alt text](//klevan.github.io/images/rfigs/beetleBot1.png "beetleBot output")
+![alt text](//klevan.github.io/assets/images/rfigs/beetleBot1.png "beetleBot output")
 
 
 This turns out to be pretty simple to implement using the *twitteR* package. Others have great examples demonstrating uses of *twitteR* to make bots. See [here](https://rstudio-pubs-static.s3.amazonaws.com/54352_3afcd597884a4192b3361513f2d32699.html) and [here](http://www.r-datacollection.com/blog/How-to-conduct-a-tombola-with-R/), for instance. 
@@ -281,7 +278,7 @@ The tweet has to be 140 characters or less; if I have a photo for it, then it ca
     rm(tweettxt)
 
 
-![alt text](//klevan.github.io/images/rfigs/beetleBot2.png "beetleBot output")
+![alt text](//klevan.github.io/assets/images/rfigs/beetleBot2.png "beetleBot output")
 
 ### Beetle photography sources
 There are a number of talented entomologists/taxonomists/ecologists that have taken high quality photos of Tiger beetles. The photos used by the twitter bot are currently sourced from the following locations. Where possible, I cite the origin of the photos with the appropriate mention, hashtag or DOI. These tags are stored in the mentions column of the life history table.

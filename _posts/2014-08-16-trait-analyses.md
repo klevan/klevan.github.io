@@ -1,14 +1,12 @@
----
-layout: post
+﻿---
 title: "Trait Diversity vs. Species Richness"
 excerpt: "My opinions on diversity"
-tags: [diversity, richness, traits]
 comments: true
-image:
-  feature: rainforest.jpg
-  credit: Wikimedia Commons
-  creditlink: https://commons.wikimedia.org/wiki/File:El_Yunque_panorama.jpg
+header:
+  image: /assets/images/rainforest.jpg
+  caption: "[Photo credit: Wikimedia Commons](https://commons.wikimedia.org/wiki/File:El_Yunque_panorama.jpg)"
 ---
+
 
 A number of well-written popular science books have drawn attention to ecosystem degradation in the modern era (e.g., Kolbert’s “The Sixth Extinction”, Weisman’s “The World Without Us”, Wilson’s “The Future of Life”). Each highlight the result when high-quality habitat is developed over or degraded; in short, many species become extinct and the ones left behind are fundamentally changed. The popularity of conservation-minded books speaks, I think, to a noble interest on the part of the public to ‘save the environment’. For a lot of folks, that probably boils down to making sure pandas have enough bamboo to live happily in the wild. Nevertheless, these books emphasize the crucial message that change is needed if we are to rehabilitate healthy, diverse ecosystems.
 I think you’d be hard pressed to find an ecologist that would state on the record to a lay audience that species diversity is overrated. In part, because good scientists aren’t given to hyperbolic statements as a rule. Second, because a public statement like that from a university setting would probably provide carte blanc approval to all sorts of questionable activities. Nevertheless, there has been some chatter in the ecology community lately aimed at answering two fundamental questions: “Is species diversity really the best measure for community health? Or ecosystem resilience?” As we learn more about the way that ecosystems work and handle perturbations (read: climate change), it seems that species diversity isn’t as great an indicator as we might wish. In some cases, it seems to be a relatively poor proxy to measure actual ecosystem function.

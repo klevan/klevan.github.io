@@ -1,13 +1,10 @@
 ---
-layout: post
 title: "NEON data on the BOLD database"
 excerpt: "A short script that gets you photos from the Barcode of Life API"
-tags: [web-scraping, BOLD, NEON, API]
 comments: true
-image:
-  feature: dna.jpg
-  credit: DNA Art Online
-  creditlink: https://www.flickr.com/photos/geneticdesigns/5074826281
+header:
+  image: /assets/images/dna.jpg
+  caption: "[Photo credit: DNA Art Online](https://www.flickr.com/photos/geneticdesigns/5074826281)"
 ---
 
 # BOLD: awesome resource, finicky API
