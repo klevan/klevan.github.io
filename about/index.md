@@ -1,6 +1,7 @@
 ---
 layout: single
 title: About Me
+author_profile: true
 comments: false
 header:
   image: /assets/images/mountain.jpg
