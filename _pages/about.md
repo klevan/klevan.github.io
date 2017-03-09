@@ -1,6 +1,9 @@
 ---
 title: About Me
 comments: false
+layout: single
+author_profile: true
+permalink: /about/
 header:
   image: /assets/images/mountain.jpg
   caption: "[Photo credit: Wikimedia Commons](https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg)"

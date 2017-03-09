@@ -1,5 +1,7 @@
 ﻿---
 layout: single
+author_profile: true
+layout: single
 title: 
 tags: [cv]
 comments: false
