@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 layout: single
-title: 
+title: Katherine E. LeVan
 tags: [cv]
 comments: false
 permalink: /cv/
@@ -10,8 +10,6 @@ header:
   image: /assets/images/mountain.jpg
   caption: "[Photo credit: Wikimedia Commons](https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg)"
 ---
-
-# Katherine E. LeVan
 
 ## Relevant Experience
 
