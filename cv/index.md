@@ -1,4 +1,4 @@
----
+﻿---
 layout: single
 author_profile: true
 layout: single
@@ -31,7 +31,7 @@ Programming Platforms and Languages
 
 :   **GitHub.** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors
 
-![](//klevan.github.io/images/github.png)
+![](//klevan.github.io/assets/images/github.png)
 
 :   Also familiar with **Python**, **SQL**, **CSS**
 
