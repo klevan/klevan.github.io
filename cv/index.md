@@ -71,7 +71,7 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 * Conducted an interactive 2-hr workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
 
 2011 - 2014
-: **Ecological Society of America** Gave 4 presentations to a national audience of ecologists on a variety of research projects; see [1](http://esa.org/meetings_archive/2014/webprogram/Paper47631.html), [2](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html), [3](http://esa.org/meetings_archive/2012/webprogram/Paper36315.html), [4](http://esa.org/meetings_archive/2011/webprogram/Paper31841.html)
+: **Ecological Society of America** Gave 4 presentations to a national audience of ecologists on a variety of research projects; see [1](https://eco.confex.com/eco/2014/webprogram/Paper47631.html), [2](https://eco.confex.com/eco/2013/webprogram/Paper41526.html), [3](https://eco.confex.com/eco/2012/webprogram/Paper36315.html), [4](https://eco.confex.com/eco/2011/webprogram/Paper31841.html)
 
 * Presented [results of a network analysis](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html) at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
 
