@@ -27,7 +27,7 @@ Principal scientist heading the Insect Ecology sampling program for an NSF-funde
 
 Programming Platforms and Languages
 
-:   **R.** Eight years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories (see my posts about [BOLD](//klevan.github.io/BOLD-sequence-data/) and [AntWeb](//klevan.github.io/antweb-exploration/) for examples)
+:   **R.** Nine years experience programming in R. Projects have included the development of internally-facing R packages, coding scripts to scrape websites and access large data repositories (see my posts about [BOLD](//klevan.github.io/BOLD-sequence-data/) and [AntWeb](//klevan.github.io/antweb-exploration/) for examples)
 
 :   **GitHub.** Collaborative work on algorithm development within a 24 person team; resulting code capable of ingesting data from many sources (e.g., field collected data, laboratory analyses), performing quality checks to process/flag errors
 
@@ -71,13 +71,18 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 * Conducted an interactive 2-hr workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
 
 2011 - 2014
-: **Ecological Society of America** Gave 4 presentations to a national audience of ecologists on a variety of research projects; see [1](http://esa.org/meetings_archive/2014/webprogram/Paper47631.html), [2](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html), [3](http://esa.org/meetings_archive/2012/webprogram/Paper36315.html), [4](http://esa.org/meetings_archive/2011/webprogram/Paper31841.html)
+: **Ecological Society of America** Gave 4 presentations to a national audience of ecologists on a variety of research projects; see [1](https://eco.confex.com/eco/2014/webprogram/Paper47631.html), [2](https://eco.confex.com/eco/2013/webprogram/Paper41526.html), [3](https://eco.confex.com/eco/2012/webprogram/Paper36315.html), [4](https://eco.confex.com/eco/2011/webprogram/Paper31841.html)
 
 * Presented [results of a network analysis](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html) at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
 
+## Recent Grants
+* 2017	Department of State 	
+	"Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases"
+
+
 ## Publication Record
-1.  D Hoekman, **KE LeVan**, *et al.* *Accepted.* Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere*: Special Issue
-1.  **KE LeVan** *et al.* *submitted.* Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism.
+1.  **KE LeVan**, SK Barney and EE Wilson Rankin. *Accepted.* Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism. *Oikos*.
+1.  D Hoekman, **KE LeVan**, *et al.* 2017. Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere* 8(4): e01744 [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1744/full)
 1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. 2016. Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere* 7 (12):e01627. [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1627/epdf)
 1.  J Ludka, **KE LeVan** and DA Holway. 2015. Infiltration of a facultative ant–plant mutualism by the introduced Argentine ant: effects on mutualist diversity and mutualism benefits. *Ecological Entomology* 40 (4), 437-443 [pdf](//klevan.github.io/assets/pubs/ecolent2015.pdf)
 1.  **KE LeVan** and DA Holway. 2015. Ant–aphid interactions increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation. *Ecology* 96, 1620–1630 [pdf](//klevan.github.io/assets/pubs/ecol2015.pdf)
