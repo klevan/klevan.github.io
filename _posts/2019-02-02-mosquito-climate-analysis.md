@@ -47,12 +47,14 @@ Mosquito counts are poisson distributed, so any model used will have to take tha
 
 Given the multicollinearity of the minimum, mean and maximum temperatures, it may be best to start with a model of just one of these factors.
 
-![multicollinear nature of temperature measurements](//klevan.github.io/assets/images/rfigs/multicollinear-HARV-2017.jpeg)
+![multicollinear nature of temperature measurements](//klevan.github.io/assets/images/rfigs/mulitcollinear-HARV-2017.jpeg)
 
-```{r mosquito modelling}
+```
+
 m1 <- glm(formula = totalAbundance ~ avg14TempTripleMean + sum14Precip + avg14RHMean + nlcdClass, 
           data = mos.summary, family = 'poisson')
 summary(m1)
+
 ```
 
 In this GLM model, there is support that all of these factors (temperature, precipitation, humidity and habitat) are important drivers of total observed abundance. 
