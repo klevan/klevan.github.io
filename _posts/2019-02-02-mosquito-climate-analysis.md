@@ -56,6 +56,9 @@ summary(m1)
 ```
 
 In this GLM model, there is support that all of these factors (temperature, precipitation, humidity and habitat) are important drivers of total observed abundance. 
-![Output of analysis](//klevan.github.io/assets/images/rfigs/glm-HARV-2017.jpeg)
+
+![Output of analysis](//klevan.github.io/assets/images/rfigs/glm-HARV-2017.jpg)
 
 ![Mosquito vs temperature](//klevan.github.io/assets/images/rfigs/mosq-temp-HARV-2017.jpeg)
+
+The source code for all these graphs are in my repo [neon-data-vignettes](http://github.com/klevan/neon-data-vignettes)
