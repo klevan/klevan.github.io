@@ -50,15 +50,12 @@ Data Product Development
 :   **ETL.** Develops all aspects of the data pipeline within a large team (195 data products planned for end of observatory construction); including specifying data ingest, processing and QA/QC checks, & data publication. 
 
 ## Education
-2008 - 2013
 
-:   PhD, Biology *University of California, San Diego* (La Jolla, CA)
+| Year Awarded | Degree | Institution | Honors |
+| ------------- | :-------------: | :------------: | :------------: |
+| 2013 | PhD, Biology | **University of California, San Diego** (La Jolla, CA) | GPA: 4.0; Dissertation Title: "The broader ecological effects of species invasion on protection mutualisms" |
+| 2008 | BS, Biology & Spanish | **Tufts University** (Medford, MA) | Cum laude; highest thesis honors |
 
-:   Dissertation title: "The broader ecological effects of species invasion on protection mutualisms"
-
-2004 - 2008    
-
-:   BS, Biology & Spanish *Tufts University* (Medford, MA)
 
 ## Workshops and Presentations
 2016
@@ -114,6 +111,8 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 1. **LeVan, KE**. 2018. TOS Science Design for Vectors and Pathogens. NEON.DOC.000911vB. National Ecological Observatory Network, Boulder, CO. 72 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000911vB/)
 1. **LeVan, KE**. 2018. TOS Science Design for Mosquito Abundance, Diversity, and Phenology. NEON.DOC.000910vB. National Ecological Observatory Network, Boulder, CO. 24 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000910vB/)
 
+See links at [Research Gate](https://www.researchgate.net/profile/Katherine_Levan) and [Google Scholar](https://scholar.google.com/citations?user=sWBs6n8AAAAJ&hl=en) for more information about my publication history.
+
 ## Teaching, Mentoring, Professional Service
 
 *Teaching & Training*
@@ -121,8 +120,8 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 | Timeframe | Institution or Program | Course Name | Number of students/participants |
 | ------------- | :-------------: | :------------: | :------------: |
 | 2015 - 2019 | National Ecological Observatory Network | **NEON Standard Operating Procedures**: Creates training materials for 3 NEON protocols (ticks, mosquitoes, beetles) and runs annual training demonstrations for a distributed, continental-scale network | 40 - 50 per year |
-| 2014 | Explore Ecology | *Science Educator*: Instructed K-6 level students; created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution  | 850 students from 3 schools |
-| 2012 | K-8 Teacher Institute | Workshop teaching STEM methods to K-8 educators  | 25 |
+| 2014 | Explore Ecology | **Environmental Education**: Instructed K-6 level students; created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution  | 850 students from 3 schools |
+| 2012 | Reuben H. Fleet Science Center | **K-8 Teacher Institute**: Workshop teaching STEM methods to K-8 educators  | 25 |
 | 2011 | University of California, San Diego | **Introduction to Ecology**: Head teaching assistant; led discussion sections and review sessions, graded exams, supported student learning | 200 |
 | 2011 | University of California, San Diego | **Biometry**: Teaching assistant; Instructed two lab sections (50 students); Labs taught basic statistical methods, appropriate applications and R statistical software | 50 |
 | 2010 | University of California, San Diego | **Ecosystems and Global Change**: Teaching assistant; led discussion sections (60 students), graded problem sets and exams; guest lectured on Trophic Dynamics | 175 |
