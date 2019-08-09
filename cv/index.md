@@ -116,6 +116,8 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 
 ## Teaching, Mentoring, Professional Service
 
+*Teaching*
+
 2014 
 
 :   **Explore Ecology** *Santa Barbara, CA* Instructed 850 students at the K-6 level, created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution
@@ -140,7 +142,17 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 
 :    **Organisms and Populations** *Tufts University* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy)
 
+*Mentorship*
+
+| Timeframe | Institution | Project Scope | Number of mentees |
+| ------------- | :-------------: | :------------: |
+| 2017 - 2018 | National Ecological Observatory Network | **NEON-sponsored Taxonomy Projects**: Directed projects related to insect taxonomy (web-based dichotomous keys), supported mentees in their application to their current PhD programs at University of California, Berkeley & Université du Québec à Montréal | 2 |
+| 2015 & 2017 | National Ecological Observatory Network | **Summer Intern Program**: Guided interns conducting independent research projects that made use of NEON data to answer continental-scale ecological questions; students went on to attend graduate programs following summer internship  | 2 |
+
+| 2009 – 2012 | University of California, San Diego | **Introduction to Research**: Mentored students conducting independent research projects; Many from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) & 30% pursued graduate school | 25 |
+
 *Peer-review*
 
 ![](//klevan.github.io/assets/images/publons.png)
-[Publons page](https://publons.com/researcher/1403013/katherine-levan/)
+
+[Publons link](https://publons.com/researcher/1403013/katherine-levan/)
