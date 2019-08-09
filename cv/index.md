@@ -144,7 +144,6 @@ Data Product Development
 1.  EE Wilson, CS Sidhu, **KE LeVan**, DA Holway. 2010. Pollen foraging behaviour of solitary Hawaiian bees revealed through molecular pollen analysis. *Molecular Ecology* 19 (21), 4823-4829 [pdf](//klevan.github.io/assets/pubs/molecol2010.pdf)
 1.  **KE LeVan** *et al.* 2009. Testing multiple hypotheses for the maintenance of male homosexual copulatory behaviour in flour beetles. *Journal of Evolutionary Biology* 22 (1), 60-70 [pdf](//klevan.github.io/assets/pubs/JEB2008.pdf)
 1.  A South, **K LeVan**, *et al.* 2008. Examining the role of cuticular hydrocarbons in firefly species recognition.  *Ethology* 114 (9), 916-924 [pdf](//klevan.github.io/assets/pubs/Ethology2008.pdf)
-1.  **KE LeVan** and N Wilson-Rich 2006. An honest and deceitful review. *Science* 314 (5801), 927-928 [pdf](//klevan.github.io/assets/pubs/science2006.pdf)
 
 *White papers & protocols*
 
@@ -155,6 +154,9 @@ Data Product Development
 1. **LeVan, KE**. 2018. TOS Science Design for Ground Beetle Abundance and Diversity. NEON.DOC.000909vB. National Ecological Observatory Network, Boulder, CO. 32 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000909vB/)
 1. **LeVan, KE**. 2018. TOS Science Design for Vectors and Pathogens. NEON.DOC.000911vB. National Ecological Observatory Network, Boulder, CO. 72 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000911vB/)
 1. **LeVan, KE**. 2018. TOS Science Design for Mosquito Abundance, Diversity, and Phenology. NEON.DOC.000910vB. National Ecological Observatory Network, Boulder, CO. 24 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000910vB/)
+
+*Book Reviews*
+1.  **KE LeVan** and N Wilson-Rich 2006. An honest and deceitful review. *Science* 314 (5801), 927-928 [pdf](//klevan.github.io/assets/pubs/science2006.pdf)
 
 See links at [Research Gate](https://www.researchgate.net/profile/Katherine_Levan) and [Google Scholar](https://scholar.google.com/citations?user=sWBs6n8AAAAJ&hl=en) for more information about my publication history.
 
