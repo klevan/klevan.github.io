@@ -11,7 +11,7 @@ header:
   caption: "[Photo credit: Wikimedia Commons](https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg)"
 ---
 
-Quick links: [Education](#education) - [Publication Record](#publication-record) - [Service](#teaching-mentoring-professional-service) - [Grants](#awarded-grants)
+Quick links: [Workshops/Presentations](#workshops-and-presentations) - [Education](#education) - [Publication Record](#publication-record) - [Service](#teaching-mentoring-professional-service) - [Grants](#awarded-grants)
 
 
 ## Relevant Experience
@@ -61,19 +61,19 @@ Data Product Development
 
 
 ## Workshops and Presentations
-2016
-:  **The Nature Conservancy** invited talk, *The NEON project: Ecology meets Big Data at a Continental Scale*
 
-2015
-:   **Entomological Society of America** [*Big Data Meets Insect Ecology: Examining Insects Continentally
-using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Program.pdf)
-
-* Conducted an interactive 2-hr workshop with 50+ attendees exploring time-series data in R. Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) 
-
-2011 - 2014
-: **Ecological Society of America** Gave 4 presentations to a national audience of ecologists on a variety of research projects; see [1](https://eco.confex.com/eco/2014/webprogram/Paper47631.html), [2](https://eco.confex.com/eco/2013/webprogram/Paper41526.html), [3](https://eco.confex.com/eco/2012/webprogram/Paper36315.html), [4](https://eco.confex.com/eco/2011/webprogram/Paper31841.html)
-
-* Presented [results of a network analysis](http://esa.org/meetings_archive/2013/webprogram/Paper41526.html) at the annual ecology meeting; study combined field ecology, molecular analysis and network statistics to reveal negative effects of invasive species on mutualistic networks
+| Year | Venue | Type | Topic | Link |
+| ------------- | :-------------: | :-------------: | :------------: | :------------: |
+| 2019 | iDigBio Annual Bioinformatics Meeting *Yale University* | contributed talk | "National Ecological Observatory Network and Extended Specimen Paradigm" | [coverage of the conference & my presentation](https://herbariumworld.wordpress.com/2019/08/05/on-the-road-learning-about-herbaria-digitization/); [link to slides](https://www.idigbio.org/wiki/images/1/12/IIC_LeVan.pdf) |
+| 2019 | Entomological Society of America *Vancouver, British Columbia* | data help desk | Conducted user engagement with the NEON data platform, introduced NEON coding packages on CRAN | [link](https://www.idigbio.org/content/ecn-neon-and-idigbio-together-entsoc2018-benefits-togetherness) |
+| 2018 | Biodiversity Information Science and Standards | contributed talk | "Sample Management Across the National Ecological Observatory Network" | [link](https://biss.pensoft.net/articles.php?id=25351) |
+| 2017 | University of Florida, Gainesville | invited talk | "Collaborations in Biodiversity Research: The NEON Program" |  |
+| 2016 | The Nature Conservancy *Boulder, CO* | invited talk | "The NEON project: Ecology meets Big Data at a Continental Scale" | |
+| 2015 | Entomological Society of America *Minneapolis, MN* | 2 hr workshop | "Big Data Meets Insect Ecology: Examining Insects Continentally using NEON Data and R" Workshop incorporated techniques such as data visualization (i.e., non-metric multidimensional scaling) and statistical analysis (i.e., permutational analysis of variance) on time series data with 50+ attendees | [link](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Program.pdf) |
+| 2014 | Ecological Society of America *Sacramento, CA* | contributed talk | "Ant-aphid mutualisms increase ant floral visitation and reduce plant reproduction via decreased pollinator visitation" | [link](https://eco.confex.com/eco/2014/webprogram/Paper47631.html) |
+| 2013 | Ecological Society of America *Minneapolis, MN* | contributed talk | "Ant-aphid mutualisms in the face of ant invasions: do novel partners affect diversity within mutualist and parasitoid guilds?" | [link](https://eco.confex.com/eco/2013/webprogram/Paper41526.html) |
+| 2012 | Ecological Society of America *Portland, OR* | poster | "The broader ecological effects of aphid tending by the Argentine ant" | [link](https://eco.confex.com/eco/2012/webprogram/Paper36315.html) |
+| 2008 | Ecological Society of America *Austin, TX* | poster | "Do mutualisms between the Argentine ant and cotton aphids structure arthropod food webs in cotton?" | [link](https://eco.confex.com/eco/2011/webprogram/Paper31841.html) |
 
 ## Awarded Grants
 
