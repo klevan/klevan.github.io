@@ -89,8 +89,6 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 | 2008 - 2009 | Jeanne Marie Messier Memorial Grantee | $2,000 |
 | 2007 | NSF Research Experience for Undergraduates Recipient | $5,000 |
 
-
-
 ## Publication Record
 
 *Peer-reviewed articles*
@@ -108,7 +106,7 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 
 *White papers & protocols*
 
-1. Thiers, B, […] K LeVan, et al. 2019. Extending U.S. Biodiversity Collections to Promote Research and Education. White Paper submitted to NSF by the Biodiversity Collections Network.
+1. Thiers, B, […] K LeVan, et al. 2019. Extending U.S. Biodiversity Collections to Promote Research and Education. White Paper submitted to NSF by the Biodiversity Collections Network. [glossy brochure](https://www.aibs.org/home/assets/BCoN_March2019_FINAL.pdf) [white paper](https://bcon.aibs.org/wp-content/uploads/2019/04/Extending-Biodiversity-Collections-Full-Report.pdf)
 1. LeVan, KE. 2019. TOS Protocol and Procedure: Mosquito Sampling. NEON.DOC.014049vK. National Ecological Observatory Network, Boulder, CO. 59 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014049vK)
 1. LeVan, KE. 2019. TOS Protocol and Procedure: Ground Beetle Sampling. NEON.DOC.014050vM. National Ecological Observatory Network, Boulder, CO. 138 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014050vM/)
 1. LeVan, KE. 2019. TOS Protocol and Procedure: Tick Sampling. NEON.DOC.014045vK. National Ecological Observatory Network, Boulder, CO. 48 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014045vK/)
@@ -116,9 +114,7 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 1. LeVan, KE. 2018. TOS Science Design for Vectors and Pathogens. NEON.DOC.000911vB. National Ecological Observatory Network, Boulder, CO. 72 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000911vB/)
 1. LeVan, KE. 2018. TOS Science Design for Mosquito Abundance, Diversity, and Phenology. NEON.DOC.000910vB. National Ecological Observatory Network, Boulder, CO. 24 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000910vB/)
 
-
-
-## Teaching and Mentoring
+## Teaching, Mentoring, Professional Service
 
 2014 
 
@@ -143,3 +139,8 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 2006 - 2008 
 
 :    **Organisms and Populations** *Tufts University* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy)
+
+*Peer-review*
+
+![](//klevan.github.io/assets/images/publons.png)
+[Publons page](https://publons.com/researcher/1403013/katherine-levan/)
