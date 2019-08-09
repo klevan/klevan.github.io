@@ -106,13 +106,13 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 
 *White papers & protocols*
 
-1. Thiers, B, […] K LeVan, et al. 2019. Extending U.S. Biodiversity Collections to Promote Research and Education. White Paper submitted to NSF by the Biodiversity Collections Network. [glossy brochure](https://www.aibs.org/home/assets/BCoN_March2019_FINAL.pdf) [white paper](https://bcon.aibs.org/wp-content/uploads/2019/04/Extending-Biodiversity-Collections-Full-Report.pdf)
-1. LeVan, KE. 2019. TOS Protocol and Procedure: Mosquito Sampling. NEON.DOC.014049vK. National Ecological Observatory Network, Boulder, CO. 59 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014049vK)
-1. LeVan, KE. 2019. TOS Protocol and Procedure: Ground Beetle Sampling. NEON.DOC.014050vM. National Ecological Observatory Network, Boulder, CO. 138 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014050vM/)
-1. LeVan, KE. 2019. TOS Protocol and Procedure: Tick Sampling. NEON.DOC.014045vK. National Ecological Observatory Network, Boulder, CO. 48 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014045vK/)
-1. LeVan, KE. 2018. TOS Science Design for Ground Beetle Abundance and Diversity. NEON.DOC.000909vB. National Ecological Observatory Network, Boulder, CO. 32 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000909vB/)
-1. LeVan, KE. 2018. TOS Science Design for Vectors and Pathogens. NEON.DOC.000911vB. National Ecological Observatory Network, Boulder, CO. 72 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000911vB/)
-1. LeVan, KE. 2018. TOS Science Design for Mosquito Abundance, Diversity, and Phenology. NEON.DOC.000910vB. National Ecological Observatory Network, Boulder, CO. 24 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000910vB/)
+1. Thiers, B, […] **K LeVan**, et al. 2019. Extending U.S. Biodiversity Collections to Promote Research and Education. White Paper submitted to NSF by the Biodiversity Collections Network. [glossy brochure](https://www.aibs.org/home/assets/BCoN_March2019_FINAL.pdf) [white paper](https://bcon.aibs.org/wp-content/uploads/2019/04/Extending-Biodiversity-Collections-Full-Report.pdf)
+1. **LeVan, KE**. 2019. TOS Protocol and Procedure: Mosquito Sampling. NEON.DOC.014049vK. National Ecological Observatory Network, Boulder, CO. 59 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014049vK)
+1. **LeVan, KE**. 2019. TOS Protocol and Procedure: Ground Beetle Sampling. NEON.DOC.014050vM. National Ecological Observatory Network, Boulder, CO. 138 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014050vM/)
+1. **LeVan, KE**. 2019. TOS Protocol and Procedure: Tick Sampling. NEON.DOC.014045vK. National Ecological Observatory Network, Boulder, CO. 48 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014045vK/)
+1. **LeVan, KE**. 2018. TOS Science Design for Ground Beetle Abundance and Diversity. NEON.DOC.000909vB. National Ecological Observatory Network, Boulder, CO. 32 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000909vB/)
+1. **LeVan, KE**. 2018. TOS Science Design for Vectors and Pathogens. NEON.DOC.000911vB. National Ecological Observatory Network, Boulder, CO. 72 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000911vB/)
+1. **LeVan, KE**. 2018. TOS Science Design for Mosquito Abundance, Diversity, and Phenology. NEON.DOC.000910vB. National Ecological Observatory Network, Boulder, CO. 24 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000910vB/)
 
 ## Teaching, Mentoring, Professional Service
 
@@ -145,7 +145,7 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 *Mentorship*
 
 | Timeframe | Institution | Project Scope | Number of mentees |
-| ------------- | :-------------: | :------------: |
+| ------------- | :-------------: | :------------: | :------------: |
 | 2017 - 2018 | National Ecological Observatory Network | **NEON-sponsored Taxonomy Projects**: Directed projects related to insect taxonomy (web-based dichotomous keys), supported mentees in their application to their current PhD programs at University of California, Berkeley & Université du Québec à Montréal | 2 |
 | 2015 & 2017 | National Ecological Observatory Network | **Summer Intern Program**: Guided interns conducting independent research projects that made use of NEON data to answer continental-scale ecological questions; students went on to attend graduate programs following summer internship  | 2 |
 
