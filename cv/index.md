@@ -92,7 +92,10 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 
 
 ## Publication Record
-1.  **KE LeVan**, SK Barney and EE Wilson Rankin. *2018.* Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism. *Oikos*. 127 (8): 1132-1141 
+
+*Peer-reviewed articles*
+
+1.  **KE LeVan**, SK Barney and EE Wilson Rankin. 2018. Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism. *Oikos*. 127 (8): 1132-1141 
 1.  D Hoekman, **KE LeVan**, *et al.* 2017. Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere* 8(4): e01744 [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1744/full)
 1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. 2016. Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere* 7 (12):e01627. [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1627/epdf)
 1.  J Ludka, **KE LeVan** and DA Holway. 2015. Infiltration of a facultative ant–plant mutualism by the introduced Argentine ant: effects on mutualist diversity and mutualism benefits. *Ecological Entomology* 40 (4), 437-443 [pdf](//klevan.github.io/assets/pubs/ecolent2015.pdf)
@@ -102,6 +105,18 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 1.  **KE LeVan** *et al.* 2009. Testing multiple hypotheses for the maintenance of male homosexual copulatory behaviour in flour beetles. *Journal of Evolutionary Biology* 22 (1), 60-70 [pdf](//klevan.github.io/assets/pubs/JEB2008.pdf)
 1.  A South, **K LeVan**, *et al.* 2008. Examining the role of cuticular hydrocarbons in firefly species recognition.  *Ethology* 114 (9), 916-924 [pdf](//klevan.github.io/assets/pubs/Ethology2008.pdf)
 1.  **KE LeVan** and N Wilson-Rich 2006. An honest and deceitful review. *Science* 314 (5801), 927-928 [pdf](//klevan.github.io/assets/pubs/science2006.pdf)
+
+*White papers & protocols*
+
+1. Thiers, B, […] K LeVan, et al. 2019. Extending U.S. Biodiversity Collections to Promote Research and Education. White Paper submitted to NSF by the Biodiversity Collections Network.
+1. LeVan, KE. 2019. TOS Protocol and Procedure: Mosquito Sampling. NEON.DOC.014049vK. National Ecological Observatory Network, Boulder, CO. 59 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014049vK)
+1. LeVan, KE. 2019. TOS Protocol and Procedure: Ground Beetle Sampling. NEON.DOC.014050vM. National Ecological Observatory Network, Boulder, CO. 138 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014050vM/)
+1. LeVan, KE. 2019. TOS Protocol and Procedure: Tick Sampling. NEON.DOC.014045vK. National Ecological Observatory Network, Boulder, CO. 48 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.014045vK/)
+1. LeVan, KE. 2018. TOS Science Design for Ground Beetle Abundance and Diversity. NEON.DOC.000909vB. National Ecological Observatory Network, Boulder, CO. 32 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000909vB/)
+1. LeVan, KE. 2018. TOS Science Design for Vectors and Pathogens. NEON.DOC.000911vB. National Ecological Observatory Network, Boulder, CO. 72 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000911vB/)
+1. LeVan, KE. 2018. TOS Science Design for Mosquito Abundance, Diversity, and Phenology. NEON.DOC.000910vB. National Ecological Observatory Network, Boulder, CO. 24 pp. [link](http://data.neonscience.org/api/v0/documents/NEON.DOC.000910vB/)
+
+
 
 ## Teaching and Mentoring
 
