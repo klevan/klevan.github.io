@@ -116,31 +116,17 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 
 ## Teaching, Mentoring, Professional Service
 
-*Teaching*
+*Teaching & Training*
 
-2014 
-
-:   **Explore Ecology** *Santa Barbara, CA* Instructed 850 students at the K-6 level, created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution
-
-2012
-
-:   **K-8 Teacher Institute** *Reuben H. Fleet Science Center, San Diego* Led a workshop session teaching STEM methods to K-8 educators
-
-2009 - 2012
-
-:   **Introduction to Research** *University of California, San Diego* Acted as a research mentor to 24 students conducting independent research in the Holway lab. Many were from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) and 25% pursued graduate school afterward
-
-2010 - 2011 
-
-:   **Introduction to Ecology** *University of California, San Diego* As head teaching assistant I led discussion sections and review sessions, graded exams, supported student learning
-
-:   **Biometry** *University of California, San Diego* Instructed two lab sections (50 students); Labs taught basic statistical methods, appropriate applications and R statistical software
-
-:   **Ecosystems and Global Change** *University of California, San Diego* Teaching assistant for Dr. Elsa Cleland for a class of 175 students, led two discussion sections (60 students), graded problem sets and exams; Gave a 75 minute guest lecture on Trophic Dynamics 
-
-2006 - 2008 
-
-:    **Organisms and Populations** *Tufts University* Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy)
+| Timeframe | Institution or Program | Course Name | Number of students/participants |
+| ------------- | :-------------: | :------------: | :------------: |
+| 2015 - 2019 | National Ecological Observatory Network | **NEON Standard Operating Procedures**: Creates training materials for 3 NEON protocols (ticks, mosquitoes, beetles) and runs annual training demonstrations for a distributed, continental-scale network | 40 - 50 per year |
+| 2014 | Explore Ecology | *Science Educator*: Instructed K-6 level students; created and delivered inquiry-based curriculum that emphasized California natural history, plant biology and evolution  | 850 students from 3 schools |
+| 2012 | K-8 Teacher Institute | Workshop teaching STEM methods to K-8 educators  | 25 |
+| 2011 | University of California, San Diego | **Introduction to Ecology**: Head teaching assistant; led discussion sections and review sessions, graded exams, supported student learning | 200 |
+| 2011 | University of California, San Diego | **Biometry**: Teaching assistant; Instructed two lab sections (50 students); Labs taught basic statistical methods, appropriate applications and R statistical software | 50 |
+| 2010 | University of California, San Diego | **Ecosystems and Global Change**: Teaching assistant; led discussion sections (60 students), graded problem sets and exams; guest lectured on Trophic Dynamics | 175 |
+| 2006 - 2008 | Tufts University | **Organisms and Populations**: Teaching assistant; Taught introductory biology lab sections. Labs explore the field of organismal biology, with emphasis on major disciplines within the field (i.e. microscopy, taxonomy, bioinformatics, genetics, evolution, physiology, and anatomy) | 30 students each semester |
 
 *Mentorship*
 
@@ -148,11 +134,10 @@ Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,
 | ------------- | :-------------: | :------------: | :------------: |
 | 2017 - 2018 | National Ecological Observatory Network | **NEON-sponsored Taxonomy Projects**: Directed projects related to insect taxonomy (web-based dichotomous keys), supported mentees in their application to their current PhD programs at University of California, Berkeley & Université du Québec à Montréal | 2 |
 | 2015 & 2017 | National Ecological Observatory Network | **Summer Intern Program**: Guided interns conducting independent research projects that made use of NEON data to answer continental-scale ecological questions; students went on to attend graduate programs following summer internship  | 2 |
-
 | 2009 – 2012 | University of California, San Diego | **Introduction to Research**: Mentored students conducting independent research projects; Many from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) & 30% pursued graduate school | 25 |
 
 *Peer-review*
 
 ![](//klevan.github.io/assets/images/publons.png)
 
-[Publons link](https://publons.com/researcher/1403013/katherine-levan/)
+See my page at [Publons](https://publons.com/researcher/1403013/katherine-levan/) for additional details.
