@@ -79,8 +79,8 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 | Year(s) Awarded | Grant Name | Total Amount |
 | ------------- | :-------------: | :------------: |
-| 2017 | Department of State \n "Mosquito Talk: Building and Expanding International Network of 
-Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 \n (period of performance: 23 months) |
+| 2017 | Department of State "Mosquito Talk: Building and Expanding International Network of 
+Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) |
 | 2012 – 2013 | Academic Reward for College Scientists (ARCS) Foundation Scholar | $10,000 |
 | 2009 - 2012 | NSF Graduate Research Fellowship | $90,000 |
 | 2009 - 2012 | Graduate Student Senate Travel Grantee | $2,000 |
