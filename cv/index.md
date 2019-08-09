@@ -97,7 +97,7 @@ Data Product Development
 
 ## Education
 
-| Year Awarded | Degree | Subject(s) | Institution | Honors |
+| Year | Degree | Subject(s) | Institution | Honors |
 | ------------- | :-------------: | :-------------: | :------------: | :------------: |
 | 2013 | PhD | Biology | **University of California, San Diego** (La Jolla, CA) | GPA: 4.0; Dissertation Title: "The broader ecological effects of species invasion on protection mutualisms" |
 | 2008 | BS | Biology & Spanish | **Tufts University** (Medford, MA) | Cum laude; highest thesis honors |
