@@ -13,9 +13,9 @@ header:
 
 Quick links:
 
-[Work Experience](#work-experience) - [Technical Expertise](#technical-expertise) - [Workshops/Presentations](#workshops-and-presentations) - [Education](#education)
+[Work Experience](#work-experience) - [Technical Expertise](#technical-expertise) - [Workshops/Presentations](#workshops-and-presentations)
 
-[Publication Record](#publication-record) - [Service](#teaching-mentoring-professional-service) - [Grants](#awarded-grants)
+[Education](#education) - [Publication Record](#publication-record) - [Service](#teaching-mentoring-professional-service) - [Grants](#awarded-grants)
 
 
 ## Work Experience
@@ -24,25 +24,20 @@ Quick links:
 
 Research scientist leading the Insect Ecology sampling program for an NSF-funded national observatory
 
-:  Develops pipelines and scripts to deliver quality data products on a public data portal (e.g., Mosquito diversity and pathogen-status); algorithms performed numerous QA/QC checks and modifications on raw data (data available [here](http://data.neonscience.org/browse-data?showTheme=org) from the NEON data portal)
+* Develops pipelines and scripts to deliver quality data products on a public data portal (e.g., Mosquito diversity and pathogen-status); algorithms performed numerous QA/QC checks and modifications on raw data (data available [here](http://data.neonscience.org/browse-data?showTheme=org) from the NEON data portal)
 
 Assures data quality & usability
 
-:  Designs data collection programs that provide global change data with policy applications
-
-:  Adjusts & refines research program to allow for transdisciplinary studies via co-location of sampling
-
-:  Compiles & reviews data from national monitoring to ensure relevance to global change research 
+* Designs data collection programs that provide global change data with policy applications
+* Adjusts & refines research program to allow for transdisciplinary studies via co-location of sampling
+* Compiles & reviews data from national monitoring to ensure relevance to global change research 
 
 Effectively communicates for successful outcomes
 
-:  Serves as a technical advisor; creates reports for senior project scientists & high-level officials at NSF
-
-:  Produces data-driven, dynamically-generated reports on monitoring efforts for regulatory committees
-
-:  Addresses concerns over RT&E species: adjusted sampling methods, coordinated Section 7 approval
-
-:  Co-manages a large (~100 full-time, ~400 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
+* Serves as a technical advisor; creates reports for senior project scientists & high-level officials at NSF
+* Produces data-driven, dynamically-generated reports on monitoring efforts for regulatory committees
+* Addresses concerns over RT&E species: adjusted sampling methods, coordinated Section 7 approval
+* Co-manages a large (~100 full-time, ~400 seasonal) team of technicians implementing collection protocols in the continental US, Alaska, Hawaii and Puerto Rico
 
 **University of California, San Diego** *La Jolla, CA* Graduate Researcher (Sep 2008 - Dec 2013)
 
@@ -50,31 +45,23 @@ Planned, designed, and implemented a series of scientific studies to support ana
 
 Modeling & Data Analyses
 
-:  Created models describing of negative effects of invasion on mutualisms and local ecosystem diversity. Published results in Ecology (2015); Performed ecological modeling selection with AIC & spatial statistical packages in R
-
-:  California Environmental Quality Act (Course Final Project): Prepared initial environmental & social assessments for environmental impact analysis; Compiled natural resource & topographic data to create maps & presentation materials
-
-:  Compiled natural resource & topographic data to create maps & presentation materials
-
-:  Integrating data collected by a team of 26 undergraduate and volunteers into a large database that contained thousands of observations
-
-:  Applied geographic and cartographic principles to resolve issues in geospatial database construction; using a combination of spatial statistics methods in ArcGIS software, and writing analysis and modeling scripts in R to determine effects of invasion on local communities
+* Created models describing of negative effects of invasion on mutualisms and local ecosystem diversity. Published results in Ecology (2015); Performed ecological modeling selection with AIC & spatial statistical packages in R
+* California Environmental Quality Act (Course Final Project): Prepared initial environmental & social assessments for environmental impact analysis; Compiled natural resource & topographic data to create maps & presentation materials
+* Compiled natural resource & topographic data to create maps & presentation materials
+* Integrating data collected by a team of 25 undergraduate and volunteers into a large database that contained thousands of observations
+* Applied geographic and cartographic principles to resolve issues in geospatial database construction; using a combination of spatial statistics methods in ArcGIS software, and writing analysis and modeling scripts in R to determine effects of invasion on local communities
 
 Collaboration & Teamwork
 
-:  Working with a team to acquire and share datasets from a variety of sources; made recommendations as to how to integrate publically available data from NOAA NCDC efficiently
-
-:  Advising team members on database design and management issues
-
-:  Hiring and supervising students conducting data entry into a Microsoft database
-
-:  Mentored 25 students conducting independent research projects; Many from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) & 30% pursued graduate school 
+* Working with a team to acquire and share datasets from a variety of sources; made recommendations as to how to integrate publically available data from NOAA NCDC efficiently
+* Advising team members on database design and management issues
+* Hiring and supervising students conducting data entry into a Microsoft database
+* Mentored 25 students conducting independent research projects; Many from underserved populations (16 women, 2 Native Americans, 3 Hispanics, 1 Hawaiian) & 30% pursued graduate school 
 
 Communication
 
-:  Presented results and contributed to regular reports to subject matter experts, ecologists, and statisticians on project progress and deliverables. Also presented research results at scientific meetings and other universities by invitation.
-
-:  Gave lectures and in depth tutorials on statistical modeling in R to 50+ undergraduate and graduate students as part of teaching a Biometry course (2011)
+* Presented results and contributed to regular reports to subject matter experts, ecologists, and statisticians on project progress and deliverables. Also presented research results at scientific meetings and other universities by invitation.
+* Gave lectures and in depth tutorials on statistical modeling in R to 50+ undergraduate and graduate students as part of teaching a Biometry course (2011)
 
 ## Technical Expertise
 
