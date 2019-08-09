@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 layout: single
-title: Katherine E. LeVan
+title: Curriculum vitae
 tags: [cv]
 comments: false
 permalink: /cv/
@@ -10,6 +10,9 @@ header:
   image: /assets/images/mountain.jpg
   caption: "[Photo credit: Wikimedia Commons](https://en.wikipedia.org/wiki/Portal:United_States/Selected_panorama#/media/File:Mount_Ellinor,_Mount_Washington_Panorama.jpg)"
 ---
+
+Quick links: [Education](#education) - [Publication Record](#publication-record) - [Service](#teaching-mentoring-professional-service) - [Grants](#awarded-grants)
+
 
 ## Relevant Experience
 
@@ -51,10 +54,10 @@ Data Product Development
 
 ## Education
 
-| Year Awarded | Degree | Institution | Honors |
-| ------------- | :-------------: | :------------: | :------------: |
-| 2013 | PhD, Biology | **University of California, San Diego** (La Jolla, CA) | GPA: 4.0; Dissertation Title: "The broader ecological effects of species invasion on protection mutualisms" |
-| 2008 | BS, Biology & Spanish | **Tufts University** (Medford, MA) | Cum laude; highest thesis honors |
+| Year Awarded | Degree | Subject(s) | Institution | Honors |
+| ------------- | :-------------: | :-------------: | :------------: | :------------: |
+| 2013 | PhD | Biology | **University of California, San Diego** (La Jolla, CA) | GPA: 4.0; Dissertation Title: "The broader ecological effects of species invasion on protection mutualisms" |
+| 2008 | BS | Biology & Spanish | **Tufts University** (Medford, MA) | Cum laude; highest thesis honors |
 
 
 ## Workshops and Presentations
@@ -76,8 +79,7 @@ using NEON Data and R*](http://entsoc.org/PDF/2015/2015_ESA_Annual_Meeting_Progr
 
 | Year(s) Awarded | Grant Name | Total Amount |
 | ------------- | :-------------: | :------------: |
-| 2017 | Department of State "Mosquito Talk: Building and Expanding International Network of 
-Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) |
+| 2017 | Department of State "Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) |
 | 2012 – 2013 | Academic Reward for College Scientists (ARCS) Foundation Scholar | $10,000 |
 | 2009 - 2012 | NSF Graduate Research Fellowship | $90,000 |
 | 2009 - 2012 | Graduate Student Senate Travel Grantee | $2,000 |
