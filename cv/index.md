@@ -121,24 +121,24 @@ Data Product Development
 
 ## Awarded Grants
 
-| Year(s) Awarded | Grant Name | Total Amount |
-| ------------- | :-------------: | :------------: |
-| 2020 - 2022 | US Geological Survey - Powell Center "Forecasting Mosquito Phenology in a Shifting Climate: Synthesizing Continental-scale Monitoring Data" | $141,665 (period of performance: 24 months) |
-| 2017 - 2019 | Department of State "Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) |
-| 2012 – 2013 | Academic Reward for College Scientists (ARCS) Foundation Scholar | $10,000 |
-| 2009 - 2012 | NSF Graduate Research Fellowship | $90,000 |
-| 2009 - 2012 | Graduate Student Senate Travel Grantee | $2,000 |
-| 2010 - 2011 | Mildred E Mathias Graduate Student Research Grant | $2,644 |
-| 2008 - 2009 | Cell Molecular Training Grantee | $800 |
-| 2008 - 2009 | Jeanne Marie Messier Memorial Grantee | $2,000 |
-| 2007 | NSF Research Experience for Undergraduates Recipient | $5,000 |
+| Year(s) Awarded | Grant Name | Total Amount | Link |
+| ------------- | :-------------: | :------------: | :------------: |
+| 2020 - 2022 | US Geological Survey - Powell Center "Forecasting Mosquito Phenology in a Shifting Climate: Synthesizing Continental-scale Monitoring Data" | $141,665 (period of performance: 24 months) | [link](https://www.usgs.gov/centers/powell-ctr/science/all-working-groups) |
+| 2017 - 2019 | Department of State "Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) | [link](https://www.grants.gov/web/grants/search-grants.html?keywords=mosquito%20talk) |
+| 2012 – 2013 | Academic Reward for College Scientists (ARCS) Foundation Scholar | $10,000 | [link](https://arcsfoundation.org/scholars/about-arcs-scholars) |
+| 2009 - 2012 | NSF Graduate Research Fellowship | $90,000 | [link](https://www.nsfgrfp.org/) |
+| 2009 - 2012 | Graduate Student Senate Travel Grantee | $2,000 | |
+| 2010 - 2011 | Mildred E Mathias Graduate Student Research Grant | $2,644 | [link](https://ucnrs.org/mathias-grants/) |
+| 2008 - 2009 | Cell Molecular Training Grantee | $800 | |
+| 2008 - 2009 | Jeanne Marie Messier Memorial Grantee | $2,000 | |
+| 2007 | NSF Research Experience for Undergraduates Recipient | $5,000 | [link](https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517) |
 
 ## Publication Record
 
 *Peer-reviewed articles*
 
-1.	Egli, L, **KE LeVan** and TT Work. 2020. Error rates of parataxonomists in a national-scale biomonitoring program does not increase across regions with increasing species richness. *Ecosphere* 11 (4):e03035. DOI: 10.1002/ecs2.3035
-1.	Lendemer, J. […], **KE LeVan** *et al.* 2019. The Extended Specimen Network: A Strategy to Enhance US Biodiversity Collections, Promote Research and Education. Bioscience.70(1): 23–30. DOI: 10.1093/biosci/biz140
+1. Egli, L, **KE LeVan** and TT Work. 2020. Error rates of parataxonomists in a national-scale biomonitoring program does not increase across regions with increasing species richness. *Ecosphere* 11 (4):e03035. DOI: 10.1002/ecs2.3035
+1. Lendemer, J. […], **KE LeVan** *et al.* 2019. The Extended Specimen Network: A Strategy to Enhance US Biodiversity Collections, Promote Research and Education. Bioscience.70(1): 23–30. DOI: 10.1093/biosci/biz140
 1.  **KE LeVan**, SK Barney and EE Wilson Rankin. 2018. Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism. *Oikos*. 127 (8): 1132-1141 
 1.  D Hoekman, **KE LeVan**, *et al.* 2017. Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere* 8(4): e01744 [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1744/full)
 1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. 2016. Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere* 7 (12):e01627. [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1627/epdf)
