@@ -124,7 +124,7 @@ Data Product Development
 | Year(s) Awarded | Grant Name | Total Amount | Link |
 | ------------- | :-------------: | :------------: | :------------: |
 | 2020 - 2022 | US Geological Survey - Powell Center "Forecasting Mosquito Phenology in a Shifting Climate: Synthesizing Continental-scale Monitoring Data" | $141,665 (period of performance: 24 months) | [link](https://www.usgs.gov/centers/powell-ctr/science/all-working-groups) |
-| 2017 - 2019 | Department of State "Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) | [link](https://www.grants.gov/web/grants/search-grants.html?keywords=mosquito%20talk) |
+| 2017 - 2019 | Department of State "Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) | [link](https://www.grants.gov/web/grants/view-opportunity.html?oppId=293394) |
 | 2012 – 2013 | Academic Reward for College Scientists (ARCS) Foundation Scholar | $10,000 | [link](https://arcsfoundation.org/scholars/about-arcs-scholars) |
 | 2009 - 2012 | NSF Graduate Research Fellowship | $90,000 | [link](https://www.nsfgrfp.org/) |
 | 2009 - 2012 | Graduate Student Senate Travel Grantee | $2,000 | |
