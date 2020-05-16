@@ -107,6 +107,7 @@ Data Product Development
 
 | Year | Venue | Type | Topic | Link |
 | ------------- | :-------------: | :-------------: | :------------: | :------------: |
+| 2020 | US Geological Survey - National Data Catalogue Workshop *Boulder, CO* | 3 day workshop | "National Digital Catalog (NDC) collections metadata workshop" | |
 | 2019 | iDigBio Annual Bioinformatics Meeting *Yale University* | contributed talk | "National Ecological Observatory Network and Extended Specimen Paradigm" | [coverage of the conference & my presentation](https://herbariumworld.wordpress.com/2019/08/05/on-the-road-learning-about-herbaria-digitization/); [link to slides](https://www.idigbio.org/wiki/images/1/12/IIC_LeVan.pdf) |
 | 2019 | Entomological Society of America *Vancouver, British Columbia* | data help desk | Conducted user engagement with the NEON data platform, introduced NEON coding packages on CRAN | [link](https://www.idigbio.org/content/ecn-neon-and-idigbio-together-entsoc2018-benefits-togetherness) |
 | 2018 | Biodiversity Information Science and Standards | contributed talk | "Sample Management Across the National Ecological Observatory Network" | [link](https://biss.pensoft.net/articles.php?id=25351) |
@@ -122,7 +123,9 @@ Data Product Development
 
 | Year(s) Awarded | Grant Name | Total Amount |
 | ------------- | :-------------: | :------------: |
-| 2017 | Department of State "Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) |
+| 2020 - 2022 | US Geological Survey - Powell Center "Forecasting Mosquito Phenology in a Shifting Climate: Synthesizing Continental-scale
+Monitoring Data" | $141,665 (period of performance: 24 months) |
+| 2017 - 2019 | Department of State "Mosquito Talk: Building and Expanding International Network of Public Health Communicators to Engage on Zika and Vector Borne Diseases" | $468,728 (period of performance: 23 months) |
 | 2012 – 2013 | Academic Reward for College Scientists (ARCS) Foundation Scholar | $10,000 |
 | 2009 - 2012 | NSF Graduate Research Fellowship | $90,000 |
 | 2009 - 2012 | Graduate Student Senate Travel Grantee | $2,000 |
@@ -135,6 +138,8 @@ Data Product Development
 
 *Peer-reviewed articles*
 
+1.	Egli, L, **KE LeVan** and TT Work. 2020. Error rates of parataxonomists in a national-scale biomonitoring program does not increase across regions with increasing species richness. *Ecosphere* 11 (4):e03035. DOI: 10.1002/ecs2.3035
+1.	Lendemer, J. […], **KE LeVan** *et al.* 2019. The Extended Specimen Network: A Strategy to Enhance US Biodiversity Collections, Promote Research and Education. Bioscience.70(1): 23–30. DOI: 10.1093/biosci/biz140
 1.  **KE LeVan**, SK Barney and EE Wilson Rankin. 2018. Introduced ants reduce interaction diversity in a multi-species, ant-aphid mutualism. *Oikos*. 127 (8): 1132-1141 
 1.  D Hoekman, **KE LeVan**, *et al.* 2017. Design for Ground Beetle Abundance and Diversity Sampling within the National Ecological Observatory Network. *Ecosphere* 8(4): e01744 [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1744/full)
 1.  AS Thorpe, DT Barnett, SC Elmendorf, ES Hinckley, D Hoekman, KD Jones, **KE LeVan**, CL Meier, LF Stanish and KM Thibault. 2016. Introduction to the Sampling Designs of the National Ecological Observatory Network Terrestrial Observation System. *Ecosphere* 7 (12):e01627. [link](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1627/epdf)
