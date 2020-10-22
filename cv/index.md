@@ -107,6 +107,7 @@ Data Product Development
 
 | Year | Venue | Type | Topic | Link |
 | ------------- | :-------------: | :-------------: | :------------: | :------------: |
+| 2020 | Biodiversity Information Standards (TDWG) Annual Meeting *virtually* | presentation | "Specimens in a Broader Context: The National Ecological Observatory Network and the extended specimen" | [abstract](https://biss.pensoft.net/article/59208/) [video](https://www.youtube.com/watch?v=r3UI3xe6uBU) |
 | 2020 | US Geological Survey - National Data Catalogue Workshop *Boulder, CO* | 3 day workshop | "National Digital Catalog (NDC) collections metadata workshop" | |
 | 2019 | iDigBio Annual Bioinformatics Meeting *Yale University* | contributed talk | "National Ecological Observatory Network and Extended Specimen Paradigm" | [coverage of the conference & my presentation](https://herbariumworld.wordpress.com/2019/08/05/on-the-road-learning-about-herbaria-digitization/); [link to slides](https://www.idigbio.org/wiki/images/1/12/IIC_LeVan.pdf) |
 | 2019 | Entomological Society of America *Vancouver, British Columbia* | data help desk | Conducted user engagement with the NEON data platform, introduced NEON coding packages on CRAN | [link](https://www.idigbio.org/content/ecn-neon-and-idigbio-together-entsoc2018-benefits-togetherness) |
